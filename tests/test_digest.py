@@ -117,6 +117,9 @@ class RenderTests(unittest.TestCase):
         self.assertIn('id="archive"', body)
         self.assertIn("438/2026/1", body)  # full Série I list uses real act numbers
         self.assertNotIn("<html", render._fragment(render.TITLE, body))
+        # .view sets display:flex, which would override the hidden attribute
+        # and stack every day on one page unless this rule is present.
+        self.assertIn("[hidden]{display:none!important}", render.CSS)
 
 
 if __name__ == "__main__":

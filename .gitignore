@@ -5,3 +5,5 @@ __pycache__/
 site/
 # private claude.ai link for the personal copy
 artifact_url.txt
+# local editor/preview config
+.claude/

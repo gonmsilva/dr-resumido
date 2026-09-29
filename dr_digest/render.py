@@ -109,6 +109,7 @@ CSS = """
 :root[data-theme="dark"]{--bg:#0f1412;--surface:#161d1a;--ink:#e4ebe7;--muted:#93a39c;--line:#27312d;
 --accent:#62c393;--accent-soft:#16291f;--high:#f28b82;--high-soft:#351a18;--chip:#1f2824;color-scheme:dark}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
 main{max-width:720px;margin:0 auto;padding-inline:16px;padding-block:24px 72px}
 a{color:var(--accent);text-underline-offset:2px}
