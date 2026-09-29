@@ -6,10 +6,12 @@
     python3 -m dr_digest render            validate digests and build site/
     python3 -m dr_digest check DATE        validate one digest without building
     python3 -m dr_digest backfill FROM TO  archive past issues (YYYY-MM-DD, inclusive)
+    python3 -m dr_digest publish           commit data/ and digests/ and push (rebuilds the public site)
 """
 
 from __future__ import annotations
 
+import subprocess
 import sys
 from datetime import date as Date, timedelta
 
@@ -100,6 +102,27 @@ def cmd_backfill(start: str, end: str) -> int:
     return 1 if failures else 0
 
 
+def cmd_publish() -> int:
+    """Commit new archive and digest files and push; GitHub Pages rebuilds the site."""
+    def git(*args: str) -> subprocess.CompletedProcess:
+        return subprocess.run(["git", "-C", str(store.ROOT), *args], capture_output=True, text=True)
+
+    git("add", "data", "digests")
+    staged = git("diff", "--cached", "--name-only").stdout.split()
+    if not staged:
+        print("nothing new to publish")
+        return 0
+    dates = sorted({p.rsplit("/", 1)[-1][:10] for p in staged if p.startswith("digests/")})
+    msg = f"Digest {', '.join(dates)}" if dates else "Update archive"
+    for step in (("commit", "-m", msg), ("push", "--quiet")):
+        r = git(*step)
+        if r.returncode:
+            print(f"git {step[0]} failed:\n{r.stderr or r.stdout}", file=sys.stderr)
+            return 1
+    print(f"published: {msg} ({len(staged)} files)")
+    return 0
+
+
 def main(argv: list[str]) -> int:
     if not argv:
         print(__doc__)
@@ -117,6 +140,8 @@ def main(argv: list[str]) -> int:
         return cmd_check(args[0])
     if cmd == "backfill" and len(args) == 2:
         return cmd_backfill(*args)
+    if cmd == "publish":
+        return cmd_publish()
     print(__doc__)
     return 2
 

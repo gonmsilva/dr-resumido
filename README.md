@@ -2,6 +2,8 @@
 
 Daily highlights (in Portuguese) from Portugal's Diário da República.
 
+**Site:** https://gonmsilva.github.io/dr-resumido/
+
 Every morning a scheduled Claude task:
 
 1. archives that day's Série I and Série II RSS feeds into `data/`
@@ -19,6 +21,7 @@ python3 -m dr_digest fetch             # archive today's feeds
 python3 -m dr_digest pending           # dates with data but no digest
 python3 -m dr_digest candidates DATE   # what the summarizer reads
 python3 -m dr_digest render            # validate digests, build site/
+python3 -m dr_digest publish           # commit data/ + digests/ and push; Pages rebuilds the site
 python3 -m unittest discover -s tests -t .
 ```
 

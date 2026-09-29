@@ -15,7 +15,10 @@ Work from `~/Projects/dr-digest`.
 4. Write `digests/<DATE>.json` (schema below), then run
    `python3 -m dr_digest render`. If it reports errors for that date, fix the
    JSON and render again.
-5. Publish `site/artifact.html` as the "Diário da República Resumido" artifact (see
+5. Run `python3 -m dr_digest publish`. It commits the new data and digests
+   and pushes them to GitHub, which rebuilds the public site
+   (https://gonmsilva.github.io/dr-resumido/). Then publish
+   `site/artifact.html` as the "Diário da República Resumido" artifact (see
    "Publishing" below).
 6. Reply with the overview sentence(s) for each new date and the number of
    highlights, nothing more.
