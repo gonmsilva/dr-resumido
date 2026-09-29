@@ -172,6 +172,17 @@ h2.date a{color:var(--ink);text-decoration:none}
 h2.date a:hover{color:var(--accent)}
 .foot{margin-top:56px;padding-top:16px;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}
 .foot p{margin:0 0 6px;max-width:65ch}
+.nav.bottom{margin:40px 0 0;border-bottom:0}
+@media (max-width:520px){
+.topbar-inner{gap:10px;padding-block:8px}
+.brand{font-size:14px}
+h1{margin-top:8px}
+.meta{font-size:13px}
+.overview{font-size:17px;line-height:1.55}
+.card{padding:14px 16px}
+.card h3{font-size:17px}
+h2{margin-top:30px}
+}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 """
 
@@ -201,6 +212,8 @@ SCRIPT = """
                (a.dataset.latest && hit.id === views[0].id);
       if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
     });
+    var cur = document.querySelector('.topics a[aria-current]');
+    if (cur) cur.scrollIntoView({block: 'nearest', inline: 'center'});
     window.scrollTo(0, 0);
   }
   window.addEventListener('hashchange', show);
@@ -298,7 +311,9 @@ def render_day(digest: dict, day: dict, prev_date: str | None, next_date: str | 
     parts.append(f'<h2>Série I completa</h2><details><summary>Os {len(s1)} atos da Série I</summary><ul class="plain">')
     for it in s1:
         parts.append(f'<li><span class="act">{_link(it, _act_label(it))}</span><div class="small">{_e(it["summary"])}</div></li>')
-    parts.append("</ul></details></section>")
+    parts.append("</ul></details>")
+    parts.append("".join(nav).replace('class="nav"', 'class="nav bottom"', 1))
+    parts.append("</section>")
     return "\n".join(parts)
 
 
