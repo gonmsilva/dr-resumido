@@ -1,0 +1,41 @@
+{
+  "date": "2026-02-03",
+  "overview": "O dia é marcado pela resposta do Governo aos danos da tempestade Kristin, com apoios financeiros e linhas de crédito para a reconstrução da região Centro. Fora isso, destaque para a atualização do salário mínimo na Madeira e das tabelas de retenção na fonte nos Açores.",
+  "highlights": [
+    {
+      "id": "1034985574",
+      "headline": "Governo aprova apoios financeiros às zonas afetadas pela tempestade Kristin",
+      "explanation": "Fixa o regime de apoios financeiros a conceder na sequência da declaração de situação de calamidade provocada pela tempestade Kristin, para famílias e empresas atingidas.",
+      "tags": ["estado", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1033291312",
+      "headline": "Retribuição mínima mensal garantida atualizada na Madeira",
+      "explanation": "A Assembleia Legislativa da Madeira aprova o novo valor do salário mínimo a vigorar na região em 2026.",
+      "tags": ["trabalho"],
+      "importance": "medium"
+    },
+    {
+      "id": "1033397644",
+      "headline": "Novas tabelas de retenção na fonte para os Açores em 2026",
+      "explanation": "Aprovadas as tabelas de retenção na fonte de IRS sobre salários e pensões para residentes na Região Autónoma dos Açores, a aplicar durante 2026.",
+      "tags": ["impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1034970983",
+      "headline": "Consulta pública para ligação à rede elétrica em zona de grande procura",
+      "explanation": "Abre o período em que empresas e promotores podem manifestar interesse em obter capacidade de ligação à rede elétrica na zona de grande procura declarada no continente.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1034987175", "note": "Criadas linhas de crédito para apoiar a reconstrução das zonas afetadas pela tempestade Kristin.", "tags": ["empresas", "estado"] },
+    { "id": "1034987176", "note": "Criada uma estrutura de missão dedicada à reconstrução da região Centro do país.", "tags": ["estado"] },
+    { "id": "1034780340", "note": "Atualizado o valor de referência da prestação social para a inclusão.", "tags": ["social"] },
+    { "id": "1033291305", "note": "Assembleia da República recomenda ao Governo medidas contra a violência sexual baseada em imagens e a violência doméstica.", "tags": ["social", "justica"] },
+    { "id": "1033291310", "note": "Autorizada despesa para aquisição de câmaras portáteis individuais para a GNR e a PSP em 2026.", "tags": ["estado"] }
+  ]
+}

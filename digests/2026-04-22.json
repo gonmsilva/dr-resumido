@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-22",
+  "overview": "Dia muito administrativo, dominado por nomeações, promoções na GNR e regulamentos municipais. A única novidade com impacto real é a reabertura da pesca da sardinha a partir de maio.",
+  "highlights": [
+    {
+      "id": "1088525405",
+      "headline": "Pesca da sardinha reabre a 4 de maio",
+      "explanation": "O Governo autoriza a reabertura da pesca da sardinha a partir das 00:00 horas de 4 de maio de 2026, depois do período de veda.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1088525412",
+      "note": "Novos regulamentos do Instituto dos Vinhos do Douro e do Porto sobre as câmaras de provadores e a proteção das denominações de origem Douro e Porto.",
+      "tags": ["empresas"]
+    },
+    {
+      "id": "1087907685",
+      "note": "Governo institui a iniciativa Capital Portuguesa da Cultura para 2028 e 2029 e aprova o regulamento do concurso.",
+      "tags": ["estado"]
+    }
+  ]
+}

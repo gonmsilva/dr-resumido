@@ -1,0 +1,32 @@
+{
+  "date": "2026-01-07",
+  "overview": "Dia dominado pela energia e pela habitação: o Governo reforça a garantia pública ao crédito habitação para jovens e a ERSE fixa as tarifas elétricas para 2026-2029. Passa também uma lei que reforça as penalizações a maquinistas que trabalhem sob efeito de álcool ou drogas.",
+  "highlights": [
+    {
+      "id": "996320819",
+      "headline": "Estado reforça garantia pública ao crédito habitação para jovens até 35 anos",
+      "explanation": "Um despacho do Ministério das Finanças reforça a garantia pessoal do Estado a bancos para viabilizar mais crédito à habitação própria permanente destinado a jovens até aos 35 anos.",
+      "tags": ["habitacao", "banca"],
+      "importance": "high"
+    },
+    {
+      "id": "998612388",
+      "headline": "ERSE fixa tarifas de eletricidade para 2026 e regras até 2029",
+      "explanation": "A Entidade Reguladora dos Serviços Energéticos aprovou as tarifas e preços da eletricidade para 2026, bem como os parâmetros que vão vigorar no período de regulação 2026-2029, com impacto direto na fatura de famílias e empresas.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "998488160",
+      "headline": "Lei proíbe maquinistas de trabalharem sob efeito de álcool ou drogas",
+      "explanation": "Nova lei da Assembleia da República reforça as penalizações por infrações ao regime ferroviário e proíbe expressamente que maquinistas exerçam funções sob influência de álcool, estupefacientes ou substâncias psicotrópicas.",
+      "tags": ["infraestruturas", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "996320825", "note": "Governo aprova minutas de contratos de investimento com quatro empresas ao abrigo do regime de incentivos a setores estratégicos.", "tags": ["empresas"] },
+    { "id": "998612383", "note": "Aprovada a segunda adenda ao contrato de concessão da gestão do Aproveitamento Hidroagrícola do Sotavento Algarvio.", "tags": ["infraestruturas", "empresas"] },
+    { "id": "998488162", "note": "Alterado o regime de apoio à apicultura para a biodiversidade no âmbito do PEPAC.", "tags": ["empresas"] }
+  ]
+}

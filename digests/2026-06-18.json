@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-18",
+  "overview": "Dia calmo, dominado por nomeações, promoções militares e regulamentos municipais de rotina. A única novidade com impacto direto é o diferimento excecional do pagamento de contribuições à segurança social para quem foi abrangido pela medida de crise do Decreto-Lei n.º 110-A/2026.",
+  "highlights": [
+    {
+      "id": "1133905355",
+      "headline": "Diferimento excecional de contribuições à segurança social",
+      "explanation": "O Governo fixa os procedimentos para aplicar o diferimento excecional do pagamento de contribuições à segurança social, previsto no Decreto-Lei n.º 110-A/2026, dando fôlego de tesouraria a quem foi abrangido pela medida de crise.",
+      "tags": ["trabalho", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1133905356",
+      "note": "Reaberto o pagamento, em 2026, das candidaturas elegíveis e não pagas em 2025 na medida conjuntural de crise para a agricultura.",
+      "tags": ["empresas"]
+    },
+    {
+      "id": "1133905357",
+      "note": "Suspenso durante 2026 o período de defeso da pescaria do polvo no Algarve.",
+      "tags": ["empresas"]
+    },
+    {
+      "id": "1133905354",
+      "note": "Governo altera a resolução que criou o Programa Menos Ruído.",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1133910849",
+      "note": "Classificados de interesse público 518 bens culturais móveis do acervo do Hospital Miguel Bombarda, em Lisboa.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1133910854",
+      "note": "Aprovado novo regulamento de proteção das denominações de origem do Douro e das categorias especiais de vinho do Porto.",
+      "tags": ["empresas"]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-01-27",
+  "overview": "O Governo extingue dois organismos do Ministério da Educação numa reorganização da estrutura central da tutela. O Parlamento pede a reposição da comparticipação da imunoterapia para alergias, e o Estado lança uma nova série de dívida pública a longo prazo.",
+  "highlights": [
+    {
+      "id": "1027770668",
+      "headline": "Extintos o IGeFE e a Secretaria-Geral da Educação e Ciência",
+      "explanation": "O Governo extingue o Instituto de Gestão Financeira da Educação e a Secretaria-Geral da Educação e Ciência, numa reorganização dos serviços centrais do Ministério da Educação.",
+      "tags": ["estado", "educacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1025550885",
+      "headline": "Parlamento pede reposição da comparticipação da imunoterapia contra alergias",
+      "explanation": "A Assembleia da República recomenda ao Governo que reponha a comparticipação do tratamento de imunoterapia específica com alergénios e reveja o Programa Nacional de Vacinação.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1025363479",
+      "headline": "Estado emite nova série de dívida pública a dez anos",
+      "explanation": "O IGCP publica as condições gerais de uma nova série de Obrigações do Tesouro a 3,25 %, com maturidade em junho de 2036.",
+      "tags": ["banca", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1025550886", "note": "O Parlamento recomenda apoios específicos para os doentes com epidermólise bolhosa.", "tags": ["saude", "social"] },
+    { "id": "1025550887", "note": "Recomendação para atualizar estatísticas e estudos sobre emprego e formação de pessoas com deficiência.", "tags": ["social", "trabalho"] },
+    { "id": "1025550892", "note": "Retificado o decreto-lei que centraliza a gestão das urgências externas do SNS por região.", "tags": ["saude"] },
+    { "id": "1025550888", "note": "Concluída a designação de mais quatro zonas especiais de conservação, incluindo Romeu, Malcata, Rio Minho e Peniche/Santa Cruz.", "tags": ["energia"] }
+  ]
+}

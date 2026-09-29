@@ -1,0 +1,24 @@
+{
+  "date": "2026-01-13",
+  "overview": "A Justiça abriu concurso para 215 novos auditores judiciais e o Governo autorizou nova despesa plurianual com o suporte logístico dos caças F-16 da Força Aérea. Resto do dia preenchido por nomeações diplomáticas e regulamentos municipais.",
+  "highlights": [
+    {
+      "id": "1005800744",
+      "headline": "Abertas 215 vagas para auditores de justiça",
+      "explanation": "A Ministra da Justiça autorizou a abertura de concurso para preencher 215 lugares de auditoras/es de justiça, a principal via de acesso à magistratura judicial e do Ministério Público.",
+      "tags": ["justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1005948602",
+      "headline": "Renovado o contrato de suporte logístico dos F-16 da Força Aérea",
+      "explanation": "O Governo autorizou a Força Aérea a gastar em 2026 e 2027 com os serviços de suporte logístico dos sistemas de armas FALCON, que equipam a frota de caças F-16.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1006368084", "note": "O Governo nomeou os novos membros do conselho de administração da Unidade Local de Saúde de Coimbra.", "tags": ["saude"] },
+    { "id": "1005800735", "note": "Os dois Serviços de Finanças de Braga foram fundidos num único serviço.", "tags": ["impostos", "estado"] }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-17",
+  "overview": "Dia sobretudo administrativo. O único destaque é a revisão das taxas do imposto sobre os combustíveis, que se segue à redução temporária aprovada há dois dias. O resto foi jurisprudência técnica e nomeações setoriais.",
+  "highlights": [
+    {
+      "id": "1086699373",
+      "headline": "Revistas as taxas do imposto sobre os combustíveis",
+      "explanation": "Portaria fixa novos valores para as taxas unitárias do ISP (imposto sobre os produtos petrolíferos e energéticos), com efeito direto no preço da gasolina e do gasóleo.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    {
+      "id": "1086390764",
+      "note": "Designada uma vogal para o conselho de administração da Autoridade de Supervisão de Seguros e Fundos de Pensões.",
+      "tags": ["banca"]
+    },
+    {
+      "id": "1086390770",
+      "note": "O Supremo Tribunal de Justiça uniformiza jurisprudência sobre a falta de redução a escrito de despachos de medidas de coação ditados oralmente.",
+      "tags": ["justica"]
+    },
+    {
+      "id": "1086390095",
+      "note": "Criada uma nova Divisão de Política Prudencial no Ministério das Finanças, ligada à supervisão do setor financeiro.",
+      "tags": ["banca", "estado"]
+    }
+  ]
+}

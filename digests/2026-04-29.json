@@ -1,0 +1,17 @@
+{
+  "date": "2026-04-29",
+  "overview": "Dia muito calmo, dominado por nomeações e regulamentos municipais. Destaque único para uma decisão do Tribunal Constitucional sobre o congelamento de fundos sem contraditório prévio.",
+  "highlights": [
+    {
+      "id": "1095311100",
+      "headline": "Tribunal Constitucional valida congelamento de fundos sem contraditório prévio",
+      "explanation": "O Tribunal Constitucional decidiu não julgar inconstitucional a norma que permite a um juiz de instrução, a pedido do Ministério Público, determinar o congelamento de fundos, valores ou bens sujeitos a uma medida de suspensão, sem primeiro dar ao visado a possibilidade de se defender.",
+      "tags": ["justica", "banca"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1095309154", "note": "Governo aumenta o apoio financeiro a alunos de escolas particulares de educação especial.", "tags": ["social", "educacao"] },
+    { "id": "1095309146", "note": "Alterado o reconhecimento de interesse público de três instituições de ensino superior privadas.", "tags": ["educacao"] }
+  ]
+}

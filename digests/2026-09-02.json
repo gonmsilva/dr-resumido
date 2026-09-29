@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-02",
+  "overview": "Dia calmo no Diário da República, dominado por diplomas administrativos de rotina. O único destaque relevante é o reforço da garantia pessoal do Estado a bancos para facilitar o crédito à habitação própria a jovens até aos 35 anos.",
+  "highlights": [
+    {
+      "id": "1165823282",
+      "headline": "Estado reforça garantia para crédito à habitação de jovens",
+      "explanation": "O Governo autoriza o reforço da garantia pessoal do Estado a instituições de crédito, para facilitar a concessão de crédito à habitação própria permanente a jovens até aos 35 anos.",
+      "tags": ["habitacao", "banca"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    {
+      "id": "1165823340",
+      "note": "Prazo para candidaturas ao Programa de Alargamento da Rede de Equipamentos Sociais (PARES 3.0) é prorrogado até 17 de novembro.",
+      "tags": ["social"]
+    },
+    {
+      "id": "1165823346",
+      "note": "Declarada utilidade pública urgente para criar servidão administrativa destinada a faixas de gestão de combustível em freguesias de Arcos de Valdevez e Monção.",
+      "tags": ["infraestruturas"]
+    }
+  ]
+}

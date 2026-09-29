@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tmp
+# built by the Pages workflow from data/ and digests/
+site/
+# private claude.ai link for the personal copy
+artifact_url.txt

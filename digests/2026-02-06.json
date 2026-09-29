@@ -1,0 +1,40 @@
+{
+  "date": "2026-02-06",
+  "overview": "O Governo isenta temporariamente as taxas do cartão de cidadão e avança com a quadruplicação da Linha do Minho entre Contumil e Ermesinde. Seguem-se ainda medidas de apoio à reconstrução das zonas afetadas pela tempestade Kristin e um novo programa para acelerar as energias renováveis.",
+  "highlights": [
+    {
+      "id": "1039107599",
+      "headline": "Cartão de cidadão fica temporariamente isento de taxas",
+      "explanation": "Uma portaria cria um regime excecional e temporário de isenção do pagamento de taxas pela emissão e renovação do cartão de cidadão, com efeito direto em quem precisar de tratar ou renovar o documento.",
+      "tags": ["estado", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1038982194",
+      "headline": "Avança a quadruplicação da Linha do Minho entre Contumil e Ermesinde",
+      "explanation": "É declarada a utilidade pública urgente das expropriações necessárias à modernização e quadruplicação do troço Contumil-Ermesinde da Linha do Minho, uma das principais obras ferroviárias na área do Porto.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1039332367",
+      "headline": "Estado reforça garantias de crédito para reconstruir zonas afetadas pela Kristin",
+      "explanation": "O Fundo de Contragarantia Mútuo fica autorizado a conceder garantias nas linhas de crédito de apoio à reconstrução das zonas atingidas pela tempestade Kristin, facilitando o acesso a financiamento.",
+      "tags": ["banca", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1039332368",
+      "headline": "Governo lança programa para acelerar zonas de implantação de energias renováveis",
+      "explanation": "É determinada a elaboração do Programa Setorial das Zonas de Aceleração da Implantação de Energias Renováveis, que deverá facilitar e agilizar o licenciamento de novos projetos.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1038982193", "note": "Declarada a utilidade pública urgente para expropriações do alargamento do IP8 (A26) entre Roncão e Grândola.", "tags": ["infraestruturas"] },
+    { "id": "1039107601", "note": "STA confirma que a isenção de IRC da Universidade Católica assenta em lei própria e não foi afetada pelo fim da Concordata de 1940.", "tags": ["justica", "impostos"] },
+    { "id": "1039107593", "note": "Assembleia da República recomenda ao Governo corrigir ultrapassagens na progressão da carreira docente.", "tags": ["educacao", "trabalho"] },
+    { "id": "1038982243", "note": "Alterada a delimitação da Reserva Ecológica Nacional no município de Belmonte.", "tags": ["energia"] }
+  ]
+}

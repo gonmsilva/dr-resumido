@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-22",
+  "overview": "Dia intenso em legislação: é criada a Comissão Nacional para os Direitos das Crianças e Jovens, o imposto sobre os combustíveis é revisto pela terceira vez este mês e ficam definidas novas regras para a gestão da capacidade da rede elétrica.",
+  "highlights": [
+    {
+      "id": "1125313600",
+      "headline": "Criada a Comissão Nacional para os Direitos das Crianças e Jovens",
+      "explanation": "É criado um novo organismo dedicado à promoção e defesa dos direitos das crianças e jovens em Portugal.",
+      "tags": ["social", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1125795285",
+      "headline": "Imposto sobre os combustíveis revisto pela terceira vez em maio",
+      "explanation": "O Governo volta a rever e a fixar as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), a terceira alteração no mês de maio.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1125313599",
+      "headline": "Novas regras para ligar novos projetos à rede elétrica",
+      "explanation": "É criado um regime complementar que regula a gestão dinâmica da capacidade de ligação à rede elétrica pública depois de atribuído o título de reserva de capacidade, com impacto na integração de novos projetos de energia renovável.",
+      "tags": ["energia"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1125313598", "note": "Alteradas as regras de acesso e exercício da atividade de aluguer e partilha de veículos sem condutor (car sharing/rent-a-car).", "tags": ["empresas"] },
+    { "id": "1125313601", "note": "Simplificado o regime jurídico do papel comercial, um instrumento de financiamento das empresas.", "tags": ["banca", "empresas"] },
+    { "id": "1125795286", "note": "Alterado, de forma excecional e temporária, o limite máximo de tensão de vapor das gasolinas vendidas em Portugal.", "tags": ["energia"] }
+  ]
+}

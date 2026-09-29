@@ -1,0 +1,47 @@
+{
+  "date": "2026-02-19",
+  "overview": "Nasce um novo programa de financiamento para o audiovisual e o cinema, prolonga-se a isenção de taxas do cartão de cidadão e Barcelos aprova a sua Carta Municipal de Habitação. Portugal autoriza três forças militares destacadas para 2026.",
+  "highlights": [
+    {
+      "id": "1053378382",
+      "headline": "Novo programa de financiamento para o audiovisual e o cinema",
+      "explanation": "É criado o Programa de Financiamento à Indústria do Audiovisual e do Cinema, com incentivos e uma linha de garantia mútua para apoiar o crédito à produção, substituindo o antigo Fundo de Apoio ao Turismo e Cinema, que é extinto.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1053378383",
+      "headline": "Prolongada a isenção de taxas do cartão de cidadão",
+      "explanation": "É alterado o regime excecional e temporário que isenta os cidadãos do pagamento de taxas pela emissão e renovação do cartão de cidadão, mantendo o alívio para quem precisa de tratar deste documento.",
+      "tags": ["estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1051704933",
+      "headline": "Barcelos aprova a sua Carta Municipal de Habitação",
+      "explanation": "O Município de Barcelos aprova a Carta Municipal de Habitação, o documento que define o diagnóstico e a estratégia local para responder às necessidades habitacionais do concelho.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1051704482",
+      "headline": "Portugal autoriza três forças militares destacadas para 2026",
+      "explanation": "O Governo autoriza o envio de Forças Nacionais Destacadas para a República Centro-Africana, para a Jordânia (Operação Gallant Phoenix) e para apoio na região do Báltico e na Eslováquia, ao longo de 2026.",
+      "tags": ["estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1054966771",
+      "headline": "Alterado o incentivo a empresas para flexibilidade da rede elétrica e armazenamento",
+      "explanation": "É alterado o regulamento do incentivo «Flexibilidade da Rede e Armazenamento», financiado pelo PRR, que apoia empresas a investirem em capacidade de armazenamento e flexibilização da rede elétrica.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1051704949", "note": "Horta consulta o público sobre alterações ao regulamento de arrendamento acessível «Habitação+».", "tags": ["habitacao"] },
+    { "id": "1051704531", "note": "ANACOM altera o regulamento de monitorização dos campos eletromagnéticos junto de estações de radiocomunicações.", "tags": ["energia"] },
+    { "id": "1051701773", "note": "Delimitada a Reserva Ecológica Nacional (REN) do município de Aljustrel.", "tags": ["energia", "habitacao"] },
+    { "id": "1051701768", "note": "Reconhecido interesse estratégico nacional a um projeto de investigação e desenvolvimento da Isolago, fabricante de plásticos.", "tags": ["empresas"] }
+  ]
+}

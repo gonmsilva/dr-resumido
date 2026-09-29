@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-01",
+  "overview": "O Tribunal Constitucional travou uma interpretação da lei do arrendamento que penalizava inquilinos por falta de pagamento de taxa de justiça. O Governo definiu o modelo da campanha de vacinação sazonal contra a gripe e a covid-19 nas farmácias e a dotação de apoios pela subida do preço dos combustíveis.",
+  "highlights": [
+    {
+      "id": "1140339262",
+      "headline": "Definido o modelo da vacinação de outono-inverno nas farmácias",
+      "explanation": "Portaria estabelece como vai funcionar a Campanha de Vacinação Sazonal 2026-2027 contra a gripe e a covid-19 nas farmácias de oficina.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1140260350",
+      "headline": "Tribunal Constitucional trava regra que penalizava inquilinos em tribunal",
+      "explanation": "Foi declarada inconstitucional a interpretação da lei do arrendamento (NRAU) segundo a qual a falta de pagamento integral da taxa de justiça faz a oposição do inquilino considerar-se não apresentada, sem lhe dar as opções normais do Código de Processo Civil.",
+      "tags": ["justica", "habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1140260307",
+      "headline": "Governo define dotação dos apoios à subida dos combustíveis",
+      "explanation": "Despacho fixa o valor financeiro dos apoios excecionais e temporários para compensar a escalada do preço dos combustíveis, criados em março.",
+      "tags": ["impostos", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1140260336", "note": "Receitas médicas só de vacinas da gripe para 2026/2027 passam a valer até 31 de dezembro de 2026.", "tags": ["saude"] },
+    { "id": "1140341139", "note": "Melgaço abre discussão pública da 1.ª alteração ao seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1143256899", "note": "Figueira da Foz altera o regulamento de organização dos seus serviços municipais.", "tags": ["estado"] },
+    { "id": "1140260315", "note": "Defesa aprova minuta de acordo para criar uma área de mobilidade militar no sudoeste europeu.", "tags": ["estado"] }
+  ]
+}

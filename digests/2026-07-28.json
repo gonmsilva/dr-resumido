@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-28",
+  "overview": "O Parlamento criou o Registo de Transparência da Representação de Interesses, que vai obrigar a identificar quem faz lobbying junto do Estado, e reforçou os instrumentos de recuperação e perda de bens ligados ao crime. O dia teve ainda dezenas de recomendações não vinculativas ao Governo, da energia às famílias monoparentais.",
+  "highlights": [
+    {
+      "id": "1152763143",
+      "headline": "Criado o Registo de Transparência da Representação de Interesses",
+      "explanation": "Nova lei estabelece a orgânica do registo que vai identificar quem representa interesses (lobbying) junto de deputados, governantes e entidades públicas.",
+      "tags": ["estado", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1152696582",
+      "headline": "Reforçadas as regras de recuperação e perda de bens ligados ao crime",
+      "explanation": "Lei transpõe diretiva europeia sobre recuperação e perda de bens, alterando o Código Penal, o Código de Processo Penal e outras leis relacionadas com a investigação criminal.",
+      "tags": ["justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1152696584", "note": "Parlamento recomenda acelerar os apoios à criação de comunidades de energia renovável.", "tags": ["energia"] },
+    { "id": "1152696592", "note": "Parlamento recomenda reforçar os apoios às famílias monoparentais e rever os escalões do abono de família.", "tags": ["social"] },
+    { "id": "1152696589", "note": "Parlamento recomenda a criação de um serviço de urgência básica no centro de saúde de Coruche.", "tags": ["saude"] },
+    { "id": "1152696701", "note": "Porto aprova o novo Regulamento do Conselho Municipal da Juventude.", "tags": ["estado"] }
+  ]
+}

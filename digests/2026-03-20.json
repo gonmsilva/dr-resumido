@@ -1,0 +1,26 @@
+{
+  "date": "2026-03-20",
+  "overview": "O Governo reviu as taxas do imposto sobre os produtos petrolíferos e energéticos, com reflexo direto no preço dos combustíveis, e lançou o novo Programa Nacional de Promoção da Saúde Oral. O resto do dia foi preenchido por autorizações de participação militar e regulamentos administrativos.",
+  "highlights": [
+    {
+      "id": "1075294778",
+      "headline": "Governo revê as taxas do imposto sobre os combustíveis",
+      "explanation": "Nova portaria fixa novos valores do ISP (imposto sobre os produtos petrolíferos e energéticos), com impacto direto no preço da gasolina e do gasóleo pagos pelos consumidores.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1074832544",
+      "headline": "Arranca o novo Programa Nacional de Promoção da Saúde Oral",
+      "explanation": "O Governo define o modelo de funcionamento do PNPSO, que organiza o acesso a cuidados de saúde oral no âmbito do SNS.",
+      "tags": ["saude"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1074756616", "note": "Instituto Nacional da Propriedade Industrial atualiza as taxas cobradas por marcas e patentes.", "tags": ["impostos", "empresas"] },
+    { "id": "1074756655", "note": "Governo manda estudar a preparação das redes elétricas de transporte e distribuição face às tempestades de 2026.", "tags": ["energia"] },
+    { "id": "1074832089", "note": "ANAC autoriza nova rota aérea regular Lisboa/São Luís/Lisboa.", "tags": ["infraestruturas", "empresas"] },
+    { "id": "1075294793", "note": "Decreto-lei alarga a outras zonas do país o regime de apoios e simplificação administrativa criado em fevereiro.", "tags": ["estado", "empresas"] }
+  ]
+}

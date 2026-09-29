@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-05",
+  "overview": "Dia com forte incidência em impostos e energia: revistas as taxas do imposto sobre os combustíveis, autorizada uma reforma do Imposto Único de Circulação e criada uma linha de crédito para empresas afetadas pelos custos energéticos. O Governo reforçou ainda o financiamento de 12 mil habitações a custos acessíveis.",
+  "highlights": [
+    {
+      "id": "1129962835",
+      "headline": "Revistas as taxas do imposto sobre combustíveis",
+      "explanation": "O Governo fixou novos valores para o Imposto sobre os Produtos Petrolíferos e Energéticos (ISP), com impacto direto no preço da gasolina, gasóleo e outros combustíveis pagos pelos consumidores.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1129514949",
+      "headline": "Governo autorizado a rever o Imposto Único de Circulação",
+      "explanation": "A Assembleia da República autorizou o Governo a alterar o Código do IUC, o imposto anual pago pelos donos de veículos automóveis.",
+      "tags": ["impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1129514953",
+      "headline": "Nova linha de crédito para empresas afetadas pelos custos energéticos",
+      "explanation": "Criada a «Linha Portugal Resiliência Energética», um apoio às empresas penalizadas pelo aumento dos custos de energia devido à instabilidade no Médio Oriente.",
+      "tags": ["energia", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1129514954",
+      "headline": "Reforçado financiamento para 12 mil casas a custos acessíveis",
+      "explanation": "Alterada a resolução que autoriza o IHRU a gastar e assumir encargos plurianuais para financiar a aquisição, construção e reabilitação de até 12.000 habitações do Parque Público de Habitação a Custos Acessíveis.",
+      "tags": ["habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1129514951",
+      "headline": "Suspensão temporária da recuperação de apoios europeus mal utilizados",
+      "explanation": "Regime excecional que suspende, por agora, os processos de recuperação de fundos europeus recebidos indevidamente e adia prestações de operações reembolsáveis ligadas à eficiência energética.",
+      "tags": ["empresas", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1129514952", "note": "Alterado o regime jurídico do ensino da condução.", "tags": ["educacao"] },
+    { "id": "1129514955", "note": "Fixada a remuneração das farmácias que participam em programas de tratamento da dependência de opioides e outras substâncias.", "tags": ["saude"] }
+  ]
+}

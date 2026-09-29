@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-06",
+  "overview": "O Tribunal Constitucional declarou inconstitucional uma regra que negava a isenção da taxa de justiça a quem tem rendimentos muito baixos, reforçando o acesso à justiça. O Governo definiu o calendário das matrículas escolares para 2026 e avançou com a expropriação urgente de terrenos para modernizar a Linha de Vendas Novas, além de reestruturar os serviços centrais da Segurança Social.",
+  "highlights": [
+    {
+      "id": "1081202647",
+      "headline": "Tribunal Constitucional trava recusa de apoio judiciário a quem tem baixos rendimentos",
+      "explanation": "O TC declarou inconstitucional, com força obrigatória geral, a interpretação que impedia a dispensa total da taxa de justiça a requerentes de apoio judiciário cujo rendimento disponível é próximo do valor da taxa. Facilita o acesso à justiça para quem tem menos recursos.",
+      "tags": ["justica", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1081867449",
+      "headline": "Governo fixa calendário das matrículas escolares de 2026",
+      "explanation": "Foram definidos os prazos de matrícula e renovação para a educação pré-escolar e os ensinos básico e secundário, informação relevante para milhares de famílias.",
+      "tags": ["educacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1080928211",
+      "headline": "Expropriação urgente de terrenos para modernizar a Linha de Vendas Novas",
+      "explanation": "O Governo declarou utilidade pública com carácter de urgência dos imóveis necessários à obra de modernização desta linha ferroviária, permitindo avançar mais depressa com a expropriação.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1081202643",
+      "headline": "Segurança Social reorganiza os seus serviços centrais",
+      "explanation": "A Direção-Geral da Segurança Social é substituída por uma nova Direção-Geral da Solidariedade e Segurança Social, numa reestruturação da estrutura que gere prestações sociais e apoios.",
+      "tags": ["estado", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1081202645", "note": "O Governo autorizou despesa com infraestruturas de computação avançada para investigação, inovação e administração pública.", "tags": ["empresas", "educacao"] },
+    { "id": "1081202646", "note": "Novo apoio para instalação de produtores pecuários e conversão de matos em pastagens, ligado à redução do risco de incêndio através do pastoreio.", "tags": ["empresas", "energia"] },
+    { "id": "1080928218", "note": "Portugal cria uma embaixada em Baku, no Azerbaijão.", "tags": ["estado"] },
+    { "id": "1080928225", "note": "Alterada a delimitação da Reserva Ecológica Nacional no município de Leiria.", "tags": ["energia", "habitacao"] },
+    { "id": "1081202344", "note": "Município de Estarreja abre discussão pública de nove operações de reabilitação urbana.", "tags": ["habitacao"] },
+    { "id": "1081202644", "note": "Autorizada despesa para aquisição de dispositivos elétricos de imobilização para a GNR e a PSP em 2026.", "tags": ["estado"] }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-10",
+  "overview": "Ficam definidos os pré-requisitos para candidatura ao ensino superior em 2026-2027 e as regras para planear a rede de ofertas profissionalizantes em todo o país. O Governo traça as diretrizes para os planos quinquenais de investimento nas redes de distribuição de gás, e a Ryanair ganha autorização para uma nova rota entre o Porto e Rabat.",
+  "highlights": [
+    {
+      "id": "1082907060",
+      "headline": "Definidos os pré-requisitos para o acesso ao ensino superior em 2026-2027",
+      "explanation": "A Comissão Nacional de Acesso ao Ensino Superior fixa os pré-requisitos exigidos para candidatura à matrícula e inscrição no próximo ano letivo, informação relevante para quem vai concorrer.",
+      "tags": ["educacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1084346006",
+      "headline": "Novas regras para planear a rede nacional de ofertas de ensino profissional",
+      "explanation": "É definido como se planeia e coordena a rede de cursos profissionalizantes entre o Instituto de Educação, a Agência para a Gestão do Sistema Educativo, as CCDR e as entidades intermunicipais, o que molda a oferta formativa disponível em cada região.",
+      "tags": ["educacao", "trabalho"],
+      "importance": "medium"
+    },
+    {
+      "id": "1082907072",
+      "headline": "Governo dá diretrizes para os planos de investimento nas redes de gás",
+      "explanation": "São fixadas as orientações que os operadores da rede nacional de distribuição de gás devem seguir na elaboração dos seus planos quinquenais de desenvolvimento e investimento.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1083044588",
+      "headline": "Ryanair autorizada a voar entre o Porto e Rabat",
+      "explanation": "A Autoridade Nacional da Aviação Civil autorizou a exploração de voos regulares na rota Porto/Rabat/Porto pela Ryanair.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1083044577", "note": "Discussão pública sobre a atualização dos limites dos Parques Naturais do Douro Internacional, de Montesinho e do Alvão.", "tags": ["energia", "habitacao"] },
+    { "id": "1083044578", "note": "Discussão pública sobre a atualização dos limites da Reserva Natural das Dunas de São Jacinto, da Reserva Natural do Paul de Arzila e da Paisagem Protegida da Serra do Açor.", "tags": ["energia", "habitacao"] }
+  ]
+}

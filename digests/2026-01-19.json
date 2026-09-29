@@ -1,0 +1,30 @@
+{
+  "date": "2026-01-19",
+  "overview": "O Governo cria a comissão técnica independente que vai avaliar os incêndios de agosto de 2025, e autoriza a despesa para dois contratos-chave da futura linha de alta velocidade entre o Porto e Lisboa: o troço entre Oiã e Soure e os sistemas de sinalização e telecomunicações. Resto do dia dominado por nomeações e regulamentos municipais de rotina.",
+  "highlights": [
+    {
+      "id": "1014316394",
+      "headline": "Criada comissão técnica independente para avaliar os incêndios de agosto de 2025",
+      "explanation": "Uma nova lei cria a Comissão Técnica Independente encarregue de avaliar os incêndios que atingiram o território continental em agosto de 2025.",
+      "tags": ["energia", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1014316395",
+      "headline": "Governo autoriza despesa para o troço Oiã-Soure da alta velocidade Porto-Lisboa",
+      "explanation": "O Conselho de Ministros autoriza a despesa para o contrato de conceção, projeto, construção, financiamento e manutenção do troço entre Oiã e Soure da futura linha de alta velocidade entre o Porto e Lisboa.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1014316396",
+      "headline": "Autorizada despesa para sinalização e telecomunicações da alta velocidade",
+      "explanation": "O Conselho de Ministros autoriza também a despesa para o primeiro contrato de conceção-construção-manutenção dos sistemas de sinalização, telecomunicações e segurança da linha de alta velocidade Porto-Lisboa.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1014142335", "note": "Declarada de utilidade pública a instalação de uma unidade de produção para autoconsumo junto à unidade industrial da Sonae Arauco em Oliveira do Hospital.", "tags": ["energia", "empresas"] }
+  ]
+}

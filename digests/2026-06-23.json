@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-23",
+  "overview": "A Assembleia da República criou um regime que facilita a autorização de unidades de energia renovável para autoconsumo, com deferimento tácito no licenciamento. O Estado também lançou uma nova série de dívida pública a 2046 e transpôs regras europeias sobre acidentes industriais graves.",
+  "highlights": [
+    {
+      "id": "1135578391",
+      "headline": "Licenciamento de painéis solares e energia para autoconsumo fica mais rápido",
+      "explanation": "Nova lei cria o regime jurídico do contrato de aproveitamento energético renovável e estabelece que o licenciamento de unidades de produção para autoconsumo a partir de fontes renováveis é tacitamente deferido se a administração não responder a tempo.",
+      "tags": ["energia", "habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1135447050",
+      "headline": "Estado lança nova série de dívida pública a 20 anos",
+      "explanation": "O IGCP publicou as condições gerais de uma nova obrigação do Tesouro a 3,875%, com maturidade em junho de 2046, um dos instrumentos usados para financiar o Estado nos mercados.",
+      "tags": ["banca", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1135578393",
+      "headline": "Novas regras para empresas que lidam com substâncias perigosas",
+      "explanation": "Decreto-lei altera o regime de controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas, transpondo mais uma diretiva europeia sobre segurança industrial.",
+      "tags": ["empresas", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1135578397", "note": "Novas obrigações para produtores agrícolas apresentarem declaração de colheita e produção.", "tags": ["empresas"] },
+    { "id": "1135578395", "note": "Governo autoriza despesa com serviços de internet para alunos do básico e secundário no ano letivo 2026-2027.", "tags": ["educacao"] },
+    { "id": "1135446628", "note": "Caducou a declaração de utilidade pública da expropriação de parcelas para o troço da via T5 entre Unhos e Sacavém, em Loures.", "tags": ["infraestruturas"] },
+    { "id": "1135578394", "note": "Alteradas as regras legais que enquadram as cooperativas de ensino.", "tags": ["educacao"] }
+  ]
+}

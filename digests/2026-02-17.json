@@ -1,0 +1,24 @@
+{
+  "date": "2026-02-17",
+  "overview": "Dia de feriado de Carnaval e muito parado no Diário da República. De relevante, uma venda de material de guerra à República Dominicana e a suspensão parcial do PDM da Madalena para um novo centro logístico.",
+  "highlights": [
+    {
+      "id": "1051076690",
+      "headline": "Portugal vende material de guerra à República Dominicana",
+      "explanation": "A Defesa Nacional autoriza a alienação onerosa de material de guerra à República Dominicana, delegando no diretor-geral de Armamento e Património da Defesa Nacional os poderes para concretizar a operação.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1051076741",
+      "headline": "Madalena suspende PDM para abrir caminho a novo centro logístico",
+      "explanation": "O Município da Madalena suspende parcialmente o Plano Diretor Municipal e estabelece medidas preventivas para permitir a construção de um centro logístico da empresa Logislink no Farrobo.",
+      "tags": ["habitacao", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1051481675", "note": "Portugal e o Canadá assinam acordo sobre proteção de informação classificada.", "tags": ["estado"] },
+    { "id": "1051076698", "note": "Alteração a portaria da área da gestão da saúde de 2024.", "tags": ["saude"] }
+  ]
+}

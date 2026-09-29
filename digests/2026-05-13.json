@@ -1,0 +1,17 @@
+{
+  "date": "2026-05-13",
+  "overview": "Dia sobretudo administrativo. O destaque vai para um regime excecional de apoio financeiro a entidades de proteção animal afetadas por catástrofes, calamidades e fenómenos climáticos adversos.",
+  "highlights": [
+    {
+      "id": "1120914629",
+      "headline": "Apoio financeiro extraordinário a entidades de proteção animal atingidas por catástrofes",
+      "explanation": "É criado um regime excecional e temporário de apoio financeiro a entidades de proteção animal afetadas por catástrofes, calamidades ou fenómenos climáticos adversos.",
+      "tags": ["social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1120914632", "note": "Definida a nova estrutura orgânica da Autoridade para as Condições do Trabalho.", "tags": ["trabalho", "estado"] },
+    { "id": "1120914634", "note": "A Assembleia Legislativa dos Açores recomenda a criação de salas de consumo assistido de drogas na região.", "tags": ["saude"] }
+  ]
+}

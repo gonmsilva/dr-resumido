@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-25",
+  "overview": "A Saúde aprovou os novos preços das instituições e serviços do SNS, e Portugal ratificou o acordo-quadro avançado entre a União Europeia e o Chile. Houve ainda uma nova expropriação urgente para obras na EN103, em Bragança, e a CMVM avançou com um parecer sobre um prestador de serviços de criptoativos.",
+  "highlights": [
+    {
+      "id": "1138714124",
+      "headline": "Novos preços aprovados para instituições e serviços do SNS",
+      "explanation": "Uma portaria da Saúde aprova os regulamentos e as tabelas de preços das instituições e serviços integrados no Serviço Nacional de Saúde, com impacto no financiamento e no custo dos cuidados prestados.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1138714122",
+      "headline": "Portugal ratifica acordo-quadro avançado entre a UE e o Chile",
+      "explanation": "O Presidente da República ratificou o Acordo-Quadro Avançado entre a União Europeia e o Chile, que reforça a cooperação política, comercial e de investimento entre os dois blocos, com relevância para empresas portuguesas que negoceiam com o país sul-americano.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1138363924",
+      "headline": "Nova expropriação urgente para obras na EN103 em Bragança",
+      "explanation": "Foi declarada a utilidade pública, com caráter de urgência, da expropriação de imóveis necessários à obra da EN103 entre Vinhais e Bragança, na variante de Vila Verde.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1138713426",
+      "headline": "CMVM avança com parecer sobre prestador de serviços de criptoativos",
+      "explanation": "A CMVM delegou poderes para a emissão do parecer de completude formal necessário à autorização de um prestador de serviços de criptoativos, ao abrigo da nova lei do setor.",
+      "tags": ["banca"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1138713414", "note": "Aberto o procedimento para classificar como monumento nacional o Tapete de Pedra em Calçada Portuguesa da Praça de São Paulo, em Lisboa.", "tags": ["estado"] },
+    { "id": "1138713378", "note": "Conselho Nacional de Educação recomenda a transferência de mais competências em educação para os municípios.", "tags": ["educacao", "estado"] },
+    { "id": "1138713415", "note": "Atualizada a taxa de aprovação do Plano de Gestão de Lamas, que incide sobre operações agrícolas.", "tags": ["empresas"] }
+  ]
+}

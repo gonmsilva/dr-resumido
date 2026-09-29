@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-15",
+  "overview": "O Governo definiu o enquadramento para lançar a primeira fase do autocarro de trânsito rápido (BRT) entre Guimarães e Braga. Fora essa novidade nos transportes, foi um dia dominado por atos correntes da Administração Pública.",
+  "highlights": [
+    {
+      "id": "1147477299",
+      "headline": "Governo avança com o BRT entre Guimarães e Braga",
+      "explanation": "Resolução do Conselho de Ministros estabelece o enquadramento para promover a primeira fase do projeto de autocarro de trânsito rápido (bus rapid transit) a ligar Guimarães e Braga.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1147507701", "note": "Gondomar aprova o projeto da sua Carta Municipal de Habitação.", "tags": ["habitacao"] },
+    { "id": "1148213741", "note": "São João da Madeira prolonga por mais 10 dias a consulta pública sobre o regulamento de habitação social.", "tags": ["habitacao"] },
+    { "id": "1147477298", "note": "Autorizada a despesa para a terceira fase de obras no Teatro Nacional de São Carlos.", "tags": ["estado"] },
+    { "id": "1147507384", "note": "Nova expropriação urgente para obras de estabilização na ER 110.", "tags": ["infraestruturas"] }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-14",
+  "overview": "Dia marcado pela resposta à tempestade Kristin, com reforço de apoio às autarquias afetadas e alterações ao regime de lay-off simplificado, e por mudanças no programa de apoio ao acesso à habitação. Houve também troca no cargo de Secretário de Estado da Gestão da Saúde.",
+  "highlights": [
+    {
+      "id": "1084346068",
+      "headline": "Alterado o regime de apoios sociais e lay-off simplificado para as zonas da tempestade Kristin",
+      "explanation": "A Assembleia da República altera, em apreciação parlamentar, o decreto-lei que criou apoios sociais e um regime de lay-off simplificado para os concelhos atingidos pela tempestade Kristin.",
+      "tags": ["trabalho", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1085638502",
+      "headline": "Governo reforça o Fundo de Emergência Municipal por causa da calamidade",
+      "explanation": "Determinado o reforço orçamental e de fundos disponíveis do Fundo de Emergência Municipal, para apoiar os municípios na resposta à situação de calamidade.",
+      "tags": ["estado", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1085062657",
+      "headline": "Alteradas as regras de candidatura ao apoio ao acesso à habitação",
+      "explanation": "Nova alteração à portaria que define o modelo de candidatura ao Programa de Apoio ao Acesso à Habitação e à Bolsa Nacional de Alojamento Urgente e Temporário.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1085333364",
+      "headline": "Novo Secretário de Estado da Gestão da Saúde",
+      "explanation": "O Presidente da República exonera Francisco Nuno Rocha Gonçalves e nomeia Francisco Pinheiro Catalão para o cargo de Secretário de Estado da Gestão da Saúde.",
+      "tags": ["estado", "saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1085638495",
+      "note": "Retificado o decreto-lei que simplifica a reconstrução de património e infraestruturas nos concelhos afetados pela tempestade Kristin.",
+      "tags": ["infraestruturas", "estado"]
+    },
+    {
+      "id": "1084346072",
+      "note": "Assembleia dos Açores recomenda ao Governo Regional um desconto no preço dos combustíveis via redução do ISP em caso de subida abrupta de preços.",
+      "tags": ["energia", "impostos"]
+    },
+    {
+      "id": "1084805687",
+      "note": "Redefinida a divisão de responsabilidades de gestão nos contratos de concessão dos aeroportos entre a ANA e o Estado.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1084805724",
+      "note": "Novas alterações às regras do setor convencionado do SNS, simplificando os procedimentos de alteração das convenções.",
+      "tags": ["saude"]
+    }
+  ]
+}

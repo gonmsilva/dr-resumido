@@ -1,0 +1,24 @@
+{
+  "date": "2026-01-08",
+  "overview": "O Conselho de Ministros aprova a Agenda Nacional de Inteligência Artificial e uma estratégia para aumentar a produção de cereais em Portugal até 2030. Dia marcado sobretudo por decisões de política e algumas resoluções da Assembleia da República.",
+  "highlights": [
+    {
+      "id": "1000882016",
+      "headline": "Governo aprova Agenda Nacional de Inteligência Artificial",
+      "explanation": "Resolução do Conselho de Ministros aprova a Agenda Nacional de Inteligência Artificial e o respetivo modelo de governação, definindo a estratégia do país para o setor.",
+      "tags": ["empresas", "educacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1000882015",
+      "headline": "Governo aprova estratégia para aumentar produção de cereais até 2030",
+      "explanation": "A Estratégia +Cereais define objetivos para o aumento sustentável da produção de cereais em Portugal entre 2025 e 2030, com potencial impacto na agricultura e nos preços agrícolas.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1003170646", "note": "PSP autorizada a gastar dinheiro público na aquisição de e-gates para as fronteiras externas.", "tags": ["estado"] },
+    { "id": "1000882011", "note": "Assembleia da República recomenda ao Governo que acolha crianças da Faixa de Gaza que precisem de cuidados médicos.", "tags": ["social"] }
+  ]
+}

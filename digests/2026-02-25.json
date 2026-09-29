@@ -1,0 +1,40 @@
+{
+  "date": "2026-02-25",
+  "overview": "A Assembleia da República aprovou o Estatuto da Pessoa Idosa e um processo extraordinário para desbloquear as juntas médicas de incapacidade. O Governo determinou ainda uma expropriação urgente para ampliar a subestação elétrica de Sines e um relatório técnico sobre as cheias do Mondego.",
+  "highlights": [
+    {
+      "id": "1060523842",
+      "headline": "Aprovado o Estatuto da Pessoa Idosa",
+      "explanation": "A Assembleia da República aprovou uma lei que consagra o Estatuto da Pessoa Idosa, definindo direitos e proteções específicas para esta faixa da população.",
+      "tags": ["social"],
+      "importance": "high"
+    },
+    {
+      "id": "1060523843",
+      "headline": "Criado processo extraordinário para desbloquear juntas médicas de incapacidade",
+      "explanation": "Nova lei estabelece um processo extraordinário para recuperar os atrasos acumulados nas juntas médicas que avaliam graus de incapacidade, com impacto direto em quem aguarda avaliação para aceder a benefícios sociais.",
+      "tags": ["social", "saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1060484356",
+      "headline": "Expropriação urgente de terrenos em Sines para ampliar subestação elétrica",
+      "explanation": "O Governo declarou utilidade pública, com caráter de urgência, da expropriação de oito parcelas em Sines necessárias para ampliar a subestação que integra a rede nacional de transporte de eletricidade.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1060523849",
+      "headline": "Novas regras de acesso às urgências de obstetrícia e ginecologia no SNS",
+      "explanation": "Portaria define os princípios e condições de operacionalização para orientar utentes no acesso às urgências de obstetrícia e ginecologia no Serviço Nacional de Saúde.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1060484355", "note": "Governo manda elaborar relatório técnico sobre as cheias de 2026 na bacia do Mondego e rever os modelos de gestão do risco.", "tags": ["energia", "infraestruturas"] },
+    { "id": "1060484318", "note": "Reconhecido interesse estratégico nacional a projeto de investimento da Medway, operador ferroviário de mercadorias.", "tags": ["infraestruturas", "empresas"] },
+    { "id": "1060735501", "note": "Município de Almada aprova novo regulamento de gestão do seu parque habitacional.", "tags": ["habitacao"] },
+    { "id": "1060484362", "note": "Tribunal Constitucional confirma decisões sobre as contas de 2017 do PS e do PSD junto da Entidade das Contas e Financiamentos Políticos.", "tags": ["justica", "estado"] }
+  ]
+}

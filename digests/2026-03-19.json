@@ -1,0 +1,18 @@
+{
+  "date": "2026-03-19",
+  "overview": "Dia dominado por diplomas de âmbito militar e universitário, sem grandes decisões com impacto imediato no dia a dia. O destaque possível vai para as novas regras de seguro obrigatório para os operadores de postos de carregamento elétrico.",
+  "highlights": [
+    {
+      "id": "1074104064",
+      "headline": "Postos de carregamento elétrico passam a ter seguro obrigatório com capitais mínimos",
+      "explanation": "Nova portaria fixa os montantes mínimos do seguro de responsabilidade civil obrigatório para quem opera postos de carregamento de veículos elétricos, no âmbito do regime da mobilidade elétrica.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1074179079", "note": "Autoridade Tributária isenta a WWF Portugal de IRC.", "tags": ["impostos"] },
+    { "id": "1074179082", "note": "Defesa aprova memorando com o Reino Unido sobre apoio a submarinos em troca de treino operacional no mar.", "tags": ["empresas"] },
+    { "id": "1074104066", "note": "Novo regime de apoios à silvicultura sustentável no âmbito da Política Agrícola Comum.", "tags": ["empresas"] }
+  ]
+}

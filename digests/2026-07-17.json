@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-17",
+  "overview": "Nasce a Universidade Técnica do Porto e é declarada de utilidade pública a nova linha elétrica a 400 kV entre Ferreira do Alentejo, Vale Pereiro e Sines. O Tribunal Constitucional abriu ainda caminho a farmácias detidas por entidades do setor social, e o imposto sobre os combustíveis voltou a ser revisto.",
+  "highlights": [
+    {
+      "id": "1148792657",
+      "headline": "Criada a Universidade Técnica do Porto",
+      "explanation": "Decreto-Lei cria uma nova universidade pública no Porto, reorganizando o ensino superior público na região.",
+      "tags": ["educacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1148788748",
+      "headline": "Nova linha elétrica a 400 kV entre Ferreira do Alentejo e Sines",
+      "explanation": "Declarada imprescindível a utilidade pública do projeto de linha elétrica a 400 kV que liga Ferreira do Alentejo, Vale Pereiro e Sines, abrangendo Santiago do Cacém e Ferreira do Alentejo, reforço central da rede elétrica nacional.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1149265714",
+      "headline": "Imposto sobre os combustíveis revisto outra vez",
+      "explanation": "Nova portaria fixa de novo as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "tags": ["impostos", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1148788760",
+      "headline": "Tribunal Constitucional abre porta a farmácias de entidades sociais",
+      "explanation": "É declarada inconstitucional a norma que impedia entidades do setor social da economia de serem titulares de novas farmácias privativas, permitindo-lhes aceder a farmácias através de sociedades comerciais.",
+      "tags": ["saude", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1148792658", "note": "A Escola Superior de Hotelaria e Turismo do Estoril passa a integrar a Universidade Nova de Lisboa.", "tags": ["educacao"] },
+    { "id": "1148792373", "note": "Porto abre discussão pública do projeto de reabilitação urbana do Bonfim.", "tags": ["habitacao"] },
+    { "id": "1148792333", "note": "Funchal revê o regulamento do subsídio municipal ao arrendamento.", "tags": ["habitacao"] },
+    { "id": "1148792659", "note": "Governo determina as comemorações dos 900 anos da fundação de Portugal.", "tags": ["estado"] }
+  ]
+}

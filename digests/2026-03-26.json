@@ -1,0 +1,30 @@
+{
+  "date": "2026-03-26",
+  "overview": "Dia tranquilo, com destaque para as novas regras técnicas dos carregadores elétricos, uma correção à lei da transparência do lóbi e um alargamento da comparticipação de medicamentos para uma doença de pele rara.",
+  "highlights": [
+    {
+      "id": "1077350807",
+      "headline": "Definidas regras técnicas para os pontos de carregamento elétrico",
+      "explanation": "Uma portaria fixa as potências mínimas e as regras técnicas que os pontos de carregamento de veículos elétricos têm de cumprir, ao abrigo do novo regime jurídico da mobilidade elétrica.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1077350806",
+      "headline": "Corrigida lei que cria o registo de transparência do lóbi",
+      "explanation": "Uma declaração de retificação corrige a lei que criou o Registo de Transparência da Representação de Interesses, aplicável a quem faz lóbi junto de entidades públicas em Portugal.",
+      "tags": ["justica", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1077350808",
+      "headline": "Alargado o acesso a comparticipação de medicamentos para a hidradenite supurativa",
+      "explanation": "Uma portaria altera as regras de comparticipação excecional dos medicamentos usados no tratamento da hidradenite supurativa, uma doença de pele crónica, quando prescritos por dermatologistas.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {"id": "1077350809", "note": "Açores alteram o regime de incentivos à fixação de médicos na região.", "tags": ["saude"]}
+  ]
+}

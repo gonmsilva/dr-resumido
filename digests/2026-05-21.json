@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-21",
+  "overview": "Prolonga-se o alívio no pagamento de créditos para quem foi afetado pela tempestade Kristin, e o Governo garante a reposição do sistema de rádio de emergência SIRESP nas zonas atingidas por calamidades.",
+  "highlights": [
+    {
+      "id": "1124570658",
+      "headline": "Prolongado o alívio no pagamento de créditos para afetados pela tempestade Kristin",
+      "explanation": "É prolongado o diferimento do pagamento de capital, juros e outros encargos de créditos, e mantida a proibição de bancos revogarem linhas de crédito, para quem foi afetado pela tempestade Kristin e pelas cheias que se seguiram.",
+      "tags": ["banca", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1124570661",
+      "headline": "Governo reforça o sistema de rádio de emergência SIRESP em zonas de calamidade",
+      "explanation": "É autorizada a aquisição de equipamentos para repor a operacionalidade do SIRESP, a rede de comunicações usada pelas forças de socorro, em territórios afetados por calamidade.",
+      "tags": ["estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1124912048", "note": "Criadas Áreas Integradas de Gestão da Paisagem em Ansião, Figueiró dos Vinhos, Lousã e Mação, para prevenção de incêndios.", "tags": ["energia"] },
+    { "id": "1124570660", "note": "Aprovada a Estratégia Nacional para a Implementação da Metodologia BIM na construção.", "tags": ["habitacao", "empresas"] },
+    { "id": "1124911987", "note": "O Conselho Nacional de Educação divulga parecer sobre a revisão do regime jurídico de graus e diplomas do ensino superior.", "tags": ["educacao"] }
+  ]
+}

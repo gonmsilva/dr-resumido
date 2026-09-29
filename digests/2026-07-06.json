@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-06",
+  "overview": "Dia calmo em publicações, dominado pela prorrogação da situação de alerta em todo o continente até 9 de julho. O Parlamento aprovou várias recomendações ao Governo, sem força de lei, sobre ferrovia internacional, apoio agrícola e saúde.",
+  "highlights": [
+    {
+      "id": "1144778178",
+      "headline": "Situação de alerta prorrogada até 9 de julho",
+      "explanation": "O Governo estende a declaração de situação de alerta em todo o território continental, que devia terminar a 6 de julho, até às 23h59 de 9 de julho.",
+      "tags": ["estado"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1144095495", "note": "Parlamento recomenda ao Governo abrir a ferrovia portuguesa às ligações internacionais.", "tags": ["infraestruturas"] },
+    { "id": "1144095496", "note": "Parlamento pede reforço dos apoios ao setor agrícola face aos impactos do conflito no Médio Oriente.", "tags": ["empresas"] },
+    { "id": "1144095502", "note": "Parlamento recomenda rever o calendário de escolha das especialidades médicas.", "tags": ["saude"] },
+    { "id": "1144095213", "note": "Caldas da Rainha delimita a área de reabilitação urbana do seu centro histórico.", "tags": ["habitacao"] },
+    { "id": "1144685819", "note": "Alterado o calendário de exames nacionais e provas de aferição do ano letivo 2025-2026.", "tags": ["educacao"] }
+  ]
+}

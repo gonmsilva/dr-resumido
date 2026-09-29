@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-08",
+  "overview": "O Governo aprovou o regime que permite testar em Portugal veículos de condução automática e extinguiu a Direção-Geral dos Estabelecimentos Escolares, integrando as suas funções noutra estrutura. Assinado ainda um contrato de investimento com o grupo automóvel Gestamp.",
+  "highlights": [
+    {
+      "id": "1130121306",
+      "headline": "Portugal cria regime para testar carros de condução automática nas estradas",
+      "explanation": "Novo diploma define as regras de licenciamento para testar sistemas de condução autónoma em vias públicas portuguesas, abrindo caminho a projetos-piloto de veículos autónomos.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1130568725",
+      "headline": "Extinta a Direção-Geral dos Estabelecimentos Escolares",
+      "explanation": "O Ministério da Educação extinguiu a DGEstE, que gere a rede de escolas públicas e o pessoal docente e não docente, transferindo as suas funções para outra estrutura do ministério.",
+      "tags": ["educacao", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1129941153",
+      "headline": "Estado assina contrato de investimento com o grupo Gestamp",
+      "explanation": "Aprovado o contrato de investimento, através da AICEP, com as sociedades do grupo automóvel Gestamp para um projeto de inovação produtiva em Vila Nova de Cerveira, ao abrigo dos incentivos do Regime Contratual de Investimento.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1130568745",
+      "headline": "Em discussão pública o programa para acelerar zonas de energias renováveis",
+      "explanation": "Aberta a discussão pública do Programa Setorial das Zonas de Aceleração da Implantação de Energias Renováveis, que vai definir onde é mais fácil licenciar novos projetos de energia solar e eólica.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1130121307", "note": "Alterado o Regulamento da Habilitação Legal para Conduzir.", "tags": ["educacao"] },
+    { "id": "1130121019", "note": "A CP vai substituir por autocarros alguns serviços na Linha do Douro.", "tags": ["infraestruturas"] }
+  ]
+}

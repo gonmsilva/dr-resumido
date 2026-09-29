@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-15",
+  "overview": "O imposto sobre os combustíveis volta a ser revisto, o Governo aprova 20 Programas de Reordenamento e Gestão da Paisagem e garante financiamento plurianual à Rede Nacional de Cuidados Continuados Integrados.",
+  "highlights": [
+    {
+      "id": "1123540005",
+      "headline": "Nova revisão das taxas do imposto sobre os combustíveis",
+      "explanation": "O Governo volta a rever e fixar as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), a segunda alteração no espaço de uma semana.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1123575898",
+      "headline": "Aprovados 20 Programas de Reordenamento e Gestão da Paisagem",
+      "explanation": "O Conselho de Ministros aprova 20 Programas de Reordenamento e Gestão da Paisagem (PRGP), instrumentos centrais na estratégia de prevenção de incêndios rurais através da gestão do território.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1123283210",
+      "headline": "Financiamento garantido para os cuidados continuados até 2028",
+      "explanation": "É autorizado o compromisso plurianual, até 2028, com as unidades e equipas da Rede Nacional de Cuidados Continuados Integrados, assegurando a continuidade deste serviço.",
+      "tags": ["saude", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1123540004", "note": "Criado um sistema de incentivo económico para a reciclagem de resíduos elétricos e eletrónicos.", "tags": ["energia", "empresas"] },
+    { "id": "1123283212", "note": "Renovada a concessão de exploração de jogos de fortuna e azar na Zona de Jogo do Algarve.", "tags": ["empresas"] },
+    { "id": "1123283216", "note": "Declarada de relevante interesse público a ampliação da estação de tratamento de águas residuais de Évora.", "tags": ["infraestruturas", "energia"] }
+  ]
+}

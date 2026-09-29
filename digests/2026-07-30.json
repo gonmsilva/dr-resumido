@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-30",
+  "overview": "O Governo criou medidas temporárias para desbloquear a regulação municipal do alojamento local e avançou com a renegociação da concessão do Terminal XXI, no porto de Leixões. Ficou também definida a declaração de liquidação do novo imposto mínimo global para grandes empresas.",
+  "highlights": [
+    {
+      "id": "1153221700",
+      "headline": "Governo desbloqueia regulação municipal do alojamento local",
+      "explanation": "Decreto-Lei cria medidas temporárias e extraordinárias para ultrapassar dificuldades que os municípios têm tido a regular a atividade de alojamento local, um tema sensível para o mercado de arrendamento nas cidades.",
+      "tags": ["habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1153221735",
+      "headline": "Avança a renegociação da concessão do Terminal XXI, em Leixões",
+      "explanation": "Constituída a comissão que vai negociar a renovação do contrato de concessão do Terminal XXI do porto de Leixões, um dos principais terminais de contentores do país.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1153221702",
+      "headline": "Definida a declaração do novo imposto mínimo global",
+      "explanation": "Aprovado o modelo de declaração de liquidação do Regime do Imposto Mínimo Global, que garante uma taxa efetiva mínima de imposto às grandes multinacionais.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1153221696", "note": "Parlamento recomenda a extensão do IC 5 até Miranda do Douro e a ligação a Palaçoulo.", "tags": ["infraestruturas"] },
+    { "id": "1153221699", "note": "Parlamento recomenda uma avaliação técnica à segurança estrutural das infraestruturas públicas críticas.", "tags": ["infraestruturas"] }
+  ]
+}

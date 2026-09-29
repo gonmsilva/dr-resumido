@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-17",
+  "overview": "O Supremo Tribunal Administrativo fixou jurisprudência sobre o IVA reduzido na reabilitação urbana, com impacto direto em obras de reabilitação de prédios. O Governo regulamentou ainda o direito ao esquecimento no acesso a crédito e seguros para quem superou doenças graves, e autorizou reforços de investimento na rede ferroviária.",
+  "highlights": [
+    {
+      "id": "1073088595",
+      "headline": "STA esclarece quando as obras de reabilitação urbana têm IVA a 6%",
+      "explanation": "O Supremo Tribunal Administrativo uniformizou jurisprudência: só as empreitadas realizadas dentro de uma Área de Reabilitação Urbana com Operação de Reabilitação Urbana previamente aprovada beneficiam da taxa reduzida de IVA. Afeta promotores e proprietários que reabilitam imóveis.",
+      "tags": ["impostos", "habitacao", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1073088591",
+      "headline": "Direito ao esquecimento chega ao crédito e aos seguros",
+      "explanation": "Novo decreto-lei regulamenta a lei que proíbe bancos e seguradoras de discriminar quem já superou ou controlou um risco agravado de saúde ou uma deficiência, facilitando o acesso a crédito à habitação e a seguros de vida.",
+      "tags": ["banca", "social"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1072648126", "note": "Governo autoriza novos encargos para obras na Linha do Norte, na Gare Intermodal de Lisboa e na quadruplicação da Linha do Minho.", "tags": ["infraestruturas"] },
+    { "id": "1073088592", "note": "Conselho de Ministros aprova o Plano Nacional de Desenvolvimento Desportivo e o respetivo modelo de governação.", "tags": ["estado"] },
+    { "id": "1073088590", "note": "Assembleia da República suspende o prazo de funcionamento da comissão de inquérito aos negócios dos incêndios rurais.", "tags": ["estado"] }
+  ]
+}

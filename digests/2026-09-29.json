@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-29",
+  "overview": "O Governo dá luz verde à despesa de duas novas linhas do Metro do Porto, para a Trofa e para Gondomar. O Tribunal Constitucional publica três acórdãos com peso para bancos e proprietários: um trava a fixação das contribuições para o Fundo de Resolução por simples instrução do Banco de Portugal, outro fecha a porta à revisão oficiosa do IMI por erros no valor patrimonial não impugnados a tempo, e um terceiro dá razão a senhorios de baixos rendimentos na extinção de aforamentos.",
+  "highlights": [
+    {
+      "id": "1174343374",
+      "headline": "Metro do Porto autorizado a gastar na Linha da Trofa",
+      "explanation": "O Conselho de Ministros autoriza a Metro do Porto a assumir a despesa com a construção da Linha da Trofa, entre o ISMAI e Paradela/Interface Trofa. É o passo que permite avançar com a obra e os respetivos concursos.",
+      "tags": [
+        "infraestruturas"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "1174840875",
+      "headline": "Luz verde à despesa com a Linha de Gondomar",
+      "explanation": "Também autorizada a despesa com a extensão do metro entre o Estádio do Dragão e o Souto, em Gondomar. Com a Trofa, são duas grandes obras de transporte público na Área Metropolitana do Porto a avançar no mesmo dia.",
+      "tags": [
+        "infraestruturas"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "1174342766",
+      "headline": "Constitucional trava contribuições dos bancos fixadas só pelo Banco de Portugal",
+      "explanation": "O Tribunal Constitucional julga inconstitucional deixar a taxa anual das contribuições periódicas dos bancos (para o Fundo de Resolução) ser fixada por instrução do Banco de Portugal sem que a lei defina os limites essenciais. A decisão pode abrir caminho a contestações das contribuições cobradas por esta via.",
+      "tags": [
+        "banca",
+        "justica"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "1174342765",
+      "headline": "IMI: erro no valor patrimonial não impugnado a tempo não dá direito a revisão oficiosa",
+      "explanation": "O Tribunal Constitucional aceita que quem não contestou a tempo o valor patrimonial tributário de um imóvel não possa depois pedir a revisão oficiosa das liquidações de IMI e AIMI com base em erros nesse valor. Para os proprietários, a lição é contestar a avaliação quando é notificada.",
+      "tags": [
+        "impostos",
+        "habitacao",
+        "justica"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "1174342747",
+      "headline": "Atualizado o pagamento às famílias de acolhimento de idosos e adultos com deficiência",
+      "explanation": "Despacho da Segurança Social atualiza o valor mensal pago às famílias que acolhem pessoas idosas ou adultos com deficiência. O resumo não indica o novo montante.",
+      "tags": [
+        "social"
+      ],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1174342764",
+      "note": "Tribunal Constitucional declara inconstitucional a indemnização limitada paga a senhorios singulares de baixos rendimentos na extinção da enfiteuse (aforamentos).",
+      "tags": [
+        "habitacao",
+        "justica"
+      ]
+    },
+    {
+      "id": "1174343372",
+      "note": "Novo regime de assessoria a juízes e magistrados do Ministério Público.",
+      "tags": [
+        "justica"
+      ]
+    },
+    {
+      "id": "1174342740",
+      "note": "Definido o modelo de financiamento dos Centros Qualifica da Área Metropolitana de Lisboa.",
+      "tags": [
+        "educacao",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "1174342678",
+      "note": "Infraestruturas de Portugal autorizada a repartir encargos com reparação de pavimentos danificados pelas intempéries de 2026.",
+      "tags": [
+        "infraestruturas"
+      ]
+    },
+    {
+      "id": "1174343373",
+      "note": "Alterada a estrutura de missão «Agência para o PTRR».",
+      "tags": [
+        "estado"
+      ]
+    },
+    {
+      "id": "1174342704",
+      "note": "SETRONIX e FUNDIVEN licenciadas para comércio e indústria de bens e tecnologias militares.",
+      "tags": [
+        "empresas"
+      ]
+    },
+    {
+      "id": "1174343020",
+      "note": "Coimbra delimita a unidade de execução urbanística «7 Fontes».",
+      "tags": [
+        "habitacao"
+      ]
+    }
+  ]
+}

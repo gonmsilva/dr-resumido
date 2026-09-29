@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-24",
+  "overview": "Dia calmo, com duas notícias de fundo: entra uma nova companhia aérea no mercado com licença temporária e a Procuradoria-Geral da República fixa as prioridades da política criminal para os próximos dois anos. O resto foram nomeações e regulamentos locais.",
+  "highlights": [
+    {
+      "id": "1173180178",
+      "headline": "Nova companhia aérea SPRINGJET recebe licença temporária",
+      "explanation": "A Autoridade Nacional da Aviação Civil concedeu à SPRINGJET, S. A. uma licença temporária de exploração de transporte aéreo.",
+      "tags": ["empresas", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1173180177",
+      "headline": "Definidas as prioridades da política criminal para 2026-2028",
+      "explanation": "A Procuradoria-Geral da República publicou as diretivas e instruções genéricas que vão orientar a execução da Lei de Política Criminal no biénio 2026-2028.",
+      "tags": ["justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1173120485", "note": "Governo declara de interesse público nacional o Campus Veritati da Universidade Católica Portuguesa.", "tags": ["educacao"] },
+    { "id": "1173120503", "note": "Autorizado um novo encargo plurianual da SPMS para o desenvolvimento digital do SNS 24.", "tags": ["saude"] },
+    { "id": "1173180518", "note": "Novo regulamento para os parques de estacionamento e zonas de largada nos aeroportos da ANA.", "tags": ["infraestruturas"] }
+  ]
+}

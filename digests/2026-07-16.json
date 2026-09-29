@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-16",
+  "overview": "O Tribunal Constitucional travou a atualização antecipada da renda a inquilinos idosos e de baixos rendimentos em contratos antigos. O Governo aprovou também a nova orgânica do INEM.",
+  "highlights": [
+    {
+      "id": "1148259739",
+      "headline": "Tribunal Constitucional protege rendas de inquilinos idosos mais pobres",
+      "explanation": "É declarada inconstitucional a possibilidade de atualizar a renda de contratos de arrendamento antigos antes do prazo de 10 anos quando o inquilino tem 65 anos ou mais e rendimentos baixos, travando uma via de aumento antecipado da renda a este grupo.",
+      "tags": ["habitacao", "justica", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1148213726",
+      "headline": "Aprovada nova orgânica do INEM",
+      "explanation": "Decreto-Lei aprova a nova estrutura orgânica do INEM, a autoridade nacional de emergência médica responsável pelo 112 e pelo socorro pré-hospitalar.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1148213729", "note": "Alterados os modelos da declaração periódica de IVA e respetivos anexos.", "tags": ["impostos"] },
+    { "id": "1148260289", "note": "Sintra revê o programa ReaVIVA de apoio a obras em imóveis nas áreas de reabilitação urbana.", "tags": ["habitacao"] },
+    { "id": "1148260040", "note": "Barrancos aprova o seu Plano Municipal de Ação Climática.", "tags": ["energia"] }
+  ]
+}

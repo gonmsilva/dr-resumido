@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-03",
+  "overview": "À boleia do arranque do ano letivo, o Governo alarga a proibição de telemóveis nas escolas ao 3.º ciclo. Os incêndios rurais do verão no Centro e Norte são reconhecidos como catástrofe natural, abrindo caminho a apoios.",
+  "highlights": [
+    {
+      "id": "1166155909",
+      "headline": "Proibição de telemóveis nas escolas alarga-se ao 3.º ciclo",
+      "explanation": "O regime que restringe o uso de telemóveis e outros equipamentos com acesso à Internet em contexto escolar passa a abranger também os alunos do 3.º ciclo do ensino básico.",
+      "tags": ["educacao", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1166173601",
+      "headline": "Incêndios do verão no Centro e Norte reconhecidos como catástrofe natural",
+      "explanation": "O Governo reconhece como catástrofe natural os incêndios rurais ocorridos entre 2 e 7 de julho e entre 28 de julho e 2 de agosto de 2026 nas regiões Centro e Norte, o que permite acionar apoios previstos para estas situações.",
+      "tags": ["social", "estado"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    {
+      "id": "1166155908",
+      "note": "Alterado o regime excecional e temporário sobre requisitos científicos para contratação de docentes pós-Bolonha no ensino superior.",
+      "tags": ["educacao"]
+    },
+    {
+      "id": "1166155907",
+      "note": "Alterado o decreto-lei que criou a Museus e Monumentos de Portugal, E. P. E.",
+      "tags": ["estado"]
+    }
+  ]
+}

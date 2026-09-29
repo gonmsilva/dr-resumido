@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-06",
+  "overview": "Dia dominado pela banca e pelas finanças públicas: o Governo escolheu a proposta vencedora para a venda do Banco Caixa Geral ― Brasil e definiu o modelo de governação do empréstimo SAFE para a defesa. Fora isso, simplificam-se as custas processuais e fixam-se novas taxas para ensaios clínicos, além de regras de pesca atualizadas para a Ria Formosa, o Sado e o Tejo.",
+  "highlights": [
+    {
+      "id": "1154555257",
+      "headline": "Governo escolhe comprador para o Banco Caixa Geral ― Brasil",
+      "explanation": "O Conselho de Ministros selecionou a proposta vencedora para a aquisição da totalidade das ações da CGD no Banco Caixa Geral ― Brasil. É o passo decisivo para a venda desta participação do banco público brasileiro do grupo CGD.",
+      "tags": ["banca", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1154555253",
+      "headline": "Definido o modelo de governação do empréstimo europeu SAFE",
+      "explanation": "O Governo aprovou como vai gerir o empréstimo atribuído a Portugal no âmbito do instrumento europeu SAFE, criado para financiar despesas de defesa e segurança. Define quem decide o quê na aplicação deste financiamento europeu.",
+      "tags": ["estado", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1154555254",
+      "headline": "Custas processuais em tribunal vão ter procedimentos mais simples",
+      "explanation": "Um decreto-lei simplifica os procedimentos das secretarias judiciais relativos ao pagamento e cobrança de custas processuais. Afeta quem tem processos em tribunal e paga estas taxas.",
+      "tags": ["justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1154555260",
+      "note": "Fixadas novas taxas a cobrar por ensaios clínicos e investigação clínica.",
+      "tags": ["saude"]
+    },
+    {
+      "id": "1154555261",
+      "note": "Novas regras para a pesca comercial e lúdica nas águas interiores da Ria Formosa.",
+      "tags": ["empresas"]
+    },
+    {
+      "id": "1154555258",
+      "note": "Autorizada despesa para renovar o cluster informático da Autoridade Tributária nos seus centros de dados.",
+      "tags": ["impostos", "estado"]
+    },
+    {
+      "id": "1154555252",
+      "note": "A Assembleia retifica a resolução que pede ao Governo a revisão do financiamento das refeições escolares.",
+      "tags": ["educacao", "social"]
+    },
+    {
+      "id": "1154660802",
+      "note": "O Município do Crato declara utilidade pública urgente para expropriar terrenos destinados a uma conduta de água para a ETA de Póvoa e Meadas.",
+      "tags": ["infraestruturas"]
+    }
+  ]
+}

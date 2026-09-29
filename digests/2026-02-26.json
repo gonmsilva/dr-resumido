@@ -1,0 +1,40 @@
+{
+  "date": "2026-02-26",
+  "overview": "Foi publicado o mapa oficial com o resultado da segunda volta das presidenciais de 8 de fevereiro, e o Governo reestruturou o Instituto da Segurança Social e reforçou a linha de crédito de apoio à reconstrução das zonas afetadas pela tempestade Kristin. Resto do dia dominado por despachos e regulamentos de rotina.",
+  "highlights": [
+    {
+      "id": "1062525477",
+      "headline": "Publicado o mapa oficial com o resultado da segunda volta das presidenciais",
+      "explanation": "A Comissão Nacional de Eleições publicou o mapa oficial com o resultado da eleição para Presidente da República realizada a 8 de fevereiro de 2026, em segundo sufrágio, formalizando o resultado.",
+      "tags": ["estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1060895758",
+      "headline": "Instituto da Segurança Social é reestruturado",
+      "explanation": "Decreto-lei reorganiza o Instituto da Segurança Social, I. P., com impacto potencial no funcionamento dos serviços que gerem pensões e prestações sociais de milhões de portugueses.",
+      "tags": ["estado", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1060895762",
+      "headline": "Reforçada linha de crédito para reconstrução após a tempestade Kristin",
+      "explanation": "O Governo reforça a linha de crédito à tesouraria destinada a apoiar a reconstrução das zonas afetadas pela tempestade Kristin, alargando o financiamento disponível às famílias e empresas atingidas.",
+      "tags": ["empresas", "habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1060895759",
+      "headline": "Estado troca imóveis para instalar sede da Universidade Aberta",
+      "explanation": "Resolução do Conselho de Ministros autoriza a venda de um prédio na Avenida 5 de Outubro à Universidade Aberta para nova sede, e a troca por permuta do Palácio Ceia e de um imóvel na Rua da Imprensa Nacional.",
+      "tags": ["educacao", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1060895768", "note": "Governo cria comissariado nacional para as comemorações dos 900 anos da Batalha de São Mamede, a partir de junho de 2026.", "tags": ["estado"] },
+    { "id": "1060895765", "note": "Aprovada a atualização do plano de recuperação de aprendizagens «Aprender Mais Agora».", "tags": ["educacao"] },
+    { "id": "1062752881", "note": "Ministério do Ambiente harmoniza condições de procedimentos excecionais em zonas de grande procura energética.", "tags": ["energia"] },
+    { "id": "1062231829", "note": "Aprovada a operação de reabilitação urbana da área histórica da cidade de Fátima.", "tags": ["habitacao"] }
+  ]
+}

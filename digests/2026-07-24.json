@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-24",
+  "overview": "Avança o processo de reprivatização parcial da TAP, com o pagamento inicial do comprador escolhido, e o imposto sobre os combustíveis foi outra vez revisto. O Governo reforçou também as regras de qualidade da água para consumo humano.",
+  "highlights": [
+    {
+      "id": "1152409240",
+      "headline": "Avança a reprivatização parcial da TAP",
+      "explanation": "Despacho determina o pagamento de uma prestação inicial e a garantia bancária pelo proponente selecionado no processo de reprivatização parcial da TAP, um passo formal para fechar a venda de parte da companhia.",
+      "tags": ["empresas", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1152437366",
+      "headline": "Imposto sobre os combustíveis revisto de novo",
+      "explanation": "Nova portaria fixa outra vez as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1151816543",
+      "headline": "Reforçadas as regras de qualidade da água para consumo humano",
+      "explanation": "Decreto-Lei altera o regime jurídico da qualidade da água para consumo humano, transpondo diretivas europeias sobre este tema.",
+      "tags": ["saude", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1151831772", "note": "Vila de Rei publica o seu Regulamento Municipal de Arrendamento Acessível.", "tags": ["habitacao"] },
+    { "id": "1152437365", "note": "Regulamentado o apoio financeiro às rádios afetadas pela tempestade Kristin.", "tags": ["empresas"] }
+  ]
+}

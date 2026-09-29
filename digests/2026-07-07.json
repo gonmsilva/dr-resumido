@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-07",
+  "overview": "Dia sobretudo administrativo. Destaque para a alteração ao Estatuto das Instituições Particulares de Solidariedade Social e para a recomendação do Parlamento para subir o limite da consignação do IRS a instituições sociais.",
+  "highlights": [
+    {
+      "id": "1144685808",
+      "headline": "Alterado o Estatuto das IPSS",
+      "explanation": "Decreto-Lei muda as regras que regem as Instituições Particulares de Solidariedade Social, entidades que gerem lares, creches e apoio social em todo o país.",
+      "tags": ["social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1144685805",
+      "headline": "Parlamento quer subir para 1,5% a consignação do IRS a instituições",
+      "explanation": "Recomendação ao Governo para aumentar o limite da fatia do IRS que os contribuintes podem destinar a instituições sociais, religiosas ou de utilidade pública na declaração anual.",
+      "tags": ["impostos", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1144685810", "note": "Reforçado o regime de pagamento por conta às empresas que emitem títulos de transporte público.", "tags": ["infraestruturas", "empresas"] },
+    { "id": "1144687304", "note": "Declarada utilidade pública para a construção da Via Nordeste, em Gondomar.", "tags": ["infraestruturas"] },
+    { "id": "1144707513", "note": "Barcelos aprova o novo regulamento de organização e funcionamento do seu mercado municipal.", "tags": ["estado"] }
+  ]
+}

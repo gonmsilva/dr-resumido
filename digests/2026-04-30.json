@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-30",
+  "overview": "O Governo fixou as novas taxas do imposto sobre os produtos petrolíferos, com efeito direto nos preços dos combustíveis, e reformou o Sistema Nacional de Gás, transpondo regras europeias para os mercados de gás e hidrogénio. Fora isso, dia de nomeações e regulamentos municipais, com destaque para a definição das águas balneares e época balnear de 2026.",
+  "highlights": [
+    {
+      "id": "1103945098",
+      "headline": "Governo revê as taxas do imposto sobre os combustíveis",
+      "explanation": "Uma nova portaria fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), com impacto direto no preço dos combustíveis pagos pelos consumidores e pelas empresas de transporte.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1102472596",
+      "headline": "Reformado o Sistema Nacional de Gás",
+      "explanation": "O Decreto-Lei n.º 94/2026 reorganiza o funcionamento do Sistema Nacional de Gás, transpondo diretivas europeias sobre os mercados de gás renovável, gás natural e hidrogénio, e sobre eficiência energética.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1102518728", "note": "Definidas as águas balneares e a época balnear de 2026, com presença assegurada de nadadores-salvadores.", "tags": ["energia"] },
+    { "id": "1099432174", "note": "Infraestruturas de Portugal autorizada a reprogramar os encargos das obras de desnivelamento da Linha do Minho entre Nine e Viana.", "tags": ["infraestruturas"] },
+    { "id": "1102472598", "note": "Governo altera os encargos plurianuais com os protocolos de mediação sociocultural da Agência para a Integração, Migrações e Asilo.", "tags": ["social"] }
+  ]
+}

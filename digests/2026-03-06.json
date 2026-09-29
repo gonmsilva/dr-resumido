@@ -1,0 +1,51 @@
+{
+  "date": "2026-03-06",
+  "overview": "Dia forte em legislação com impacto direto: o Governo foi autorizado a aprovar benefícios fiscais para aumentar a oferta de habitação e a rever as regras do licenciamento urbanístico, o imposto sobre combustíveis foi revisto e entrou em vigor uma nova lei sobre ensaios clínicos de medicamentos.",
+  "highlights": [
+    {
+      "id": "1068965400",
+      "headline": "Governo autorizado a criar benefícios fiscais para aumentar a oferta de habitação",
+      "explanation": "A Assembleia da República autoriza o Governo a aprovar medidas de desagravamento fiscal destinadas a fomentar a oferta de habitação, um passo que antecede novas regras de IRS/IMI ou IMT ligadas à construção e arrendamento.",
+      "tags": ["impostos", "habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1068965401",
+      "headline": "Governo autorizado a rever o licenciamento urbanístico",
+      "explanation": "Autorização legislativa para o Governo alterar o regime jurídico da urbanização e edificação e o regime da reabilitação urbana, com vista a simplificar o licenciamento de obras.",
+      "tags": ["habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1068974002",
+      "headline": "Revistas as taxas do imposto sobre combustíveis",
+      "explanation": "Nova portaria fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), com reflexo no preço dos combustíveis na bomba.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1068062486",
+      "headline": "Nova lei regula os ensaios clínicos de medicamentos",
+      "explanation": "Lei que regula os ensaios clínicos de medicamentos para uso humano e altera o regime da investigação clínica em Portugal.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1068062489",
+      "note": "Alterada a compensação financeira paga pelo Estado à Metro Mondego pelas obrigações de serviço público.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1068062487",
+      "note": "Aprovado o IV Plano Nacional de Ação sobre Mulheres, Paz e Segurança para 2026-2030.",
+      "tags": ["social"]
+    },
+    {
+      "id": "1067115355",
+      "note": "Autorizado o encargo plurianual para o projeto de satélite militar em órbita muito baixa (Very Low Earth Orbit) da Defesa.",
+      "tags": ["empresas"]
+    }
+  ]
+}

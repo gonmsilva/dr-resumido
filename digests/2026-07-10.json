@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-10",
+  "overview": "Nova revisão das taxas do imposto sobre os combustíveis e luz verde para a duplicação da Linha do Alentejo entre Poceirão e Bombel. O Governo também exige certificação prévia dos sistemas informáticos usados nas escolas.",
+  "highlights": [
+    {
+      "id": "1146592520",
+      "headline": "Imposto sobre os combustíveis volta a ser revisto",
+      "explanation": "Nova portaria fixa outra vez as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, com efeito direto no preço da gasolina e do gasóleo.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1145934536",
+      "headline": "Avança a duplicação da Linha do Alentejo entre Poceirão e Bombel",
+      "explanation": "Declarada a utilidade pública das obras de modernização e duplicação deste troço ferroviário, que abrange Palmela, Montijo e Vendas Novas.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1145969705",
+      "headline": "Sistemas informáticos usados nas escolas passam a exigir certificação",
+      "explanation": "Decreto-Lei obriga a certificação prévia dos sistemas de informação usados em contexto escolar e pedagógico no ensino não superior, público, privado e cooperativo.",
+      "tags": ["educacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1145969708", "note": "Ajustados os apoios extraordinários à agricultura e pescas face à crise no Médio Oriente.", "tags": ["empresas"] },
+    { "id": "1145969707", "note": "Alterado o regime excecional de simplificação para a reconstrução dos concelhos afetados pela tempestade Kristin.", "tags": ["habitacao"] },
+    { "id": "1146131134", "note": "Almada consulta o público sobre o novo Conselho de Turismo do concelho.", "tags": ["estado"] }
+  ]
+}

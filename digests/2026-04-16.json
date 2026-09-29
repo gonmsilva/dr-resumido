@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-16",
+  "overview": "Dia calmo, dominado por despachos de rotina e promoções militares. O único destaque de fundo é a prorrogação do incentivo fiscal SIFIDE II ao investimento empresarial em investigação e desenvolvimento.",
+  "highlights": [
+    {
+      "id": "1086140529",
+      "headline": "Prorrogado até 2026 o incentivo fiscal SIFIDE II ao investimento em I&D",
+      "explanation": "Lei autoriza o Governo a alterar o Código Fiscal do Investimento para prorrogar o regime de incentivos fiscais à investigação e desenvolvimento empresarial (SIFIDE II) até 2026, deixando de ser possível aplicá-lo indiretamente através de fundos de investimento.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1086396277",
+      "note": "Nomeados cinco novos membros do Conselho de Estado pelo Presidente da República.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1086396278",
+      "note": "Nomeados dois novos vogais do Conselho Superior da Magistratura.",
+      "tags": ["justica"]
+    },
+    {
+      "id": "1086129749",
+      "note": "Declarado o interesse público de usar 4 hectares de Reserva Agrícola Nacional em Mafra para construir um complexo desportivo, a Vila do Futebol.",
+      "tags": ["habitacao", "energia"]
+    }
+  ]
+}

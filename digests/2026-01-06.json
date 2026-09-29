@@ -1,0 +1,40 @@
+{
+  "date": "2026-01-06",
+  "overview": "Saíram as novas tabelas de retenção na fonte de IRS para 2026, que afetam o salário líquido de todos os trabalhadores por conta de outrem. A Assembleia da República reforçou o apoio às vítimas de incêndios e aprovou novas regras para o tempo de trabalho de motoristas, e avançou o contrato de obra do Hospital Central do Alentejo.",
+  "highlights": [
+    {
+      "id": "998488151",
+      "headline": "Novas tabelas de retenção na fonte de IRS para 2026",
+      "explanation": "O Governo aprovou as tabelas de retenção na fonte sobre salários e pensões que vão vigorar durante 2026, o que determina o valor líquido recebido todos os meses por trabalhadores e pensionistas residentes no continente.",
+      "tags": ["impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "996007052",
+      "headline": "Reforçado o apoio às vítimas dos incêndios",
+      "explanation": "A Assembleia da República alterou o regime de apoio às vítimas de incêndios rurais, reforçando as medidas de apoio e mitigação já em vigor desde agosto.",
+      "tags": ["social", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "996007053",
+      "headline": "Novas regras para o tempo de trabalho de motoristas",
+      "explanation": "A Assembleia autorizou o Governo a regular a organização do tempo de trabalho dos trabalhadores móveis do transporte rodoviário, transpondo diretivas europeias para a lei portuguesa.",
+      "tags": ["trabalho"],
+      "importance": "medium"
+    },
+    {
+      "id": "994000306",
+      "headline": "Avança a construção do Hospital Central do Alentejo",
+      "explanation": "A Ministra da Saúde subdelegou no Secretário de Estado da Gestão da Saúde os poderes para executar o contrato de empreitada de construção do novo Hospital Central do Alentejo.",
+      "tags": ["saude", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "996007054", "note": "Nova lei completa a transposição da diretiva europeia sobre reconhecimento de qualificações profissionais.", "tags": ["educacao", "trabalho"] },
+    { "id": "994000577", "note": "A ERSE alterou as regras do autoconsumo elétrico e da qualidade de serviço dos setores elétrico e do gás.", "tags": ["energia"] },
+    { "id": "993807549", "note": "Aberta negociação sobre o reequilíbrio financeiro da subconcessão do Metro Ligeiro do Porto, pedido pela operadora devido ao aumento de custos de limpeza e segurança.", "tags": ["infraestruturas"] },
+    { "id": "993807551", "note": "Aberta negociação sobre a compensação financeira à concessionária da Beira Interior pela eliminação de portagens.", "tags": ["infraestruturas"] }
+  ]
+}

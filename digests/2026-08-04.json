@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-04",
+  "overview": "Pacote de decretos-lei do Governo mexe em áreas que tocam muita gente: expropriações, imposto único de circulação e abastecimento de água na zona sul do Grande Porto. Mantém-se ainda a isenção de portagens nas zonas afetadas pela tempestade Kristin.",
+  "highlights": [
+    {
+      "id": "1154275217",
+      "headline": "Código das Expropriações é alterado",
+      "explanation": "O Governo, usando autorização legislativa da Assembleia da República, altera o Código das Expropriações, que regula como o Estado e as autarquias podem tomar posse de terrenos e imóveis privados para obras e utilidade pública. Afeta proprietários envolvidos em processos de expropriação.",
+      "tags": ["habitacao", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1154275218",
+      "headline": "Código do Imposto Único de Circulação alterado",
+      "explanation": "Nova alteração ao Código do Imposto Único de Circulação (IUC), o imposto anual pago pelos proprietários de veículos, no uso de autorização legislativa da Assembleia da República.",
+      "tags": ["impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1154275219",
+      "headline": "Isenção de portagens por causa da tempestade Kristin é prorrogada",
+      "explanation": "O regime excecional e temporário de isenção do pagamento de portagens, criado para apoiar a mobilidade nas zonas afetadas pela tempestade Kristin, é novamente alterado, mantendo o alívio de custos para quem vive nessas zonas.",
+      "tags": ["infraestruturas", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1154275216",
+      "headline": "Abastecimento de água expande-se a sul do Grande Porto",
+      "explanation": "É alterado o alargamento do sistema multimunicipal de abastecimento de água do sul do Grande Porto, que estende a rede de água a mais municípios da região.",
+      "tags": ["infraestruturas", "habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1154275215", "note": "Alterado o regime jurídico de conservação do lobo-ibérico.", "tags": ["energia"] },
+    { "id": "1154275220", "note": "Reforçado o apoio a criadores de ovinos pela mortalidade causada pelo surto de língua azul.", "tags": ["empresas"] },
+    { "id": "1154275222", "note": "Novas regras para a cédula profissional de terapêuticas não convencionais.", "tags": ["saude"] },
+    { "id": "1154275225", "note": "Supremo Tribunal Administrativo pronuncia-se sobre o cálculo da componente ambiental do Imposto sobre Veículos em carros usados importados.", "tags": ["impostos", "justica"] },
+    { "id": "1154275226", "note": "Madeira atribui a concessão de exploração do Aproveitamento Hidroelétrico da Calheta.", "tags": ["energia"] },
+    { "id": "1154234289", "note": "Declarada utilidade pública urgente para expropriações do prolongamento da Rua das Eirinhas, no Porto.", "tags": ["infraestruturas"] },
+    { "id": "1154275221", "note": "Atualizadas as regras de segurança de brinquedos.", "tags": ["empresas"] }
+  ]
+}

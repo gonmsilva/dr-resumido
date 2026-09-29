@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-10",
+  "overview": "Dia marcado pelo ensino superior e pela área social: nova lei cria respostas sociais para doentes com alta clínica, aprova-se o regime de bolsas de estudo do ensino superior e reforça-se a acessibilidade de estudantes com necessidades específicas. A Fundação para a Ciência e a Tecnologia é extinta por fusão numa nova agência de investigação e inovação.",
+  "highlights": [
+    {
+      "id": "1155101792",
+      "headline": "Nova lei cria o programa \"Voltar a Casa\" para doentes com alta hospitalar",
+      "explanation": "A Assembleia da República aprovou o regime jurídico do programa \"Voltar a Casa\", que garante respostas sociais a utentes que têm alta clínica mas precisam de apoio para regressar a casa. Visa aliviar hospitais e apoiar doentes e famílias na transição do hospital para casa.",
+      "tags": ["saude", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1155188919",
+      "headline": "Aprovado novo regulamento de bolsas de estudo do ensino superior",
+      "explanation": "Uma portaria aprova o regulamento de atribuição de bolsas de estudo a estudantes do ensino superior. Define as regras de acesso a este apoio financeiro para milhares de estudantes universitários e politécnicos.",
+      "tags": ["educacao", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1155101793",
+      "headline": "Novo regime para estudantes com necessidades específicas no ensino superior",
+      "explanation": "A Assembleia da República aprovou o regime jurídico dos estudantes com necessidades educativas específicas no ensino superior, alterando também as regras de acessibilidade de edifícios públicos, via pública e edifícios habitacionais. Afeta universidades, politécnicos e as normas de construção acessível em geral.",
+      "tags": ["educacao", "habitacao", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1155101827",
+      "headline": "Fundação para a Ciência e a Tecnologia extinta por fusão",
+      "explanation": "O Governo declarou a extinção da Fundação para a Ciência e a Tecnologia, I. P., que passa a estar fundida na Agência para a Investigação e Inovação, E. P. E. Muda a estrutura que financia e gere a investigação científica em Portugal.",
+      "tags": ["educacao", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1155101841",
+      "note": "O INFARMED revoga a autorização da Cannprisma ― Pharma, Lda. para produtos à base de canábis medicinal.",
+      "tags": ["saude"]
+    },
+    {
+      "id": "1155101828",
+      "note": "Atualizadas as percentagens de adiantamento dos contratos do programa de Alojamento Estudantil a Custos Acessíveis.",
+      "tags": ["habitacao", "educacao"]
+    },
+    {
+      "id": "1155101849",
+      "note": "Aprovado o regulamento de gestão da albufeira de Foz Tua.",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1155135561",
+      "note": "Segunda alteração ao despacho anual do Fundo Ambiental para 2026.",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1155101794",
+      "note": "A Assembleia Legislativa da Madeira recomenda ao Governo que inclua princípios específicos para as regiões autónomas na revisão da Lei das Finanças Locais.",
+      "tags": ["estado", "impostos"]
+    }
+  ]
+}

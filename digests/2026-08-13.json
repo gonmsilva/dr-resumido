@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-13",
+  "overview": "Dia marcado por duas mudanças de fundo: a criação de uma prestação social única no subsistema de solidariedade e a regulamentação das regras de transparência para quem faz lobbying junto do Governo.",
+  "highlights": [
+    {
+      "id": "1156670556",
+      "headline": "Criada prestação social única no subsistema de solidariedade",
+      "explanation": "O Governo cria, ao abrigo de autorização legislativa da Assembleia da República, uma prestação social única no âmbito do subsistema de solidariedade, substituindo ou simplificando apoios sociais existentes para quem deles depende.",
+      "tags": ["social"],
+      "importance": "high"
+    },
+    {
+      "id": "1156670557",
+      "headline": "Governo regulamenta transparência do lobbying",
+      "explanation": "É regulamentada a lei que obriga a transparência nas entidades que fazem representação de interesses junto do Governo e dos seus gabinetes, definindo como essa atividade de lobbying deve ser reportada.",
+      "tags": ["estado", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1156670555", "note": "Criado regime específico no Portugal 2030 para entidades públicas cujo financiamento do PRR foi revogado ou cessado.", "tags": ["empresas", "estado"] },
+    { "id": "1156670559", "note": "Delimitados perímetros de proteção de várias captações de água subterrânea para abastecimento público, em Vila do Bispo, Beja, Lagos e Vidigueira.", "tags": ["energia"] },
+    { "id": "1156689147", "note": "Atribuída utilidade turística definitiva ao Hotel Quinta da Ombria e ao Club House Ombria, em Loulé.", "tags": ["empresas"] },
+    { "id": "1156689155", "note": "Autorizada a participação portuguesa na missão de capacitação em Timor-Leste em 2026.", "tags": ["estado"] },
+    { "id": "1156670567", "note": "Assembleia dos Açores pede correção das desigualdades no tarifário dos portos e núcleos de pesca da região.", "tags": ["empresas"] }
+  ]
+}

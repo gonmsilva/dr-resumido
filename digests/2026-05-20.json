@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-20",
+  "overview": "O Governo aprova medidas de desagravamento fiscal para aumentar a oferta de habitação e autoriza o investimento na modernização da Linha do Alentejo entre Casa Branca e Beja. A Assembleia da República presta reconhecimento público a Gisèle Pelicot.",
+  "highlights": [
+    {
+      "id": "1124493227",
+      "headline": "Novo desagravamento fiscal para aumentar a oferta de habitação",
+      "explanation": "O Governo aprova, ao abrigo de autorização legislativa, medidas de desagravamento fiscal destinadas a estimular a oferta de habitação no país.",
+      "tags": ["habitacao", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1124493231",
+      "headline": "Avança a modernização da Linha do Alentejo entre Casa Branca e Beja",
+      "explanation": "O Conselho de Ministros autoriza a Infraestruturas de Portugal a realizar despesa e a repartir os encargos plurianuais para a modernização da Linha do Alentejo entre Casa Branca e Beja.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1124493218",
+      "headline": "Assembleia da República reconhece publicamente Gisèle Pelicot",
+      "explanation": "Os deputados aprovam uma resolução de reconhecimento público a Gisèle Pelicot pelo seu contributo para a consciencialização sobre a violência contra as mulheres.",
+      "tags": ["social", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1124493228", "note": "Aprovados apoios financeiros excecionais para reparar infraestruturas de rega danificadas pelo mau tempo de janeiro e fevereiro.", "tags": ["empresas", "energia"] },
+    { "id": "1124492551", "note": "As depressões Leonardo e Marta são reconhecidas oficialmente como catástrofe natural para efeitos de apoios à agricultura.", "tags": ["empresas"] },
+    { "id": "1124493237", "note": "Definidas as regras de compensação aos criadores por perdas de ovinos devido ao surto de língua azul.", "tags": ["empresas"] }
+  ]
+}

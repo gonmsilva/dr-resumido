@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-31",
+  "overview": "Dia calmo. O destaque vai para uma nova proposta de regulamento da ANACOM que obriga os operadores de internet e comunicações a publicar informação mais clara sobre as suas ofertas.",
+  "highlights": [
+    {
+      "id": "1164123787",
+      "headline": "ANACOM quer mais transparência nas ofertas de internet e comunicações",
+      "explanation": "A ANACOM aprova um projeto de regulamento que especifica a informação que as empresas de acesso à Internet e de comunicações interpessoais têm de publicar sobre as suas ofertas. Facilita a comparação de preços e condições pelos consumidores.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1164128605",
+      "note": "Alterada a resolução que autoriza o Fundo Ambiental a financiar a recuperação de territórios ribeirinhos e zonas costeiras afetados por cheias e inundações.",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1164123837",
+      "note": "O Cartaxo avança com a expropriação de uma parcela para o viaduto que vai eliminar a passagem de nível junto ao apeadeiro de Santana/Cartaxo.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1164124181",
+      "note": "A Freguesia de Mujães aprova o novo Regulamento Geral de Taxas e Licenças.",
+      "tags": ["impostos"]
+    },
+    {
+      "id": "1164124182",
+      "note": "A Freguesia de Nogueira e Silva Escura atualiza o regulamento e a tabela de taxas e licenças.",
+      "tags": ["impostos"]
+    }
+  ]
+}

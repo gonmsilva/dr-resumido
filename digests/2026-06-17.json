@@ -1,0 +1,46 @@
+{
+  "date": "2026-06-17",
+  "overview": "Dia dominado pela saúde: o Governo atualiza a lei do medicamento, cria um sistema de avaliação de tecnologias de saúde no INFARMED e aprova um incentivo remuneratório excecional para médicos do SNS. O Supremo Tribunal de Justiça esclarece, em acórdão uniformizador, quando começa a contar a proibição de conduzir.",
+  "highlights": [
+    {
+      "id": "1133485779",
+      "headline": "Governo atualiza regime jurídico do medicamento",
+      "explanation": "É alterado o Decreto-Lei n.º 176/2006, que estabelece as regras para os medicamentos de uso humano em Portugal, atualizando o quadro legal que regula a sua autorização e comercialização.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1133485780",
+      "headline": "Criado sistema nacional de avaliação de tecnologias de saúde",
+      "explanation": "O INFARMED passa a ter um Sistema Nacional de Avaliação de Tecnologias de Saúde, que vai pesar na decisão de que medicamentos e dispositivos entram no SNS e em que condições.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1133485781",
+      "headline": "Incentivo remuneratório excecional para médicos do SNS",
+      "explanation": "É criado um regime excecional de recompensa do desempenho, com incentivo remuneratório para médicos que exerçam funções em entidades do Serviço Nacional de Saúde, numa tentativa de reter profissionais no setor público.",
+      "tags": ["saude", "trabalho"],
+      "importance": "high"
+    },
+    {
+      "id": "1133485784",
+      "headline": "STJ esclarece quando começa a contar a proibição de conduzir",
+      "explanation": "Acórdão uniformizador do Supremo Tribunal de Justiça determina que a proibição de conduzir só começa a contar com o trânsito em julgado da decisão, sem desconto do tempo entretanto passado sem carta. Afeta quem tem processos penais com esta pena acessória.",
+      "tags": ["justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1133485782",
+      "note": "Governo revê a Estratégia Nacional de Conservação da Natureza e Biodiversidade 2030.",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1133905372",
+      "note": "Publicadas as regras do programa SCRI.PT de financiamento da indústria do audiovisual e do cinema.",
+      "tags": ["empresas"]
+    }
+  ]
+}

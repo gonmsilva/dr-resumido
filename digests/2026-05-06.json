@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-06",
+  "overview": "Avança a servidão administrativa para a exploração de lítio na Mina do Barroso e é redefinido o modelo de resposta do Sistema Integrado de Emergência Médica. Em Aveiro, avança uma expropriação em larga escala para uma obra pública.",
+  "highlights": [
+    {
+      "id": "1110001657",
+      "headline": "Servidão administrativa para a exploração de lítio na Mina do Barroso",
+      "explanation": "O Governo determina a constituição de servidão administrativa sobre terrenos em Boticas necessários à exploração de recursos minerais na concessão da Mina do Barroso.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1110001626",
+      "headline": "Novos níveis de resposta da emergência médica",
+      "explanation": "A Ministra da Saúde define os níveis e os meios de resposta do Sistema Integrado de Emergência Médica, com impacto na forma como o socorro é organizado em todo o país.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1110001894",
+      "headline": "Expropriação de quase 550 parcelas em Aveiro",
+      "explanation": "A Câmara de Aveiro declara utilidade pública e autoriza a posse administrativa urgente de 487 parcelas a expropriar e 59 a onerar com servidão, para uma obra pública de grande dimensão.",
+      "tags": ["habitacao", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1110001658", "note": "Governo vai definir o modelo de remuneração e incentivo à produção de biometano.", "tags": ["energia"] },
+    { "id": "1110001659", "note": "Serão criados regulamentos técnicos para as instalações de autoconsumo de energia.", "tags": ["energia"] },
+    { "id": "1110001897", "note": "Aprovada a revisão do Plano Diretor Municipal de Borba.", "tags": ["habitacao"] }
+  ]
+}

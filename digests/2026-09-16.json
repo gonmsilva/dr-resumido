@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-16",
+  "overview": "Dia com vários decretos-lei de fundo: novas regras para passagens de nível e para a transformação de veículos, e autorização a Portugal para participar num reforço de capital do Banco Africano de Desenvolvimento. Também houve reforma das carreiras dos serviços prisionais e propostas de alteração a taxas municipais em Mértola e Palmela.",
+  "highlights": [
+    {
+      "id": "1171382770",
+      "headline": "Novo Regulamento de Passagens de Nível",
+      "explanation": "O Governo aprova novas regras de segurança para as passagens de nível ferroviárias em todo o país, com impacto no planeamento de infraestruturas rodo-ferroviárias e na segurança de quem circula perto de linhas de comboio.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1171382771",
+      "headline": "Aprovado novo Regulamento da Transformação de Veículos",
+      "explanation": "Novo diploma define as regras aplicáveis a alterações estruturais em automóveis, com relevância para oficinas, importadores e proprietários que queiram modificar os seus veículos.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1171532775",
+      "headline": "Portugal entra no reforço de capital do Banco Africano de Desenvolvimento",
+      "explanation": "O Governo autoriza a participação portuguesa no aumento geral de capital exigível do banco, reforçando o compromisso financeiro do país com esta instituição multilateral de desenvolvimento.",
+      "tags": ["banca", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1171382773",
+      "note": "Extinta a carreira de administrador prisional, no âmbito da reforma dos serviços de reinserção social.",
+      "tags": ["justica", "trabalho"]
+    },
+    {
+      "id": "1171382774",
+      "note": "Criadas novas carreiras especiais de técnico superior e técnico de reintegração social, com novas tabelas salariais.",
+      "tags": ["justica", "trabalho"]
+    },
+    {
+      "id": "1171382694",
+      "note": "Mértola põe em consulta pública uma proposta de revisão da tabela de taxas municipais.",
+      "tags": ["impostos", "estado"]
+    },
+    {
+      "id": "1171382698",
+      "note": "Palmela propõe alterações à sua tabela de taxas municipais.",
+      "tags": ["impostos"]
+    },
+    {
+      "id": "1171382699",
+      "note": "Palmela propõe também alterações ao regulamento de isenções de benefícios fiscais do município.",
+      "tags": ["impostos"]
+    },
+    {
+      "id": "1171382412",
+      "note": "A Autoridade Nacional da Aviação Civil revogou uma licença de exploração de transporte aéreo.",
+      "tags": ["infraestruturas", "empresas"]
+    }
+  ]
+}

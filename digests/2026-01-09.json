@@ -1,0 +1,24 @@
+{
+  "date": "2026-01-09",
+  "overview": "Dia tranquilo: destaque para novas regras de ligação à rede elétrica em zonas de grande procura e para a revisão da declaração de IRC (Modelo 22). O resto do dia foi preenchido por atos administrativos de rotina.",
+  "highlights": [
+    {
+      "id": "1002139945",
+      "headline": "Novo procedimento excecional para ligar consumo à rede elétrica em zonas de grande procura",
+      "explanation": "Portaria do Ministério do Ambiente e Energia regulamenta um procedimento excecional para atribuir capacidade de ligação à rede elétrica a instalações de consumo em zonas onde a procura é elevada.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1001264328",
+      "headline": "Finanças alteram a declaração de IRC Modelo 22",
+      "explanation": "A Autoridade Tributária aprova a alteração e revisão da declaração periódica de rendimentos Modelo 22, incluindo anexos e instruções de preenchimento, com impacto em todas as empresas sujeitas a IRC.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1001264337", "note": "Revogada a autorização do Centro de Arbitragem do Sector Automóvel.", "tags": ["justica", "empresas"] },
+    { "id": "1001264361", "note": "APDL atribui concessão para requalificar e ampliar uma marina em Gondomar.", "tags": ["infraestruturas"] }
+  ]
+}

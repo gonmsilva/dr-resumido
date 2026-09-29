@@ -1,0 +1,40 @@
+{
+  "date": "2026-02-13",
+  "overview": "O dia é marcado pela resposta à tempestade «Kristin», com um regime excecional para reconstrução e isenção de portagens nas zonas afetadas, e pela atualização do valor de referência do RSI para 2026. Lisboa prolonga a sua zona de pressão urbanística.",
+  "highlights": [
+    {
+      "id": "1050874165",
+      "headline": "Regime excecional para reconstruir zonas atingidas pela tempestade Kristin",
+      "explanation": "O Governo aprovou um regime temporário que simplifica os procedimentos administrativos e financeiros para reconstruir e reabilitar património e infraestruturas nos concelhos afetados pela tempestade Kristin.",
+      "tags": ["infraestruturas", "habitacao", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1050874166",
+      "headline": "Isenção de portagens nas zonas afetadas pela tempestade Kristin",
+      "explanation": "Fica temporariamente isento o pagamento de portagens para apoiar a mobilidade nas zonas atingidas pela tempestade, medida que abrange residentes e empresas dessas áreas.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1049254415",
+      "headline": "Valor de referência do RSI atualizado para 2026",
+      "explanation": "É atualizado o valor de referência do Rendimento Social de Inserção para 2026, o que determina o montante desta prestação social para as famílias mais carenciadas.",
+      "tags": ["social"],
+      "importance": "high"
+    },
+    {
+      "id": "1049506911",
+      "headline": "Lisboa prolonga a sua zona de pressão urbanística",
+      "explanation": "O Município de Lisboa prorroga a delimitação da Zona de Pressão Urbanística (ZPU), que condiciona regras de arrendamento e reabilitação em partes da cidade.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1049254423", "note": "Novo apoio às áreas de baldio e a animais usados no pastoreio extensivo para reduzir carga combustível e o risco de incêndio.", "tags": ["energia", "empresas"] },
+    { "id": "1049254410", "note": "Reestruturação do Instituto de Gestão de Fundos de Capitalização da Segurança Social.", "tags": ["social", "estado"] },
+    { "id": "1049254413", "note": "Reestruturação da Autoridade para as Condições do Trabalho.", "tags": ["trabalho", "estado"] },
+    { "id": "1051077047", "note": "Prolonga-se a situação de contingência declarada para os concelhos afetados pela tempestade Kristin.", "tags": ["estado", "infraestruturas"] }
+  ]
+}

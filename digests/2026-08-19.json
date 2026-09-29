@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-19",
+  "overview": "A Assembleia da República alarga o transporte público gratuito a todos os antigos combatentes e transpõe uma diretiva europeia de combate ao tráfico de seres humanos. A ERSE fixou os novos períodos horários da eletricidade em Portugal continental, com impacto na fatura de quem tem tarifas bi ou tri-horárias.",
+  "highlights": [
+    {
+      "id": "1160130309",
+      "headline": "Transporte público gratuito para antigos combatentes alargado a todo o país",
+      "explanation": "A Assembleia da República alterou a lei de 2020 para que o direito ao transporte público gratuito dos antigos combatentes deixe de estar limitado e passe a aplicar-se em todo o território nacional.",
+      "tags": ["social", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1160130310",
+      "headline": "Nova lei reforça combate ao tráfico de seres humanos",
+      "explanation": "Portugal transpôs uma diretiva europeia sobre prevenção do tráfico de seres humanos e proteção das vítimas, alterando o Código Penal e outras leis. Cria a figura do coordenador nacional antitráfico e um ponto focal para encaminhar vítimas entre países.",
+      "tags": ["justica", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1159784501",
+      "headline": "ERSE fixa novos períodos horários da eletricidade",
+      "explanation": "O regulador da energia aprovou os novos períodos horários (horas de ponta, cheias e vazio) em vigor em Portugal continental, que determinam quando a eletricidade é mais cara ou mais barata para quem tem tarifa bi-horária ou tri-horária.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1160130311",
+      "note": "Parlamento autoriza o Governo a alterar o regime das contraordenações aeronáuticas civis.",
+      "tags": ["infraestruturas", "justica"]
+    },
+    {
+      "id": "1160130322",
+      "note": "Criado um subsídio de 2026 que reduz o preço da gasolina e do gás para a pequena pesca artesanal e costeira e pequena aquicultura.",
+      "tags": ["empresas", "energia"]
+    },
+    {
+      "id": "1160416973",
+      "note": "Aprovado o plano de gestão das zonas de conservação e proteção especial do Estuário do Tejo, que condiciona usos e obras na área protegida.",
+      "tags": ["energia", "habitacao"]
+    },
+    {
+      "id": "1159784490",
+      "note": "Aberto o processo de classificação como património cultural do Edifício do Círculo Eça de Queiroz, em Lisboa.",
+      "tags": ["estado"]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-02-27",
+  "overview": "Dia mais calmo, com destaque para a classificação da Livraria Lello, no Porto, como monumento nacional e a conclusão da Zona Especial de Conservação do Guadiana. O Governo alterou ainda o sistema de incentivos à inovação e competitividade das empresas.",
+  "highlights": [
+    {
+      "id": "1062753816",
+      "headline": "Livraria Lello classificada como monumento nacional",
+      "explanation": "A histórica Livraria Lello e Irmão, no Porto, foi reclassificada e passa a ter a designação de «monumento nacional», mantendo-se a zona especial de proteção já existente.",
+      "tags": ["estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1062753812",
+      "headline": "Concluída a designação da Zona Especial de Conservação do Guadiana",
+      "explanation": "Decreto-lei formaliza a designação da Zona Especial de Conservação do Guadiana, reforçando a proteção ambiental desta bacia hidrográfica no sul do país.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1062752884",
+      "headline": "Alterado o regime de incentivos à inovação e competitividade das empresas",
+      "explanation": "Segunda alteração ao Regulamento do Sistema de Incentivos «Instrumento Financeiro para a Inovação e Competitividade», que define as condições de acesso a apoios para empresas que invistam em inovação.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1062753815", "note": "Aprovado acordo de cooperação entre Portugal e França nas áreas da língua, educação, ciência e cultura.", "tags": ["educacao", "estado"] },
+    { "id": "1062536049", "note": "Autorizada a aquisição de equipamento médico pesado para o Hospital das Forças Armadas.", "tags": ["saude"] },
+    { "id": "1062753814", "note": "Ajustado o regime florestal em parcelas de terreno de Cabeceiras de Basto.", "tags": ["energia"] },
+    { "id": "1062753391", "note": "Município de Barrancos abre discussão pública da revisão do seu Plano Diretor Municipal.", "tags": ["habitacao"] }
+  ]
+}

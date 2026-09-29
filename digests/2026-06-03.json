@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-03",
+  "overview": "Destaque para uma lei que transpõe diretivas europeias de cooperação fiscal e altera o IRS e o Imposto Mínimo Global, e para um novo apoio extraordinário aos transportadores de mercadorias e ao transporte público de passageiros. O Conselho de Ministros reforçou ainda os apoios à agricultura face ao custo dos fertilizantes.",
+  "highlights": [
+    {
+      "id": "1129390702",
+      "headline": "Nova lei fiscal altera IRS e reforça cooperação administrativa entre países",
+      "explanation": "Transpõe diretivas europeias sobre troca de informação fiscal entre Estados-membros e altera o Código do IRS, o regime das infrações tributárias e o Imposto Mínimo Global, reforçando o combate à evasão fiscal internacional.",
+      "tags": ["impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1129893852",
+      "headline": "Governo cria apoio extraordinário para transporte de mercadorias e reforça incentivo ao transporte público",
+      "explanation": "Novo apoio temporário para operadores de transporte de mercadorias por conta de outrem, a par do reforço do programa que subsidia o transporte público coletivo de passageiros.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1129390706",
+      "headline": "Apoios financeiros ao setor agrícola para mitigar custo dos fertilizantes",
+      "explanation": "O Conselho de Ministros atribuiu apoios aos agricultores para fazer face ao aumento dos custos dos fertilizantes e de outros fatores de produção.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1129390707", "note": "Governo autoriza despesa com manuais escolares digitais e físicos, incluindo licenças digitais.", "tags": ["educacao"] },
+    { "id": "1129302344", "note": "Constituída a comissão que vai negociar o reforço de material circulante do transporte ferroviário suburbano do eixo Norte-Sul.", "tags": ["infraestruturas"] }
+  ]
+}

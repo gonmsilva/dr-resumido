@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-17",
+  "overview": "Dia preenchido sobretudo por promoções militares, mas com dois destaques de negócios: a saída da Mota-Engil da sociedade gestora do edifício do Hospital de Lisboa Oriental e a extinção, por caducidade, do contrato de concessão mineira «Alvalade». O Governo aprovou ainda a Estratégia TERRA+ para 2026-2030.",
+  "highlights": [
+    {
+      "id": "1171535241",
+      "headline": "Mota-Engil sai da gestão do edifício do Hospital de Lisboa Oriental",
+      "explanation": "O Estado autoriza a transmissão das ações que a Mota-Engil e a Infrared Infrastructure detinham na sociedade que gere o edifício do Hospital de Lisboa Oriental, construído em parceria público-privada, para a Hygeia, alterando o domínio e a gestão da sociedade.",
+      "tags": ["saude", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1171687199",
+      "headline": "Extinto o contrato da concessão mineira «Alvalade»",
+      "explanation": "O contrato de concessão CE-164, denominado «Alvalade», caducou e foi extinto pela Direção-Geral de Energia e Geologia.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1171535220",
+      "note": "Governo aprova a Estratégia TERRA+ para o período 2026-2030.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1171535236",
+      "note": "Fundação D. Luís obtém isenção de IRC ao abrigo do Código do IRC.",
+      "tags": ["impostos"]
+    },
+    {
+      "id": "1171535237",
+      "note": "Estado português garante financiamento para a reabilitação de um troço de 65,8 km da EN 354, em Angola.",
+      "tags": ["infraestruturas", "empresas"]
+    },
+    {
+      "id": "1171535238",
+      "note": "Estado português garante também financiamento para a reabilitação de infraestruturas da Urbanização Nova Vida, em Angola.",
+      "tags": ["infraestruturas", "empresas"]
+    },
+    {
+      "id": "1171535240",
+      "note": "Fixados os valores dos abonos de alimentação pagos pelo Estado aos militares da GNR e a todo o pessoal da PSP.",
+      "tags": ["trabalho", "estado"]
+    }
+  ]
+}

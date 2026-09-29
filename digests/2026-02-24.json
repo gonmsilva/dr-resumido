@@ -1,0 +1,40 @@
+{
+  "date": "2026-02-24",
+  "overview": "Dia com atividade legislativa relevante da Assembleia da República: fim das portagens para pesados em três autoestradas do Centro e Norte, reestruturação do apoio às pessoas com deficiência e conclusão de duas novas zonas de conservação da natureza. O Governo também prorrogou o funcionamento da comissão de inquérito ao INEM.",
+  "highlights": [
+    {
+      "id": "1058701611",
+      "headline": "Suspensa a cobrança de portagens a veículos pesados na A41, A19 e A8",
+      "explanation": "Nova lei clarifica o regime de suspensão do pagamento de portagens para veículos pesados que circulem na A41, no troço da A19 entre São Jorge e Leiria Sul, e na A8 entre Leiria Sul e Pousos.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1058701616",
+      "headline": "Criado novo Instituto para os Direitos das Pessoas com Deficiência",
+      "explanation": "Decreto-lei reestrutura o Instituto Nacional para a Reabilitação e cria em seu lugar o Instituto para os Direitos das Pessoas com Deficiência, I. P., alterando a organização pública de apoio a esta população.",
+      "tags": ["social", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1058701614",
+      "headline": "Prorrogada a comissão parlamentar de inquérito ao INEM",
+      "explanation": "A Assembleia da República alargou o prazo de funcionamento da Comissão Parlamentar de Inquérito ao Instituto Nacional de Emergência Médica, que continua a investigar o funcionamento da emergência médica em Portugal.",
+      "tags": ["saude", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1058701617",
+      "headline": "Duas novas zonas de conservação da natureza formalizadas",
+      "explanation": "O Governo concluiu o processo de designação das Zonas Especiais de Conservação dos Rios Sabor e Maçãs e do Caia, reforçando a proteção ambiental nestas bacias hidrográficas.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1058500281", "note": "Derrogação temporária a regras agroambientais devido ao mau tempo que afetou o continente desde janeiro.", "tags": ["empresas"] },
+    { "id": "1057856066", "note": "Novo modelo de governação para os programas nacionais de rastreio de saúde de base populacional.", "tags": ["saude"] },
+    { "id": "1058701612", "note": "Assembleia da República recomenda ao Governo aplicar de forma uniforme o direito ao esquecimento no acesso a crédito e seguros.", "tags": ["banca"] },
+    { "id": "1058500586", "note": "Município do Seixal atualiza o regulamento de taxas municipais para 2026.", "tags": ["impostos", "estado"] }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-07",
+  "overview": "O Governo declarou de utilidade pública imprescindível a quadruplicação da Linha do Minho entre Contumil e Ermesinde, um investimento ferroviário relevante para a área metropolitana do Porto. Também mudou as regras para ensino superior estrangeiro em Portugal, redenominou o fundo que financia mobilidade e transportes, e criou uma urgência regional de ginecologia e obstetrícia para a península de Setúbal.",
+  "highlights": [
+    {
+      "id": "1082345446",
+      "headline": "Governo avança com a quadruplicação da Linha do Minho entre Contumil e Ermesinde",
+      "explanation": "A obra, que abrange Gondomar, Maia e Valongo, foi declarada de imprescindível utilidade pública, o que agiliza os processos necessários para arrancar. É um dos maiores investimentos ferroviários na área metropolitana do Porto.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1082345417",
+      "headline": "Novo regime para ensino superior estrangeiro em Portugal",
+      "explanation": "Fica definido o enquadramento legal para entidades estrangeiras não integradas no sistema de ensino superior português que queiram operar em território nacional, com implicações para estudantes e instituições.",
+      "tags": ["educacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1082345416",
+      "headline": "Fundo para a Mobilidade e Transportes é redenominado e tem novas regras",
+      "explanation": "O diploma redenomina e regulamenta o fundo que apoia investimentos em mobilidade e transportes, com impacto na forma como estes projetos são financiados.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1082603737",
+      "headline": "Nova urgência regional de ginecologia e obstetrícia para a península de Setúbal",
+      "explanation": "O SNS centraliza a urgência de ginecologia e obstetrícia a nível regional, mudança que afeta o acesso a cuidados urgentes de saúde materna na região.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1082345419", "note": "GNR autorizada a reprogramar despesa plurianual para a aquisição de um navio de patrulha costeira.", "tags": ["estado"] },
+    { "id": "1082603676", "note": "Prorrogado o programa \"O Turismo Acolhe\", de apoio à contratação no setor do turismo.", "tags": ["empresas"] },
+    { "id": "1082345470", "note": "Municípios e freguesias abrangidos por medidas excecionais podem pedir a antecipação de um duodécimo das transferências do Estado.", "tags": ["estado", "impostos"] },
+    { "id": "1082345418", "note": "Reprogramados os encargos plurianuais do Fundo de Fundos para a Internacionalização, no valor de 50 milhões de euros.", "tags": ["empresas"] }
+  ]
+}

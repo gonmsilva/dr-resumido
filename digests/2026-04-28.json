@@ -1,0 +1,19 @@
+{
+  "date": "2026-04-28",
+  "overview": "Dia calmo, dominado por portarias de extensão de contratos coletivos e nomeações. A única mudança com impacto alargado é a alteração às condições gerais do seguro obrigatório automóvel, que toca todos os condutores.",
+  "highlights": [
+    {
+      "id": "1095283862",
+      "headline": "Alteradas as condições gerais do seguro obrigatório automóvel",
+      "explanation": "A Autoridade de Supervisão de Seguros e Fundos de Pensões alterou as condições gerais da apólice de seguro obrigatório de responsabilidade civil automóvel, em vigor desde 2008. A mudança aplica-se a todos os condutores com seguro automóvel em Portugal.",
+      "tags": ["banca"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1095232809", "note": "Governo altera o regime de incentivos às empresas para flexibilidade da rede elétrica e armazenamento de energia, no âmbito do PRR.", "tags": ["energia", "empresas"] },
+    { "id": "1095309166", "note": "Alterado o regime de apoio a investimentos em eficiência energética e armazenamento de energia para equipamentos e infraestruturas.", "tags": ["energia"] },
+    { "id": "1095305311", "note": "Câmara de Lisboa aprova a área de reabilitação urbana do Vale de Santo António.", "tags": ["habitacao"] },
+    { "id": "1095305360", "note": "Vila Nova de Famalicão lança nova oferta pública de aquisição de imóveis no âmbito do programa 1.º Direito/PRR.", "tags": ["habitacao"] }
+  ]
+}

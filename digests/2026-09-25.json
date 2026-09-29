@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-25",
+  "overview": "Dia com peso real na carteira: o imposto sobre os combustíveis é revisto e o Passe Ferroviário Verde passa a cobrir também transportes urbanos. Houve ainda mexidas no apoio à habitação, no mecenato cultural e nas regras para veículos pesados.",
+  "highlights": [
+    {
+      "id": "1174266088",
+      "headline": "Governo revê o imposto sobre os combustíveis",
+      "explanation": "Nova portaria fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), com impacto direto no preço pago nos combustíveis.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1174266087",
+      "headline": "Passe Ferroviário Verde passa a cobrir transportes urbanos",
+      "explanation": "Alteração ao regime do Passe Ferroviário Verde alarga o seu âmbito de aplicação aos serviços de transporte urbano, além do ferroviário.",
+      "tags": ["infraestruturas", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1173491825",
+      "headline": "Ajustado o financiamento do apoio à habitação do 1.º Direito",
+      "explanation": "Alterada a resolução que autoriza o IHRU a realizar despesa no âmbito da contratualização com beneficiários do Programa de Apoio ao Acesso à Habitação (1.º Direito).",
+      "tags": ["habitacao", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1173482455",
+      "headline": "Novas regras para o mecenato cultural",
+      "explanation": "Regulamentado o registo de entidades beneficiárias e o funcionamento da Plataforma Nacional do Mecenato, que gere os benefícios fiscais a quem apoia entidades e iniciativas culturais.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1173491824",
+      "headline": "Alteradas as regras de pesos e dimensões dos veículos pesados",
+      "explanation": "Alteração ao regulamento que fixa os pesos e dimensões máximos autorizados para os veículos em circulação, com impacto no setor do transporte de mercadorias.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1173124226", "note": "Autorizados os encargos para reparar a EN 8-2 (IC11), danificada pelas intempéries de 2026.", "tags": ["infraestruturas"] },
+    { "id": "1173491823", "note": "Transposta a proteção europeia das indicações geográficas de produtos artesanais e industriais.", "tags": ["empresas"] },
+    { "id": "1173491826", "note": "Aprovados perímetros de proteção para captações de água nos concelhos de Moura e Mourão.", "tags": ["energia"] }
+  ]
+}

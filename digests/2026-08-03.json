@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-03",
+  "overview": "Dia com destaque para duas leis sobre abusos sexuais na Igreja Católica e para o reforço de direitos dos bombeiros. A Madeira aprovou o seu enquadramento orçamental plurianual até 2030 e criou um estatuto para a pessoa idosa.",
+  "highlights": [
+    {
+      "id": "1153918001",
+      "headline": "Indemnizações a vítimas de abusos na Igreja ficam isentas de IRS",
+      "explanation": "A Assembleia da República aprovou lei que exclui de tributação em IRS as compensações financeiras pagas a vítimas de abusos sexuais ocorridos no contexto da Igreja Católica em Portugal ou em contextos semelhantes. Afeta diretamente o valor líquido que estas pessoas recebem.",
+      "tags": ["impostos", "social", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1153918000",
+      "headline": "Bombeiros ganham mais direitos e regalias",
+      "explanation": "Nova lei altera o regime jurídico dos bombeiros portugueses e as regras de financiamento das associações humanitárias de bombeiros, reforçando direitos e regalias da classe.",
+      "tags": ["trabalho", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1153918018",
+      "headline": "Madeira aprova orçamento plurianual até 2030",
+      "explanation": "A Assembleia Legislativa da Madeira aprovou o quadro plurianual de programação orçamental da região para o período de 2026 a 2030, que enquadra os investimentos e despesas públicas regionais nos próximos anos.",
+      "tags": ["impostos", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1153918017", "note": "Madeira cria o Estatuto da Pessoa Idosa na Região Autónoma.", "tags": ["social"] },
+    { "id": "1153918004", "note": "Assembleia recomenda ao Governo que assegure a terapia fágica no SNS.", "tags": ["saude"] },
+    { "id": "1153917999", "note": "A busca, salvamento e socorro animal passa a integrar a proteção civil.", "tags": ["estado"] },
+    { "id": "1153918005", "note": "Alterado o regime de instalação e exploração de culturas em águas marinhas (aquacultura).", "tags": ["empresas"] },
+    { "id": "1153917424", "note": "DGEG resolve o contrato de concessão das Termas de Monte Real e desqualifica as suas águas como minerais naturais.", "tags": ["energia"] },
+    { "id": "1153818268", "note": "Renovada a declaração de utilidade pública das expropriações para o alargamento da A4 (Águas Santas-Ermesinde).", "tags": ["infraestruturas"] },
+    { "id": "1153917704", "note": "Câmara de Amarante consulta o público sobre alterações à tabela geral de taxas municipais.", "tags": ["impostos", "estado"] },
+    { "id": "1153917742", "note": "Ourém consulta o público sobre nova taxa municipal de ocupação turística.", "tags": ["impostos", "estado"] }
+  ]
+}

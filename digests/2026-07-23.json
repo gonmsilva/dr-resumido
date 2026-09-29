@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-23",
+  "overview": "O Parlamento alargou o direito de antena das rádios locais a todas as eleições e referendos. O Supremo Tribunal Administrativo uniformizou jurisprudência sobre juros a favor do contribuinte quando há erro da Autoridade Tributária.",
+  "highlights": [
+    {
+      "id": "1151256045",
+      "headline": "Rádios locais passam a ter direito de antena em todas as eleições",
+      "explanation": "Lei Orgânica alarga a emissão do direito de antena nas rádios locais a todos os processos eleitorais e referendos, alterando as leis eleitorais do Presidente da República e da Assembleia da República.",
+      "tags": ["estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1151256048",
+      "headline": "STA esclarece quando o Fisco deve pagar juros por erro seu",
+      "explanation": "O Supremo Tribunal Administrativo uniformiza jurisprudência sobre o direito a juros indemnizatórios quando há erro da Autoridade Tributária, precisando quando esse direito não se aplica.",
+      "tags": ["impostos", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1151256047", "note": "Autorizadas as despesas plurianuais da Metro do Porto com a subconcessão da operação e manutenção do metro ligeiro na área metropolitana.", "tags": ["infraestruturas"] },
+    { "id": "1151247872", "note": "Esposende consulta o público sobre o novo regulamento da taxa turística.", "tags": ["impostos", "habitacao"] },
+    { "id": "1151255999", "note": "Ourique aprova o seu novo Regulamento Municipal da Habitação.", "tags": ["habitacao"] }
+  ]
+}

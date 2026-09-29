@@ -1,0 +1,17 @@
+{
+  "date": "2026-04-01",
+  "overview": "Dia calmo, dominado por nomeações e atos de gestão interna. O único destaque é a alteração aos tempos máximos de resposta garantidos no SNS.",
+  "highlights": [
+    {
+      "id": "1080481237",
+      "headline": "Novos prazos máximos de espera no SNS",
+      "explanation": "Altera os Tempos Máximos de Resposta Garantidos (TMRG) do Serviço Nacional de Saúde para prestações sem caráter de urgência, atualizando a Carta de Direitos de Acesso aos Cuidados de Saúde pelos Utentes.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1080495732", "note": "Tolerância de ponto na tarde de Quinta-Feira Santa para trabalhadores do Ministério da Saúde.", "tags": ["saude", "estado"] },
+    { "id": "1080481236", "note": "Nova orgânica para a Academia da Força Aérea.", "tags": ["estado"] }
+  ]
+}

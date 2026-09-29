@@ -1,0 +1,38 @@
+{
+  "date": "2026-07-31",
+  "overview": "Definido o novo regime de circulação na Via de Cintura Interna do Porto, com isenção de portagens na Circular Regional Exterior. O imposto sobre os combustíveis voltou a ser revisto e o Governo abriu o Fundo de Emergência Municipal para reparar estragos das intempéries de fevereiro.",
+  "highlights": [
+    {
+      "id": "1153967375",
+      "headline": "Novo regime de trânsito na Via de Cintura Interna do Porto, sem portagem na Circular Regional Exterior",
+      "explanation": "Decreto-Lei estabelece o regime de circulação na Via de Cintura Interna do Porto e isenta do pagamento de portagens a Circular Regional Exterior do Porto, com impacto direto em quem circula na área metropolitana.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1153967376",
+      "headline": "Imposto sobre os combustíveis revisto outra vez",
+      "explanation": "Nova portaria fixa de novo as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1153698892",
+      "headline": "Aberto o Fundo de Emergência Municipal para reparar estragos das intempéries",
+      "explanation": "Municípios afetados pelos fenómenos meteorológicos excecionais de janeiro e fevereiro podem candidatar-se a este fundo para reparar infraestruturas e equipamentos públicos danificados.",
+      "tags": ["estado", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1153698896",
+      "headline": "Revisto o regime da habitação de custos controlados",
+      "explanation": "Portaria altera pela quarta vez o regime que define as condições de construção e venda de habitação a custos controlados, um instrumento central da política de habitação acessível.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1153698586", "note": "Reestruturada a Direção-Geral do Consumidor, que passa a Direção-Geral da Defesa do Consumidor, Comércio e Serviços.", "tags": ["estado", "empresas"] },
+    { "id": "1153504754", "note": "Esposende submete a discussão o projeto da sua Carta Municipal de Habitação.", "tags": ["habitacao"] }
+  ]
+}

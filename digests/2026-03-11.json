@@ -1,0 +1,24 @@
+{
+  "date": "2026-03-11",
+  "overview": "Dia tranquilo, com o Governo a criar um grupo de trabalho para acelerar os apoios à habitação acessível e o Ministério Público a pronunciar-se sobre a validade dos atestados médicos que sustentam a prestação social para a inclusão.",
+  "highlights": [
+    {
+      "id": "1070724105",
+      "headline": "Governo cria grupo de trabalho para a Habitação Acessível",
+      "explanation": "É criado um grupo de trabalho interministerial para definir as linhas orientadoras e acompanhar os apoios ao setor da Habitação Acessível no âmbito do Portugal 2030.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1070761681",
+      "headline": "Ministério Público pronuncia-se sobre atestados médicos ligados a apoios sociais",
+      "explanation": "Parecer da Procuradoria-Geral da República esclarece a validade dos atestados médicos de incapacidade multiúso (AMIM) para efeitos de manutenção da prestação social para a inclusão, num contexto de conflito de normas.",
+      "tags": ["social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1070724088", "note": "Retificado o regulamento do incentivo às empresas «Flexibilidade da Rede e Armazenamento», financiado pelo PRR.", "tags": ["empresas", "energia"] },
+    { "id": "1070724089", "note": "Açores aprovam novo regime geral de prevenção e gestão de resíduos na região.", "tags": ["energia"] }
+  ]
+}

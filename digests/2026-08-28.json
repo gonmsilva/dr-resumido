@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-28",
+  "overview": "Dia marcado pela revisão das taxas do imposto sobre os combustíveis, pela criação de uma nova estrutura de missão ligada ao financiamento europeu de defesa (SAFE) e por um apoio extraordinário a cooperativas agrícolas e empresas do pescado e da aquicultura.",
+  "highlights": [
+    {
+      "id": "1164128616",
+      "headline": "Governo revê as taxas do imposto sobre os combustíveis",
+      "explanation": "A Portaria revê e fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), o que se reflete diretamente no preço dos combustíveis na bomba.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1163562936",
+      "headline": "Criada estrutura de missão para o programa europeu SAFE",
+      "explanation": "O Governo cria a Estrutura Nacional SAFE, uma estrutura de missão dedicada a este instrumento europeu, ligado a financiamento para a área da defesa. O resumo não detalha as competências concretas atribuídas.",
+      "tags": ["estado", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1163562937",
+      "headline": "Apoio extraordinário a cooperativas agrícolas e empresas do pescado",
+      "explanation": "Fixados os procedimentos para um apoio extraordinário e temporário a cooperativas agrícolas, organizações de produtores, empresas de comercialização e transformação do pescado e empresas de aquicultura que fazem transporte por conta própria.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1163562938",
+      "note": "Aprovadas medidas preventivas para a área destinada à política habitacional regional na zona do Amparo, em São Martinho, Funchal.",
+      "tags": ["habitacao"]
+    },
+    {
+      "id": "1163084629",
+      "note": "Declarada utilidade pública urgente para expropriações necessárias à estabilização de um talude na Linha do Norte, entre os km 202,100 e 202,800.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1163562886",
+      "note": "Mafra põe em consulta pública o projeto de alteração ao Regulamento de Atribuição dos Benefícios Fiscais.",
+      "tags": ["impostos"]
+    },
+    {
+      "id": "1163562908",
+      "note": "A Sertã altera o Regulamento Geral de Taxas Municipais.",
+      "tags": ["impostos"]
+    }
+  ]
+}

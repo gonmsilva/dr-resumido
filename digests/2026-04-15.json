@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-15",
+  "overview": "Dia de leis com impacto direto no bolso e na vida digital: baixa temporária do imposto sobre os combustíveis e transposição do Regulamento dos Serviços Digitais europeu. Houve ainda mudanças nas regras do cadastro predial e no sistema de gestão dos fogos rurais.",
+  "highlights": [
+    {
+      "id": "1086140525",
+      "headline": "Governo baixa temporariamente o imposto sobre os combustíveis",
+      "explanation": "Lei altera temporariamente os limites mínimos das taxas unitárias do ISP (imposto sobre os produtos petrolíferos e energéticos), permitindo um alívio no preço dos combustíveis.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1086140524",
+      "headline": "Portugal transpõe o Regulamento dos Serviços Digitais europeu",
+      "explanation": "Nova lei assegura a execução em Portugal do Regulamento dos Serviços Digitais da UE, alterando regras aplicáveis a plataformas digitais e o sistema judiciário competente para as fazer cumprir.",
+      "tags": ["empresas", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1085738182",
+      "headline": "Alteradas as regras do sistema de gestão integrada dos fogos rurais",
+      "explanation": "Decreto-Lei altera o sistema que organiza a prevenção e combate aos fogos rurais no continente, a poucos meses do início da época de incêndios.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1085738183",
+      "headline": "Mudanças no sistema de cadastro predial simplificado",
+      "explanation": "Decreto-Lei altera o regime jurídico do sistema de informação cadastral simplificado e do Balcão Único do Prédio, usado por quem regista ou consulta a situação de imóveis.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1085738184",
+      "note": "Alteradas as regras do programa de apoio ao turismo \"Crescer com o Turismo\".",
+      "tags": ["empresas"]
+    },
+    {
+      "id": "1085738191",
+      "note": "O Supremo Tribunal de Justiça uniformiza jurisprudência sobre que tribunal é competente para executar coimas de trânsito.",
+      "tags": ["justica"]
+    },
+    {
+      "id": "1085332979",
+      "note": "A ERSE regula a atribuição de capacidade de ligação à rede elétrica em zonas de grande procura.",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1085332715",
+      "note": "Atualizados os apoios financeiros ao pré-escolar para o ano letivo 2025-2026.",
+      "tags": ["educacao", "social"]
+    }
+  ]
+}

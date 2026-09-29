@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-27",
+  "overview": "Dia com foco na indústria e na energia: luz verde à unidade de hidrogénio e amoníaco renovável da Repsol em Sines, transferência da gestão do estaleiro naval da Mitrena para a Administração dos Portos de Setúbal e novas regras para licenciar carregadores elétricos em espaço público. O Estado reforça ainda o Fundo de Emergência Municipal.",
+  "highlights": [
+    {
+      "id": "1078211114",
+      "headline": "Aprovada instalação da unidade de hidrogénio e amoníaco renovável da Repsol em Sines",
+      "explanation": "O Governo declara de utilidade pública o loteamento e as infraestruturas necessárias ao projeto MP2X, que vai instalar unidades de produção de hidrogénio e amoníaco renovável e painéis fotovoltaicos no Complexo Industrial de Sines da Repsol.",
+      "tags": ["energia", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1078211086",
+      "headline": "Estaleiro naval da Mitrena passa para a gestão dos Portos de Setúbal e Sesimbra",
+      "explanation": "Um decreto-lei transfere a administração do domínio público onde está instalado o estaleiro naval da Mitrena para a Administração dos Portos de Setúbal e Sesimbra, com autorização para ceder a posição contratual associada.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1078211087",
+      "headline": "Definidas regras para licenciar carregadores elétricos em espaço público",
+      "explanation": "Uma portaria estabelece os termos das licenças de utilização privativa do domínio público para instalar pontos de carregamento elétrico de veículos, completando o regime da mobilidade elétrica.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1078211107",
+      "headline": "Estado paga a totalidade dos investimentos de emergência em 26 municípios",
+      "explanation": "O Governo autoriza aditamentos a contratos com 26 municípios e uma comunidade intermunicipal no âmbito do Fundo de Emergência Municipal, passando a administração central a cobrir 100% do investimento elegível.",
+      "tags": ["estado", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {"id": "1079638827", "note": "Aprovado o plano de gestão da Zona Especial de Conservação de Sintra/Cascais, que condiciona usos do solo na área protegida.", "tags": ["habitacao", "energia"]},
+    {"id": "1078836906", "note": "Alteradas as regras de avaliação de desempenho (SIADAP 3) para trabalhadores da carreira especial médica.", "tags": ["trabalho", "saude"]}
+  ]
+}

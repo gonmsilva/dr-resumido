@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-20",
+  "overview": "Dia dominado por despachos técnicos, com destaque para o reforço do Fundo de Emergência Municipal a favor de câmaras afetadas por uma situação de calamidade, entre elas Torres Vedras, Alenquer, Arruda dos Vinhos e Sobral de Monte Agraço. O Governo continua também a publicar, aos dezenas, as servidões administrativas para a rede nacional de faixas de gestão de combustível contra incêndios.",
+  "highlights": [
+    {
+      "id": "1160201521",
+      "headline": "Governo reforça fundo de emergência para municípios afetados por calamidade",
+      "explanation": "O Governo reforçou o Fundo de Emergência Municipal e adiantou verbas ao Município de Arganil, além de reforçar as dotações de Alenquer, Arruda dos Vinhos, Sobral de Monte Agraço e Torres Vedras, na sequência de uma situação de calamidade nesses concelhos.",
+      "tags": ["estado", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1160201543",
+      "note": "O Governo publicou dezenas de despachos que declaram utilidade pública para a construção de faixas de gestão de combustível (corta-fogos) em municípios do Norte e Centro do país.",
+      "tags": ["energia", "infraestruturas"]
+    },
+    {
+      "id": "1160472900",
+      "note": "Nova lei estabelece as sanções para quem não cumprir as regras europeias sobre prova eletrónica em processos penais.",
+      "tags": ["justica"]
+    },
+    {
+      "id": "1160472901",
+      "note": "O Parlamento mudou os limites entre freguesias de Gondomar e a freguesia de Campanhã, no Porto.",
+      "tags": ["estado"]
+    }
+  ]
+}

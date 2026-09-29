@@ -1,0 +1,27 @@
+{
+  "date": "2026-01-22",
+  "overview": "O dia é marcado pela criação do Sistema Nacional de Acesso a Consulta e Cirurgia, que promete mudar a forma como os utentes acedem a cuidados hospitalares, e pela publicação do parecer do Tribunal de Contas sobre a Conta Geral do Estado de 2024. O resto foi preenchido por atualizações de taxas municipais um pouco por todo o país.",
+  "highlights": [
+    {
+      "id": "1019913911",
+      "headline": "Criado o Sistema Nacional de Acesso a Consulta e Cirurgia",
+      "explanation": "Novo decreto-lei cria um sistema nacional para gerir o acesso dos utentes a consultas e cirurgias no SNS. Pretende uniformizar e agilizar o encaminhamento de doentes entre hospitais.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1020447694",
+      "headline": "Tribunal de Contas divulga parecer sobre as contas do Estado de 2024",
+      "explanation": "O Tribunal de Contas publicou o Relatório e Parecer sobre a Conta Geral do Estado relativa a 2024, o documento que avalia a execução orçamental e as contas públicas desse ano.",
+      "tags": ["impostos", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1019913970", "note": "Atualizadas as taxas cobradas pela disponibilização e utilização de produtos biocidas em 2026.", "tags": ["saude", "impostos"] },
+    { "id": "1020447693", "note": "Fixados os valores da taxa de certificação de vinhos e produtos vínicos para 2026.", "tags": ["empresas", "impostos"] },
+    { "id": "1020447725", "note": "Arruda dos Vinhos atualiza a tabela de taxas municipais com base na inflação.", "tags": ["impostos"] },
+    { "id": "1020448503", "note": "Sertã altera o regulamento geral de taxas municipais.", "tags": ["impostos"] },
+    { "id": "1020447765", "note": "Loulé abre discussão pública do Regulamento do Fundo de Compensação da Unidade de Execução de Quarteira Norte/Nordeste.", "tags": ["habitacao"] }
+  ]
+}

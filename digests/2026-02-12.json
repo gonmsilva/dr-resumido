@@ -1,0 +1,34 @@
+{
+  "date": "2026-02-12",
+  "overview": "Dia calmo, dominado por nomeações e atos de pessoal nas Forças Armadas e nas câmaras municipais. Os destaques ficam em habitação, com Sintra a delimitar zonas de pressão urbanística e Loulé a lançar uma consulta ao mercado para comprar 100 fogos.",
+  "highlights": [
+    {
+      "id": "1047287155",
+      "headline": "Sintra delimita zonas de pressão urbanística",
+      "explanation": "A Câmara Municipal de Sintra aprovou a delimitação de «zonas de pressão urbanística», coincidentes com as áreas de reabilitação urbana do concelho, o que pode condicionar regras de arrendamento e reabilitação nessas zonas.",
+      "tags": ["habitacao", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1047287077",
+      "headline": "Loulé quer comprar 100 casas para habitação local",
+      "explanation": "O Município de Loulé abriu uma consulta pública ao mercado imobiliário, sem compromisso, para adquirir 100 fogos no âmbito da sua estratégia local de habitação 2019-2032.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1047287417",
+      "headline": "Novas instruções para a declaração mensal de remunerações",
+      "explanation": "As Finanças aprovaram novas instruções de preenchimento da declaração mensal de remunerações (DMR), o documento que todas as entidades empregadoras entregam à Autoridade Tributária sobre salários pagos.",
+      "tags": ["impostos", "trabalho"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1047286793", "note": "Seguros: novos índices trimestrais de atualização de capitais para apólices de incêndio, válidos no 2.º trimestre de 2026.", "tags": ["banca"] },
+    { "id": "1047286852", "note": "Cascais abre discussão pública sobre a requalificação de um empreendimento turístico em Alcabideche.", "tags": ["habitacao", "empresas"] },
+    { "id": "1047286839", "note": "Amadora inicia consulta pública da sua Carta Municipal de Habitação até 2035.", "tags": ["habitacao"] },
+    { "id": "1047286792", "note": "TAP pede autorização para operar a rota Lisboa-São Luís (Brasil).", "tags": ["infraestruturas"] },
+    { "id": "1047287414", "note": "Portaria acrescenta um escalão remuneratório ao pessoal das administrações portuárias.", "tags": ["trabalho"] }
+  ]
+}

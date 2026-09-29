@@ -1,0 +1,40 @@
+{
+  "date": "2026-03-24",
+  "overview": "O Governo aprovou o Plano de Ação para a Economia Circular 2025-2030 e reforçou o apoio ao gás para famílias carenciadas. Mudam também as regras do transporte coletivo de crianças e abre uma zona de testes para energias renováveis em Abrantes.",
+  "highlights": [
+    {
+      "id": "1075988790",
+      "headline": "Governo aprova Plano de Ação para a Economia Circular até 2030",
+      "explanation": "A resolução aprova o plano que define metas e medidas para reduzir desperdício e aumentar a reutilização de materiais na economia portuguesa até 2030, com impacto nas regras aplicadas às empresas.",
+      "tags": ["empresas", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1076916141",
+      "headline": "Reforçado apoio extraordinário à 'Botija de Gás Solidária' em 2026",
+      "explanation": "Um despacho aprova um regime excecional para o apoio à compra de botijas de gás para famílias em situação de carência económica em 2026, alargando o alcance do programa.",
+      "tags": ["social", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1076861622",
+      "headline": "Mudam as regras do transporte coletivo de crianças e jovens",
+      "explanation": "Uma lei da Assembleia da República altera o regime jurídico que regula o transporte coletivo de crianças e jovens, com impacto nas regras de segurança aplicadas a escolas e operadores de transporte.",
+      "tags": ["trabalho", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1075988792",
+      "headline": "Criada zona livre tecnológica para energias renováveis em Abrantes",
+      "explanation": "Uma portaria define os requisitos da nova zona livre tecnológica (ZLT) de energias renováveis de Abrantes, um espaço de testes regulatório para projetos de energia limpa fora das regras habituais.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {"id": "1075988791", "note": "Estado autoriza ajustamentos de compensação financeira à Transtejo/Soflusa referentes a 2021-2024.", "tags": ["infraestruturas"]},
+    {"id": "1075988793", "note": "Definidos novos perímetros de proteção para captações de água subterrânea em Setúbal.", "tags": ["energia"]},
+    {"id": "1076046211", "note": "Porto abre discussão pública sobre a operação de reabilitação urbana da Foz Velha.", "tags": ["habitacao"]},
+    {"id": "1075988788", "note": "Assembleia da República recomenda ao Governo reduzir para 30 dias o prazo de pagamento a fornecedores do Estado.", "tags": ["empresas"]}
+  ]
+}

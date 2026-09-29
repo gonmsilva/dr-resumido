@@ -1,0 +1,32 @@
+{
+  "date": "2026-02-04",
+  "overview": "O Governo reconheceu a tempestade Kristin como catástrofe natural e abriu apoio às explorações agrícolas afetadas. Foi ainda concluída a criação da Zona Especial de Conservação da Costa Sudoeste e aprovada a nova Estratégia Nacional para o Ruído Ambiente.",
+  "highlights": [
+    {
+      "id": "1038073180",
+      "headline": "Tempestade Kristin reconhecida como catástrofe natural, com apoio às explorações agrícolas",
+      "explanation": "O Governo reconhece oficialmente a tempestade Kristin como fenómeno climatérico equiparável a catástrofe natural e abre uma linha de apoio (PEPAC) para repor o potencial produtivo das explorações agrícolas afetadas em Portugal continental.",
+      "tags": ["empresas", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1034985553",
+      "headline": "Criada a Zona Especial de Conservação da Costa Sudoeste",
+      "explanation": "Conclui-se o processo de designação de uma nova Zona Especial de Conservação na Costa Sudoeste, com implicações para o uso e proteção do território nessa área costeira.",
+      "tags": ["energia", "habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1034985555",
+      "headline": "Governo aprova Estratégia Nacional para o Ruído Ambiente",
+      "explanation": "Nova estratégia nacional define orientações para reduzir a exposição da população ao ruído ambiente, com potencial impacto na qualidade de vida em zonas urbanas.",
+      "tags": ["energia", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1034985561", "note": "Assembleia Legislativa dos Açores aprova o Plano Regional Anual para 2026.", "tags": ["estado"] },
+    { "id": "1034985551", "note": "Presidente da República atribui o Grande-Colar da Ordem de Camões ao xeque Sultan bin Mohammed Al Qasimi.", "tags": ["estado"] },
+    { "id": "1034985558", "note": "Portugal participa no terceiro aumento de capital da Corporação Interamericana de Investimentos.", "tags": ["banca"] }
+  ]
+}

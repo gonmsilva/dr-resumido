@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-12",
+  "overview": "A Assembleia da República elegeu quatro novos juízes para o Tribunal Constitucional e o Governo voltou a rever as taxas do imposto sobre os combustíveis. Criada também a Alfândega de Sines e aprovado o modelo de declaração do imposto mínimo global para grandes empresas.",
+  "highlights": [
+    {
+      "id": "1131865553",
+      "headline": "Eleitos quatro novos juízes para o Tribunal Constitucional",
+      "explanation": "A Assembleia da República elegeu quatro novos juízes conselheiros para o Tribunal Constitucional, órgão que decide sobre a conformidade das leis com a Constituição.",
+      "tags": ["justica", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1131865554",
+      "headline": "Novamente revistas as taxas do imposto sobre combustíveis",
+      "explanation": "O Governo voltou a atualizar os valores do Imposto sobre os Produtos Petrolíferos e Energéticos, com reflexo direto no preço pago pelos automobilistas nas bombas de gasolina.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1131612576",
+      "headline": "Criada a Alfândega de Sines",
+      "explanation": "As Finanças criaram uma alfândega própria para o Porto de Sines, um dos maiores portos de contentores do país, o que deverá agilizar o desalfandegamento de mercadorias.",
+      "tags": ["empresas", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1131612575",
+      "headline": "Aprovado modelo de declaração do imposto mínimo global",
+      "explanation": "As Finanças aprovaram a declaração de informação (GIR) que as grandes empresas multinacionais terão de entregar no âmbito do imposto mínimo global de 15%.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1131612632", "note": "Governo reconhece interesse público em três novas obras rodoviárias: variante ao Estreito de Caparide (Cascais), ligação à estação de Lordelo (Guimarães/Santo Tirso) e nova ligação da EN115 à A9/CREL (Loures).", "tags": ["infraestruturas"] },
+    { "id": "1131612577", "note": "Certificado como itinerário oficial do Caminho de Santiago o Caminho de Torres, na Região Norte.", "tags": ["empresas"] }
+  ]
+}

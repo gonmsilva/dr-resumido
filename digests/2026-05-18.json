@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-18",
+  "overview": "A Lei da Nacionalidade é alterada por lei orgânica, e o Estado assina um contrato de investimento com a Vista Alegre Atlantis e a Ria Stone para reforçar a produção industrial.",
+  "highlights": [
+    {
+      "id": "1123539996",
+      "headline": "Lei da Nacionalidade alterada",
+      "explanation": "É publicada uma alteração à Lei da Nacionalidade, em vigor desde 1981, com impacto nas condições de acesso à cidadania portuguesa.",
+      "tags": ["justica", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1123550189",
+      "headline": "Estado assina contrato de investimento com Vista Alegre e Ria Stone",
+      "explanation": "É aprovada a minuta do contrato de investimento entre o Estado, a AICEP e as empresas Ria Stone, Vista Alegre Atlantis e NCFGEST, no âmbito dos incentivos à inovação produtiva.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1123550229", "note": "Aprovado o regulamento dos concursos de acesso ao ensino superior privado para 2026/2027.", "tags": ["educacao"] },
+    { "id": "1123539998", "note": "Atualizado o valor da unidade de referência usada para calcular custas e taxas de justiça.", "tags": ["justica"] }
+  ]
+}

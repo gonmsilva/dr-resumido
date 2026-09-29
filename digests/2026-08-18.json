@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-18",
+  "overview": "Dia fraco em legislação, com destaque apenas para um reforço dos benefícios de saúde para beneficiários do complemento solidário para idosos. O resto do dia foi preenchido por nomeações, regulamentos internos de universidades e regulamentos autárquicos de rotina.",
+  "highlights": [
+    {
+      "id": "1159106557",
+      "headline": "Mais benefícios de saúde para quem recebe o complemento solidário",
+      "explanation": "O Governo alterou o regime que dá benefícios adicionais de saúde (como comparticipação de medicamentos e cuidados dentários) a quem recebe o complemento solidário para idosos. Abrange sobretudo pensionistas com baixos rendimentos.",
+      "tags": ["social", "saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1159106519",
+      "note": "A Freguesia de São Vicente (Lisboa) abre consulta pública ao projeto do programa \"Guardiões do Bairro\".",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1159106520",
+      "note": "A Freguesia de Vreia de Bornes aprova novo regulamento e tabela de taxas.",
+      "tags": ["impostos", "estado"]
+    }
+  ]
+}

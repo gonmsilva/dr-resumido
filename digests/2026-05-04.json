@@ -1,0 +1,17 @@
+{
+  "date": "2026-05-04",
+  "overview": "Dia calmo, dominado por nomeações e regulamentos internos. O único destaque de relevo é um regime excecional de incentivos para reduzir as listas de espera de cirurgia cardíaca no SNS.",
+  "highlights": [
+    {
+      "id": "1103934893",
+      "headline": "Incentivos para reduzir listas de espera de cirurgia cardíaca",
+      "explanation": "O Governo cria um regime excecional de incentivos para a recuperação da atividade cirúrgica cardíaca nos hospitais públicos, visando resolver os casos que ultrapassam os tempos máximos de resposta garantidos.",
+      "tags": ["saude"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1103934892", "note": "Novas regras de proteção dos animais usados em investigação científica, transpondo diretiva da UE.", "tags": ["saude", "educacao"] },
+    { "id": "1103934891", "note": "A povoação da Silveira é elevada à categoria de vila.", "tags": ["estado"] }
+  ]
+}

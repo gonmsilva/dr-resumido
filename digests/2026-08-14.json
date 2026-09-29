@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-14",
+  "overview": "Dia de calendário fiscal: o Governo reviu as taxas do imposto sobre os combustíveis (ISP), com reflexo direto no preço na bomba, e aprovou o novo regulamento dos programas de apoio financeiro do Estado às artes.",
+  "highlights": [
+    {
+      "id": "1159035454",
+      "headline": "Governo revê as taxas do imposto sobre os combustíveis",
+      "explanation": "É publicada a revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), que pesa diretamente no preço da gasolina e do gasóleo pagos pelos automobilistas.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1159035444",
+      "headline": "Novo regulamento dos apoios do Estado às artes",
+      "explanation": "É aprovado o Regulamento dos Programas de Apoio às Artes, que define como são atribuídos os apoios financeiros do Estado a artistas e estruturas culturais, revogando as regras anteriores de 2021.",
+      "tags": ["empresas", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1159035453", "note": "Alterado o modelo de declaração de inexistência de conflitos de interesses para dirigentes de entidades públicas.", "tags": ["justica", "estado"] },
+    { "id": "1157676012", "note": "Autorizada a instalação de um hotel rural em solo da Reserva Agrícola Nacional em Amarante.", "tags": ["habitacao", "empresas"] },
+    { "id": "1157676010", "note": "Criada comissão técnica para digitalizar o registo de penhoras nos processos de execução fiscal.", "tags": ["impostos", "justica"] },
+    { "id": "1157799619", "note": "Penafiel altera o regulamento de liquidação e cobrança de taxas e outras receitas municipais.", "tags": ["impostos", "estado"] }
+  ]
+}

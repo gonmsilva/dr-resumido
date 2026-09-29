@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-09",
+  "overview": "Destaque para um apoio extraordinário aos viticultores do Douro e a criação de um fundo de sustentabilidade para a região, além de uma nova determinação do Governo para reforçar o abastecimento de água a sul do Tejo. O resto do dia foi preenchido por regras administrativas e centenas de nomeações e promoções nas Forças Armadas, sem outros temas de grande impacto.",
+  "highlights": [
+    {
+      "id": "1168451283",
+      "headline": "Apoio extraordinário aos viticultores do Douro e novo fundo de sustentabilidade",
+      "explanation": "O Governo cria um apoio extraordinário para os viticultores da Região Demarcada do Douro na campanha vitivinícola de 2026-2027 e projeta a criação de um Fundo de Sustentabilidade da região, num setor com dificuldades económicas.",
+      "tags": ["empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1168075401",
+      "headline": "Governo pede solução técnica para reforçar o abastecimento de água a sul do Tejo",
+      "explanation": "O Ministério do Ambiente e Energia determina a apresentação de uma solução técnica para reforçar a resiliência hídrica dos territórios na margem sul do Tejo, recorrendo a Castelo de Bode e/ou ao rio Tejo.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1168451281", "note": "Atualizadas as regras sobre a assunção de compromissos e os pagamentos em atraso das entidades públicas.", "tags": ["impostos", "estado"] },
+    { "id": "1168451284", "note": "Aprovadas as regras de afetação às Regiões Autónomas dos Açores e da Madeira da receita do imposto sobre o tabaco.", "tags": ["impostos", "estado"] },
+    { "id": "1168451282", "note": "Novo regime de recrutamento para técnicos de justiça e escrivães e de preenchimento de cargos de secretário nos tribunais.", "tags": ["justica"] },
+    { "id": "1168075404", "note": "Criado um grupo de trabalho para prevenir e combater casamentos infantis, mutilação genital feminina e crimes de honra.", "tags": ["social"] }
+  ]
+}

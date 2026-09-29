@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-27",
+  "overview": "A Assembleia da República aprovou uma lei que reforça o direito ao esquecimento e as proteções dos consumidores nos seguros associados a créditos, com impacto direto em quem contrata financiamento. O Governo avançou para a terceira etapa da reprivatização da TAP e aprovou a Estratégia Nacional para a Segurança e Saúde no Trabalho 2026-2027. O resto do dia foi sobretudo administrativo, com nomeações, eleições para conselhos e regulamentos municipais.",
+  "highlights": [
+    {
+      "id": "1092323202",
+      "headline": "Novas regras reforçam direito ao esquecimento nos seguros de crédito",
+      "explanation": "A Lei n.º 14/2026 reforça o direito ao esquecimento e as proteções dos consumidores na contratação de seguros associados a créditos, alterando três diplomas em vigor. Afeta quem contrata seguros ligados a empréstimos, nomeadamente de habitação.",
+      "tags": ["banca", "habitacao", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1095309096",
+      "headline": "Governo avança para terceira etapa da reprivatização da TAP",
+      "explanation": "A Resolução do Conselho de Ministros n.º 75-B/2026 autoriza a PARPÚBLICA a convidar os proponentes a participar na terceira etapa do processo de reprivatização da TAP.",
+      "tags": ["empresas", "banca"],
+      "importance": "high"
+    },
+    {
+      "id": "1095309095",
+      "headline": "Aprovada Estratégia Nacional para a Segurança e Saúde no Trabalho 2026-2027",
+      "explanation": "O Governo aprovou a nova estratégia plurianual para a segurança e saúde no trabalho, que define orientações para prevenção de acidentes e doenças profissionais nos próximos dois anos.",
+      "tags": ["trabalho", "saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1092323218", "note": "Governo autoriza despesa para a alimentação artificial das praias da Costa da Caparica e São João da Caparica.", "tags": ["infraestruturas"] },
+    { "id": "1092323205", "note": "Assembleia recomenda ao Governo medidas de prevenção e combate à extorsão sexual e burlas românticas digitais, com foco em crianças e jovens.", "tags": ["social"] },
+    { "id": "1092323203", "note": "Assembleia recomenda ao Governo medidas para mitigar perdas económicas e apoiar a recuperação de habitações afetadas.", "tags": ["habitacao", "empresas"] },
+    { "id": "1093636789", "note": "Câmara de Lisboa abre discussão pública de um loteamento municipal junto à Avenida Marechal Francisco da Costa Gomes.", "tags": ["habitacao"] }
+  ]
+}

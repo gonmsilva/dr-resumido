@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-05",
+  "overview": "Destaque para o reforço das regras de corte de árvores e para duas medidas na área da saúde: a proibição de reprocessar certos dispositivos médicos de uso único e um novo modelo de transporte inter-hospitalar para doentes críticos.",
+  "highlights": [
+    {
+      "id": "1103945165",
+      "headline": "Regras mais duras para o corte de árvores",
+      "explanation": "Nova lei reforça as regras sobre corte de árvores e uniformiza os regimes de contraordenações em matéria florestal, alterando vários decretos-leis em vigor.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1103945169",
+      "headline": "Proibido reprocessar certos dispositivos médicos de uso único",
+      "explanation": "É aprovada a lista de dispositivos médicos descartáveis cujo reprocessamento e reutilização passam a estar proibidos, por razões de segurança dos doentes.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1106828147",
+      "headline": "Novo modelo para o transporte de doentes críticos entre hospitais",
+      "explanation": "O Ministério da Saúde define o modelo de transporte inter-hospitalar urgente para doentes em estado crítico, com impacto na organização do SNS.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1103945170", "note": "Novas regras para a venda de peixe fresco fora das lotas e para o comércio de mexilhão e outros moluscos bivalves vivos.", "tags": ["empresas"] },
+    { "id": "1106828151", "note": "Lançada a iniciativa 'RE:NATURE 2000' para restauro ecológico nas áreas da Rede Natura 2000.", "tags": ["energia"] },
+    { "id": "1103945172", "note": "O Supremo Tribunal Administrativo confirma a aposentação compulsiva de um agente policial por desvio de verbas.", "tags": ["justica"] }
+  ]
+}

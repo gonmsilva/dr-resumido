@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-14",
+  "overview": "O Parlamento reforçou a lei do apoio à pessoa com deficiência e aprovou incentivos ao investimento cultural. O Governo lançou também o Programa de Ação para a Resiliência do Litoral até 2040.",
+  "highlights": [
+    {
+      "id": "1147043699",
+      "headline": "Reforçado o apoio de assistência pessoal a pessoas com deficiência",
+      "explanation": "Nova lei reforça a resposta social de assistência pessoal a pessoas com deficiência ou incapacidade, alargando este apoio no terreno.",
+      "tags": ["social"],
+      "importance": "high"
+    },
+    {
+      "id": "1147001192",
+      "headline": "Aprovado plano para proteger a costa portuguesa até 2040",
+      "explanation": "O Governo aprova o Programa de Ação para a Resiliência do Litoral 2040 (PARL 2040), que orienta a defesa da costa contra a erosão e o avanço do mar nas próximas décadas.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1147043698",
+      "headline": "Novos incentivos fiscais ao investimento e mecenato cultural",
+      "explanation": "Lei cria incentivos à promoção, fruição e investimento em cultura e altera as regras do financiamento colaborativo (crowdfunding).",
+      "tags": ["empresas", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1147043701", "note": "Fixados os efetivos das Forças Armadas para o triénio 2026-2028.", "tags": ["estado"] },
+    { "id": "1147001267", "note": "Maia consulta o público sobre o novo regulamento de habitação pública em renda reduzida.", "tags": ["habitacao"] },
+    { "id": "1147001264", "note": "Lagoa, nos Açores, aprova regulamento de acesso a habitação em renda apoiada e renda reduzida.", "tags": ["habitacao"] },
+    { "id": "1147001243", "note": "Barcelos abre discussão pública da 2.ª revisão do seu Plano Diretor Municipal.", "tags": ["habitacao"] }
+  ]
+}

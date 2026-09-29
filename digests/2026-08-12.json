@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-12",
+  "overview": "Dia fraco em legislação nacional. O único destaque de fundo é a alteração ao regime de apoios financeiros do Estado às artes visuais e performativas.",
+  "highlights": [
+    {
+      "id": "1156670572",
+      "headline": "Mudam as regras de apoio do Estado às artes visuais e performativas",
+      "explanation": "O Governo altera o regime de atribuição de apoios financeiros do Estado às artes visuais e performativas, com impacto no financiamento público disponível para artistas e companhias.",
+      "tags": ["empresas", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1156689076", "note": "Assembleia dos Açores pede ao Governo Regional que avance com urgência para o novo estabelecimento prisional de Ponta Delgada.", "tags": ["justica", "estado"] },
+    { "id": "1155188972", "note": "Definidas as quantidades máximas de produtos apícolas que os pequenos produtores podem vender diretamente.", "tags": ["empresas"] },
+    { "id": "1155188971", "note": "Novas regras de apoio ao setor da apicultura no âmbito do PEPAC Portugal.", "tags": ["empresas"] },
+    { "id": "1156669578", "note": "Portugal extingue o vice-consulado e cria um consulado em Providence, nos Estados Unidos.", "tags": ["estado"] }
+  ]
+}

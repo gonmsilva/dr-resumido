@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-09",
+  "overview": "Duas novidades estruturais: novas regras para os produtos de investimento vendidos a retalho e a criação da Universidade de Leiria e Oeste. O resto do dia foi de gestão corrente na Administração Pública e nos municípios.",
+  "highlights": [
+    {
+      "id": "1145603611",
+      "headline": "Criada a Universidade de Leiria e Oeste",
+      "explanation": "Decreto-Lei cria uma nova universidade pública na região de Leiria e Oeste, alargando o mapa do ensino superior público.",
+      "tags": ["educacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1145603610",
+      "headline": "Novas regras para produtos de investimento vendidos a particulares",
+      "explanation": "Decreto-Lei altera o regime dos pacotes de produtos de investimento de retalho e dos produtos de investimento com base em seguros, com impacto em quem compra estes produtos financeiros através do banco ou seguradora.",
+      "tags": ["banca"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1145603312", "note": "Coimbra sujeita a consulta pública o novo regulamento de estacionamento e acesso condicionado à cidade.", "tags": ["infraestruturas"] },
+    { "id": "1145603338", "note": "Odemira abre discussão pública da revisão do seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1145603578", "note": "Vila Franca de Xira regulamenta os apoios do Programa Menos Ruído para quem vive perto do Aeroporto Humberto Delgado.", "tags": ["habitacao", "infraestruturas"] },
+    { "id": "1145595237", "note": "Aberta consulta pública ao Plano Nacional de Restauro da Natureza.", "tags": ["energia"] }
+  ]
+}

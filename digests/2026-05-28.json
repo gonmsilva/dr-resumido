@@ -1,0 +1,17 @@
+{
+  "date": "2026-05-28",
+  "overview": "Dia sobretudo administrativo. Passam a ser anuais as auditorias da Inspeção-Geral de Finanças ao apoio do Estado às portagens de autoestradas e pontes concessionadas, e o Hospital Padre Américo vai ampliar uma unidade de internamento.",
+  "highlights": [
+    {
+      "id": "1127477503",
+      "headline": "Auditorias anuais ao apoio do Estado às portagens concessionadas",
+      "explanation": "Passam a ser anuais, e não pontuais, as auditorias da Inspeção-Geral de Finanças ao apoio financeiro do Estado à utilização de autoestradas e pontes concessionadas, reforçando o escrutínio destes contratos.",
+      "tags": ["infraestruturas", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1127522321", "note": "Autorizada a ampliação da unidade de internamento do piso 10 do Hospital Padre Américo, no Tâmega e Sousa.", "tags": ["saude"] },
+    { "id": "1127477505", "note": "Aprovada a lista atualizada de produtos, tecnologias e serviços militares relacionados com a defesa.", "tags": ["empresas"] }
+  ]
+}

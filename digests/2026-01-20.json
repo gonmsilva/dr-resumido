@@ -1,0 +1,20 @@
+{
+  "date": "2026-01-20",
+  "overview": "Dia calmo em legislação com impacto direto no dia a dia: o destaque vai para a entrada em vigor da nova convenção fiscal entre Portugal e o Reino Unido, que evita a dupla tributação. O resto do boletim foi dominado por nomeações diplomáticas, despachos técnicos da Defesa e regulamentos municipais.",
+  "highlights": [
+    {
+      "id": "1016097564",
+      "headline": "Convenção fiscal Portugal-Reino Unido entra em vigor",
+      "explanation": "Entrou em vigor a convenção entre Portugal e o Reino Unido para eliminar a dupla tributação sobre rendimentos e mais-valias e prevenir a fraude e evasão fiscais. Afeta empresas e pessoas com rendimentos nos dois países.",
+      "tags": ["impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1016745046", "note": "Lisboa abre discussão pública sobre a delimitação da Unidade de Execução Marvila-Beato.", "tags": ["habitacao", "estado"] },
+    { "id": "1016745285", "note": "Município de Tarouca atualiza as taxas da sua tabela municipal.", "tags": ["impostos", "estado"] },
+    { "id": "1016512720", "note": "Governo aprova contrato de investimento com a Alumínios Cortizo (Portugal), no âmbito de um regime de incentivos à inovação produtiva.", "tags": ["empresas"] },
+    { "id": "1016744975", "note": "Reprogramados os encargos plurianuais para obras de instalação e beneficiação da rede de faixas de gestão de combustível (prevenção de incêndios).", "tags": ["energia"] },
+    { "id": "1016744976", "note": "Aprovado o regulamento definitivo da obra de Aproveitamento Hidroagrícola do Roxo.", "tags": ["empresas", "infraestruturas"] }
+  ]
+}

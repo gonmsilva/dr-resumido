@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-26",
+  "overview": "Dia muito calmo, dominado por extensões de contratos coletivos de trabalho e nomeações militares. O único destaque de fundo é a alteração ao Código dos Valores Mobiliários.",
+  "highlights": [
+    {
+      "id": "1161839915",
+      "headline": "Governo altera o Código dos Valores Mobiliários",
+      "explanation": "O Decreto-Lei altera as regras que regem os mercados de valores mobiliários em Portugal, com impacto sobre investidores e entidades que operam nestes mercados.",
+      "tags": ["banca"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1162133508",
+      "note": "GNR autorizada a assumir encargos plurianuais para aquisição de munições entre 2027 e 2029.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1162133518",
+      "note": "Portugal e Grécia aprovam memorando para uma parceria estratégica de transporte aéreo militar.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1162133573",
+      "note": "Incluídas novas especificações nas regras de produção e comercialização da Indicação Geográfica Protegida «Lisboa» (vinhos).",
+      "tags": ["empresas"]
+    }
+  ]
+}

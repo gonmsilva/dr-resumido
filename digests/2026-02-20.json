@@ -1,0 +1,48 @@
+{
+  "date": "2026-02-20",
+  "overview": "Dia grande em energia e infraestruturas: nasce a Agência de Geologia e Energia, o Governo protege por lei a zona do Novo Aeroporto de Lisboa e regulamenta os apoios extraordinários à reconstrução após a tempestade Kristin, com a ERSE a acrescentar medidas próprias para o setor energético.",
+  "highlights": [
+    {
+      "id": "1055043918",
+      "headline": "Medidas preventivas na zona do Novo Aeroporto de Lisboa",
+      "explanation": "O Governo estabelece um regime de medidas preventivas na área do futuro Novo Aeroporto de Lisboa e na zona envolvente, para impedir obras ou alterações que possam comprometer a construção do aeroporto.",
+      "tags": ["infraestruturas", "habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1055043916",
+      "headline": "Criada a Agência de Geologia e Energia",
+      "explanation": "É criada a Agência de Geologia e Energia, I. P., que absorve por fusão a Direção-Geral de Energia e Geologia, o Laboratório Nacional de Energia e Geologia, a EDM e a EDMI, concentrando num único organismo as competências públicas na área da energia e da geologia.",
+      "tags": ["energia", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1057221644",
+      "headline": "Regulamentados os apoios extraordinários à reconstrução após a tempestade Kristin",
+      "explanation": "É publicado o regulamento que define como se atribuem os apoios financeiros extraordinários às populações e empresas afetadas pela calamidade provocada pela tempestade Kristin.",
+      "tags": ["estado", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1057358396",
+      "headline": "ERSE aprova medidas extraordinárias no setor energético devido à Kristin",
+      "explanation": "O regulador da energia aprova medidas adicionais para o setor energético nas zonas afetadas pela calamidade da tempestade Kristin, reforçando a resposta do setor a esta situação excecional.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1054966403",
+      "headline": "Estudo vai avaliar enterrar linhas elétricas para resistir a temporais",
+      "explanation": "O Governo determina um estudo sobre a adaptação da rede elétrica nacional às alterações climáticas, incluindo avaliar o enterramento de linhas em zonas críticas, depois de sucessivos temporais afetarem o fornecimento de eletricidade.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1054811950", "note": "Fixados em 2% os fundos do imposto sobre o tabaco destinados a programas de prevenção e controlo do tabagismo.", "tags": ["saude", "impostos"] },
+    { "id": "1055043917", "note": "Concluída a designação da Zona Especial de Conservação Litoral Norte.", "tags": ["energia"] },
+    { "id": "1054966465", "note": "Alpiarça lança consulta pública ao projeto da sua Carta Municipal de Habitação.", "tags": ["habitacao"] },
+    { "id": "1054966713", "note": "Póvoa de Varzim consulta o público sobre um novo regulamento de apoio à habitação.", "tags": ["habitacao"] },
+    { "id": "1055043915", "note": "Retificada a lei que reforça penas por infrações ferroviárias e proíbe maquinistas de trabalhar sob efeito de álcool ou drogas.", "tags": ["infraestruturas", "justica"] }
+  ]
+}

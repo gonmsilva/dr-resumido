@@ -1,0 +1,35 @@
+{
+  "date": "2026-03-09",
+  "overview": "Dia calmo, dominado por legislação técnica e regulamentos municipais de rotina. A única mudança com alcance nacional é a alteração ao regime jurídico da reconversão da paisagem.",
+  "highlights": [
+    {
+      "id": "1068974009",
+      "headline": "Alterado o regime da reconversão da paisagem",
+      "explanation": "Novo decreto-lei altera as regras que regulam a reconversão de paisagens (nomeadamente de monoculturas florestais para usos mais diversificados), com impacto em proprietários rurais e na atividade florestal.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1068900241",
+      "note": "CMVM delega poderes para acelerar os pareceres de autorização de prestadores de serviços de criptoativos.",
+      "tags": ["banca"]
+    },
+    {
+      "id": "1068974008",
+      "note": "Alterado o estatuto de pessoal dos bombeiros profissionais da administração local.",
+      "tags": ["trabalho"]
+    },
+    {
+      "id": "1068974007",
+      "note": "Alargado o prazo de duração e de realização de capital do Fundo Português de Apoio ao Investimento em Moçambique.",
+      "tags": ["empresas"]
+    },
+    {
+      "id": "1068974017",
+      "note": "Fixado o valor do metro quadrado de construção para 2026 na Região Autónoma da Madeira, usado no cálculo de impostos sobre imóveis.",
+      "tags": ["habitacao"]
+    }
+  ]
+}

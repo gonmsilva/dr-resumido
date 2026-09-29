@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-30",
+  "overview": "Dia dominado pela rotação anual de diplomatas portugueses e pela adaptação das regras de avaliação de desempenho a vários grupos da função pública. Destaque único para a conclusão do processo que protege a Zona Especial de Conservação de Fernão Ferro/Lagoa de Albufeira.",
+  "highlights": [
+    {
+      "id": "1140260275",
+      "headline": "Concluída a proteção da Zona Especial de Conservação Fernão Ferro/Lagoa de Albufeira",
+      "explanation": "O Governo formalizou a designação desta área protegida na península de Setúbal, o que condiciona construção e outras intervenções no território abrangido, entre Sesimbra e a Costa da Caparica.",
+      "tags": ["energia", "habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1140235320", "note": "Delimitada a Reserva Ecológica Nacional do município da Guarda.", "tags": ["habitacao"] },
+    { "id": "1140341460", "note": "Adaptadas as regras de avaliação de desempenho (SIADAP) aos enfermeiros e farmacêuticos da função pública.", "tags": ["trabalho", "saude"] }
+  ]
+}

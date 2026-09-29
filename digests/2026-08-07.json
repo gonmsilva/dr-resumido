@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-07",
+  "overview": "O destaque do dia é a revisão do imposto sobre os produtos petrolíferos e energéticos, que mexe diretamente no preço dos combustíveis. A Assembleia da República aprovou ainda um regime de acessibilidade para alunos com necessidades educativas especiais e um alívio temporário das regras financeiras dos municípios, e a aviação civil revogou a licença de uma companhia de transporte aéreo de passageiros.",
+  "highlights": [
+    {
+      "id": "1154986231",
+      "headline": "Governo revê taxas do imposto sobre combustíveis",
+      "explanation": "Uma portaria fixa novos valores para o ISP, o imposto sobre os produtos petrolíferos e energéticos. Mexe diretamente no custo da gasolina, gasóleo e outros combustíveis vendidos em Portugal.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1154789323",
+      "headline": "Nova lei reforça acessibilidade de alunos com necessidades especiais",
+      "explanation": "A Assembleia da República aprovou uma lei que garante, em todos os níveis de ensino, a acessibilidade de estudantes com necessidades educativas especiais, alterando a Lei de Bases do Sistema Educativo. Afeta escolas e famílias em todo o país.",
+      "tags": ["educacao", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1154789324",
+      "headline": "Câmaras ganham regime excecional nas regras financeiras",
+      "explanation": "Uma nova lei cria um regime excecional e temporário que alivia deveres e limites impostos pela lei das finanças locais aos municípios e entidades intermunicipais. Dá mais margem de manobra financeira às autarquias.",
+      "tags": ["estado", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1154789038",
+      "headline": "Aviação civil revoga licença de transporte aéreo à Luxaviation",
+      "explanation": "A Autoridade Nacional da Aviação Civil revogou a licença de exploração da atividade de transporte aéreo comercial de passageiros da Luxaviation E. A., S. A. A empresa deixa de poder operar voos comerciais de passageiros em Portugal.",
+      "tags": ["empresas", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1154709529",
+      "note": "Declarada utilidade pública urgente para expropriar terrenos necessários à reconstrução da ponte da Ribeira Grande, na EN 245, danificada pelas intempéries de 2022.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1154789325",
+      "note": "Prorrogado até junho de 2027 o Plano Nacional de Combate ao Racismo e à Discriminação.",
+      "tags": ["social"]
+    },
+    {
+      "id": "1154709550",
+      "note": "Alterada uma portaria sobre encargos plurianuais de cuidados de saúde nos Serviços Periféricos Externos do Ministério dos Negócios Estrangeiros.",
+      "tags": ["saude"]
+    },
+    {
+      "id": "1154789330",
+      "note": "Revisto o regime de apoios e subsídios da ação social escolar para alunos de escolas particulares de educação especial.",
+      "tags": ["educacao", "social"]
+    },
+    {
+      "id": "1154789327",
+      "note": "Autorizada despesa da Autoridade Tributária para adquirir um novo modelo de licenciamento de software e hardware entre 2027 e 2029.",
+      "tags": ["impostos", "estado"]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-02-16",
+  "overview": "O Governo conclui a designação de onze Zonas Especiais de Conservação por todo o país e reestrutura vários institutos públicos, incluindo na área do emprego e da educação. Muda também o regime de acesso ao ensino superior.",
+  "highlights": [
+    {
+      "id": "1051282282",
+      "headline": "Concluída a designação de onze Zonas Especiais de Conservação",
+      "explanation": "O Governo fecha o processo de classificação de onze áreas protegidas da Rede Natura 2000 espalhadas pelo país — do Rio Lima e Barrinha de Esmoriz ao Arquipélago da Berlenga e Serra da Lousã — com regras de proteção ambiental que passam a ser vinculativas nessas zonas.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1051282294",
+      "headline": "Muda o regime de acesso ao ensino superior",
+      "explanation": "É alterado o decreto-lei que regula o acesso e ingresso no ensino superior, com impacto nas regras de candidatura de milhares de estudantes.",
+      "tags": ["educacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1051479933",
+      "headline": "Extintos o Instituto de Avaliação Educativa e outras estruturas da Educação",
+      "explanation": "São extintos o Instituto de Avaliação Educativa, a Estrutura de Missão do Plano Nacional de Leitura e o Gabinete Coordenador da Rede de Bibliotecas Escolares, numa reorganização dos serviços do Ministério da Educação.",
+      "tags": ["educacao", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1051282280",
+      "headline": "Instituto do Emprego e da Formação Profissional é reestruturado",
+      "explanation": "O IEFP, responsável pelas políticas de emprego e formação profissional, é reorganizado por decreto-lei.",
+      "tags": ["trabalho", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1049507211",
+      "headline": "Supressão de passagens de nível na Linha do Minho declarada de interesse público",
+      "explanation": "O projeto que elimina passagens de nível rodoviárias e pedonais entre os km 50,945 e 62,621 da Linha do Minho é reconhecido como ação de relevante interesse público, o que agiliza o licenciamento das obras.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1051282298", "note": "Novo modelo do Cartão Nacional de Dador de Sangue.", "tags": ["saude"] },
+    { "id": "1051282281", "note": "Novo regime especial e sancionatório para embarcações de alta velocidade.", "tags": ["infraestruturas"] },
+    { "id": "1049508949", "note": "Barcelos aprova regras para atribuição e gestão de habitação municipal.", "tags": ["habitacao"] },
+    { "id": "1051282279", "note": "Reestruturação do Instituto de Gestão Financeira da Segurança Social.", "tags": ["social", "estado"] }
+  ]
+}

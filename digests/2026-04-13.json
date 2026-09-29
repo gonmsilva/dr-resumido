@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-13",
+  "overview": "Dia de dois destaques de fundo: novas regras de tempo de trabalho para motoristas profissionais e a aprovação do Plano Nacional de Centros de Dados. O resto do dia foi administrativo, com a criação de uma rede de simplificação do Estado e vários despachos e regulamentos de rotina.",
+  "highlights": [
+    {
+      "id": "1084345987",
+      "headline": "Novas regras de tempo de trabalho para motoristas profissionais",
+      "explanation": "Decreto-Lei transpõe diretivas europeias e regula a organização do tempo de trabalho dos trabalhadores móveis no transporte rodoviário, com impacto nas empresas de transportes e logística.",
+      "tags": ["trabalho", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1084345989",
+      "headline": "Governo aprova Plano Nacional de Centros de Dados",
+      "explanation": "Resolução do Conselho de Ministros aprova o Plano Nacional de Centros de Dados e o respetivo Plano de Ação, definindo a estratégia para atrair e organizar investimento neste setor em Portugal.",
+      "tags": ["empresas", "infraestruturas"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    {
+      "id": "1084345988",
+      "note": "Criada a Rede de Simplificação e Tecnologias do Estado, nova estrutura para modernizar a administração pública.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1084035715",
+      "note": "Criado grupo de trabalho para rever a Lei das Finanças Locais, que define as receitas e impostos dos municípios.",
+      "tags": ["impostos", "estado"]
+    },
+    {
+      "id": "1084345990",
+      "note": "Redefinidos os perímetros de proteção das captações de água subterrânea do Sistema Aquífero de Sines.",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1084035733",
+      "note": "Determinado o encerramento compulsivo do Instituto Superior de Administração e Línguas (ISAL).",
+      "tags": ["educacao"]
+    },
+    {
+      "id": "1084035742",
+      "note": "Aprovado o modelo de governação do Plano Nacional da Saúde para as Demências.",
+      "tags": ["saude", "social"]
+    }
+  ]
+}

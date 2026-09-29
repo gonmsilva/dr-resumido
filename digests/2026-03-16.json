@@ -1,0 +1,18 @@
+{
+  "date": "2026-03-16",
+  "overview": "Dia calmo em termos legislativos, sem grandes novidades para o dia a dia. O único destaque é a reestruturação da entidade que fiscaliza a igualdade no trabalho; o resto do Diário da República foi preenchido por diplomas de âmbito mais restrito e por regulamentos municipais fora de Lisboa e Porto.",
+  "highlights": [
+    {
+      "id": "1072545707",
+      "headline": "Governo reestrutura a Comissão para a Igualdade no Trabalho e no Emprego",
+      "explanation": "O decreto-lei redesenha a organização da CITE, o organismo que fiscaliza a igualdade e a não discriminação no trabalho e apoia trabalhadores em situações de parentalidade ou assédio.",
+      "tags": ["trabalho", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1072545705", "note": "Nova lei clarifica quem pode deter instituições de ensino superior quando estas pertencem a entidades públicas.", "tags": ["educacao", "estado"] },
+    { "id": "1072545706", "note": "Lei define quem paga o transporte de reclusos e jovens tutelados para as regiões autónomas.", "tags": ["justica", "estado"] },
+    { "id": "1072578388", "note": "O sal de Castro Marim recebe decisão nacional favorável ao registo como denominação de origem protegida.", "tags": ["empresas"] }
+  ]
+}

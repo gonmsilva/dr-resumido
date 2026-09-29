@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-18",
+  "overview": "O Tribunal Constitucional declarou inconstitucional a norma que permitia impugnar a todo o tempo o reconhecimento de um filho, com força obrigatória geral. O Governo aprovou ainda regras para digitalizar as comunicações entre forças de segurança, Ministério Público e tribunais.",
+  "highlights": [
+    {
+      "id": "1073606547",
+      "headline": "Tribunal Constitucional trava impugnação da perfilhação a qualquer momento",
+      "explanation": "Foi declarada inconstitucional, com força obrigatória geral, a norma do Código Civil que permitia a quem reconheceu um filho contestar essa perfilhação sem limite de tempo. Afeta processos de família e de reconhecimento de paternidade/maternidade.",
+      "tags": ["justica", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1073606546",
+      "headline": "Comunicações entre GNR, PSP, Ministério Público e tribunais passam a ser eletrónicas",
+      "explanation": "Nova portaria regulamenta o envio eletrónico de comunicações entre as forças de segurança, o Ministério Público e os tribunais judiciais, com o objetivo de agilizar processos judiciais.",
+      "tags": ["justica", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1073606541", "note": "Governo revoga o Plano de Ordenamento da Albufeira de São Domingos.", "tags": ["habitacao"] },
+    { "id": "1073606545", "note": "Aprovado o mapa de pessoal do novo Mecanismo Nacional Anticorrupção (MENAC).", "tags": ["justica", "estado"] },
+    { "id": "1073671884", "note": "ANAC recebe pedido de suspensão da licença de transporte aéreo da OMNI ― Aviação e Tecnologia.", "tags": ["empresas"] }
+  ]
+}

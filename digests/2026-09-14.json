@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-14",
+  "overview": "Dia calmo, dominado por nomeações e regulamentos internos sem grande impacto. Duas retificações a diplomas recentes destacam-se: uma sobre trânsito e portagens no Porto, outra sobre o novo regime europeu de comércio de licenças de emissão para edifícios e transportes.",
+  "highlights": [
+    {
+      "id": "1170726640",
+      "headline": "Retificado diploma sobre trânsito e portagens na VCI do Porto",
+      "explanation": "Corrige o Decreto-Lei n.º 155-A/2026, que define o regime de circulação na Via de Cintura Interna do Porto e isenta do pagamento de portagens a Circular Regional Exterior do Porto. Afeta quem circula diariamente nestas vias na área metropolitana do Porto.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1170726646",
+      "headline": "Corrigido diploma que cria comércio de licenças de emissão para edifícios e transportes",
+      "explanation": "Retifica o Decreto-Lei n.º 182/2026, que transpõe parcialmente a diretiva europeia e cria um novo regime de comércio de licenças de emissão aplicável a edifícios, transporte rodoviário e outros setores. Pode vir a influenciar os custos de aquecimento e combustíveis nos próximos anos.",
+      "tags": ["energia", "empresas"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    {
+      "id": "1170726643",
+      "note": "Nova portaria cria um certificado de conformidade obrigatório para os sistemas de informação usados pelas escolas.",
+      "tags": ["educacao", "estado"]
+    }
+  ]
+}

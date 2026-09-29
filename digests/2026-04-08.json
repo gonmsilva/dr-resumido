@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-08",
+  "overview": "Dia calmo, sem legislação de grande impacto imediato. A Assembleia da República pede ao Governo mais concorrência e transparência no mercado do gás butano/propano engarrafado, o Governo cria áreas de gestão da paisagem numa vasta faixa do centro do país ligada à prevenção de incêndios, e o Porto ganha uma nova ligação aérea regular a Cabo Verde.",
+  "highlights": [
+    {
+      "id": "1082861147",
+      "headline": "Parlamento pede mais concorrência e transparência no mercado do gás engarrafado",
+      "explanation": "A Assembleia da República recomenda ao Governo medidas para tornar o mercado do GPL engarrafado (as garrafas de butano e propano usadas em muitas casas) mais concorrencial, transparente e acessível.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1082906739",
+      "headline": "Criadas áreas de gestão da paisagem em 22 municípios do centro do país",
+      "explanation": "O Governo constitui Áreas Integradas de Gestão da Paisagem em municípios como Leiria, Pombal, Marinha Grande, Batalha e Nazaré, um instrumento ligado à prevenção de incêndios e ao ordenamento do território florestal.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1082860227",
+      "headline": "Nova ligação aérea regular entre o Porto e São Vicente, Cabo Verde",
+      "explanation": "Foi autorizada a exploração de voos regulares fora da União Europeia na rota Porto/São Vicente/Porto.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1082907023",
+      "headline": "Alterado o sistema de incentivos à inovação e competitividade das empresas",
+      "explanation": "Terceira alteração ao regulamento do «Instrumento Financeiro para a Inovação e Competitividade», que apoia projetos empresariais nesta área.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1082860221", "note": "Tribunal Constitucional dá parcialmente razão ao partido LIVRE num recurso sobre as contas da campanha autárquica de 2017.", "tags": ["justica", "estado"] },
+    { "id": "1082861151", "note": "Madeira cria um Sistema de Gestão Integrada de Fogos Rurais e adapta regras de contratação para essa área.", "tags": ["energia", "estado"] }
+  ]
+}

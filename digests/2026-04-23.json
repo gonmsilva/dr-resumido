@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-23",
+  "overview": "O Governo conclui a classificação de três novas Zonas Especiais de Conservação — Rio Paiva, Serra de Montemuro e Monchique —, o que trava construção e outros usos do solo nestas áreas. Fora isso, um dia de regulamentos técnicos e nomeações.",
+  "highlights": [
+    {
+      "id": "1088732649",
+      "headline": "Rio Paiva vira Zona Especial de Conservação",
+      "explanation": "O Governo conclui o processo de designação da Zona Especial de Conservação do Rio Paiva, o que impõe regras mais apertadas a construção, licenciamento e outros usos do solo na área abrangida.",
+      "tags": ["habitacao", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1088732650",
+      "note": "Conclusão da designação da Zona Especial de Conservação da Serra de Montemuro.",
+      "tags": ["habitacao", "energia"]
+    },
+    {
+      "id": "1088732651",
+      "note": "Conclusão da designação da Zona Especial de Conservação de Monchique.",
+      "tags": ["habitacao", "energia"]
+    },
+    {
+      "id": "1088732652",
+      "note": "Retificação ao decreto-lei que cria apoios temporários para compensar operadores de transportes, setor social, bombeiros e agricultura/pescas pela subida do preço dos combustíveis por causa do conflito no Médio Oriente.",
+      "tags": ["energia", "empresas"]
+    }
+  ]
+}

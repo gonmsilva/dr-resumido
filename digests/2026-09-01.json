@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-01",
+  "overview": "Dia calmo, dominado por nomeações e regulamentos municipais de rotina. A transposição de regras europeias de transporte de passageiros e a criação da Universidade Técnica do Porto são os únicos assuntos de relevo.",
+  "highlights": [
+    {
+      "id": "1164281329",
+      "headline": "Novas regras europeias para transporte de passageiros",
+      "explanation": "Decreto-Lei transpõe regulamentos da UE sobre direitos dos passageiros no transporte ferroviário, rodoviário e marítimo, incluindo bagagem, animais de companhia e bicicletas.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1164281355",
+      "headline": "Governo cria a Universidade Técnica do Porto",
+      "explanation": "É constituída a comissão instaladora e o conselho de gestão da nova Universidade Técnica do Porto, um novo estabelecimento público de ensino superior.",
+      "tags": ["educacao", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1164280677", "note": "ANACOM abre consulta pública a um projeto de regulamento sobre nomadismo nas comunicações eletrónicas.", "tags": ["empresas"] },
+    { "id": "1164280286", "note": "Consulta pública sobre a obrigatoriedade de envio eletrónico da folha de reclamações à ASAE.", "tags": ["empresas"] }
+  ]
+}

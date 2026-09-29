@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-10",
+  "overview": "Dia com peso legislativo: entra em vigor um novo regime europeu de licenças de emissão que passa a abranger edifícios e transporte rodoviário, é transposta a nova legislação europeia sobre asilo e migração, e a ERSAR aprova um novo regulamento tarifário dos serviços de águas com impacto nas faturas de todo o país. O resto do dia foi preenchido por dezenas de nomeações diplomáticas, promoções e condecorações nas forças de segurança.",
+  "highlights": [
+    {
+      "id": "1168979172",
+      "headline": "Novo mercado de licenças de emissão passa a abranger edifícios e transporte rodoviário",
+      "explanation": "Portugal transpõe parcialmente a diretiva europeia que cria um novo Comércio Europeu de Licenças de Emissão aplicável aos edifícios, ao transporte rodoviário e a outros setores, o que tende a repercutir-se nos custos de aquecimento e combustível.",
+      "tags": ["energia", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1168979170",
+      "headline": "Nova lei transpõe o Pacto Europeu para a Migração e o Asilo",
+      "explanation": "A Assembleia da República aprova legislação que executa vários regulamentos e diretivas europeias sobre migração e asilo, alterando as regras portuguesas de acolhimento de estrangeiros, entrada e permanência no território, e concessão de asilo.",
+      "tags": ["social", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1169230576",
+      "headline": "ERSAR aprova novo regulamento tarifário dos serviços de água",
+      "explanation": "O regulador dos serviços de águas e resíduos aprova um novo Regulamento Tarifário dos Serviços de Águas, que define as regras de fixação das tarifas cobradas aos consumidores em todo o país.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1168979174",
+      "headline": "Reabertas candidaturas a apoios para reestruturar vinhas em 2026-2027",
+      "explanation": "É criado um período excecional de candidaturas aos apoios à reestruturação e conversão de vinhas no continente, no âmbito do programa nacional de apoio ao setor vitivinícola do PEPAC.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1168979169", "note": "Décima alteração à lei eleitoral para a Assembleia Legislativa da Região Autónoma dos Açores.", "tags": ["estado"] },
+    { "id": "1168979173", "note": "Criada a Academia de Desenvolvimento Juvenil, com novo regulamento próprio.", "tags": ["educacao", "social"] },
+    { "id": "1168979171", "note": "Suspenso o prazo de funcionamento da Comissão Parlamentar de Inquérito ao INEM.", "tags": ["saude", "estado"] }
+  ]
+}

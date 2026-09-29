@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-27",
+  "overview": "O Governo altera o regime jurídico da concessão do Metro de Lisboa e aprova o Plano Nacional de Nuvem Soberana, para reduzir a dependência de infraestruturas tecnológicas estrangeiras.",
+  "highlights": [
+    {
+      "id": "1126675657",
+      "headline": "Alterado o regime jurídico da concessão do Metro de Lisboa",
+      "explanation": "É alterado o quadro jurídico que rege a concessão do serviço público de transporte por metropolitano em Lisboa e nos concelhos limítrofes da grande Lisboa.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1126675659",
+      "headline": "Aprovado o Plano Nacional de Nuvem Soberana",
+      "explanation": "O Conselho de Ministros aprova o Plano Nacional de Nuvem Soberana e o respetivo plano de ação, com o objetivo de reduzir a dependência de fornecedores estrangeiros de serviços de computação em nuvem para os sistemas do Estado.",
+      "tags": ["estado", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1126675658", "note": "Aprovado o Plano Nacional de Qualificações do Sistema de Gestão Integrada de Fogos Rurais.", "tags": ["energia"] },
+    { "id": "1126675666", "note": "Aprovado o orçamento do Fundo Ambiental para 2026.", "tags": ["energia"] },
+    { "id": "1126675655", "note": "A Assembleia da República recomenda mais apoios aos produtores de castanha afetados pela vespa-do-galho-do-castanheiro.", "tags": ["empresas"] }
+  ]
+}

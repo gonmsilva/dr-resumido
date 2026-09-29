@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-16",
+  "overview": "Dia marcado por dois decretos-lei do Governo: um novo regime para a contratação de médicos em prestação de serviços no SNS e um regime extraordinário para regularizar ocupações de casas de função. O resto do dia foi de tramitação institucional, sem grandes novidades para o dia a dia.",
+  "highlights": [
+    {
+      "id": "1132710893",
+      "headline": "Novo regime para contratar médicos em prestação de serviços no SNS",
+      "explanation": "O Governo regula como os hospitais e serviços do SNS podem contratar médicos em regime de prestação de serviços, uma via usada para colmatar falta de efetivos. Afeta a organização do trabalho médico e a resposta assistencial nos serviços públicos de saúde.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1132710894",
+      "headline": "Regime extraordinário para regularizar ocupações de casas de função",
+      "explanation": "É criado um regime extraordinário que permite regularizar a ocupação de casas de função, normalmente ligadas a cargos públicos. Dá uma solução a quem continua a viver nesses imóveis sem título válido.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1132710961",
+      "note": "Tribunal Constitucional elege João Carlos Simões Gonçalves Loureiro para presidente e Rui Rodrigo Firmino Guerra da Fonseca para vice-presidente.",
+      "tags": ["justica", "estado"]
+    },
+    {
+      "id": "1132710945",
+      "note": "É extinta a Agência Nacional para a Qualificação e o Ensino Profissional, I. P.",
+      "tags": ["educacao", "estado"]
+    },
+    {
+      "id": "1133485796",
+      "note": "Aprovado o regulamento do programa \"Integrar para a Construção\", de formação e integração de imigrantes e refugiados no setor da construção civil.",
+      "tags": ["empresas", "social"]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2026-03-12",
+  "overview": "Dia com peso legislativo: aprovado um regime excecional para reconstruir zonas afetadas pela tempestade Kristin e protegido o traçado da Alta Velocidade Porto-Lisboa entre Soure e Carregado. Também mexe nas regras de titularização de crédito e prorroga a proteção temporária a deslocados da Ucrânia.",
+  "highlights": [
+    {
+      "id": "1071778652",
+      "headline": "Regime excecional para reconstruir zonas atingidas pela tempestade Kristin",
+      "explanation": "Nova lei cria um regime excecional e temporário para acelerar a reconstrução e reabilitação de património e infraestruturas nos concelhos afetados pela tempestade Kristin.",
+      "tags": ["estado", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1071208829",
+      "headline": "Governo protege corredor da Alta Velocidade Porto-Lisboa entre Soure e Carregado",
+      "explanation": "São fixadas medidas preventivas e a área de incidência para salvaguardar o troço Soure/Carregado da futura Linha de Alta Velocidade Porto-Lisboa, condicionando construções e usos do solo na faixa.",
+      "tags": ["infraestruturas", "habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1071208828",
+      "headline": "Alteradas as regras da titularização de créditos",
+      "explanation": "Decreto-lei altera o regime que regula a titularização de créditos e a atividade dos fundos e sociedades de titularização em Portugal.",
+      "tags": ["banca"],
+      "importance": "medium"
+    },
+    {
+      "id": "1071763539",
+      "headline": "Prorrogada a proteção temporária a deslocados da Ucrânia",
+      "explanation": "O Conselho de Ministros prorroga a validade dos títulos de proteção temporária concedidos a pessoas deslocadas da Ucrânia.",
+      "tags": ["social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1070763554",
+      "headline": "Fixado o valor base da taxa de recursos hídricos na água pública",
+      "explanation": "É determinado o valor base da componente «S» da taxa de recursos hídricos aplicável aos sistemas de abastecimento público de água, com reflexo potencial na fatura da água.",
+      "tags": ["impostos", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1070764282",
+      "headline": "Criada comissão para coordenar os cuidados de longa duração",
+      "explanation": "Saúde e Segurança Social criam a Comissão Nacional de Coordenação Interministerial dos Cuidados de Longa Duração, que junta as duas áreas no acompanhamento de idosos e dependentes.",
+      "tags": ["saude", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1070763553", "note": "Declarada utilidade pública urgente para expropriar terrenos e eliminar passagens de nível na Linha do Minho, perto de Barcelos.", "tags": ["infraestruturas"] },
+    { "id": "1071208830", "note": "Aprovado acordo entre Portugal e os Países Baixos sobre troca e proteção de informação classificada.", "tags": ["estado"] }
+  ]
+}

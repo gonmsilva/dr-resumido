@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-19",
+  "overview": "Avança a expropriação urgente de terrenos para a modernização da Linha do Norte entre Ovar e Espinho e para um novo posto de corte elétrico em Arouca.",
+  "highlights": [
+    {
+      "id": "1123756369",
+      "headline": "Expropriações urgentes para a modernização da Linha do Norte",
+      "explanation": "É declarada a utilidade pública, com caráter de urgência, da expropriação de imóveis necessários à renovação integral da via entre Ovar (Válega) e Espinho, parte da modernização da Linha do Norte.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1124024648",
+      "headline": "Expropriação urgente para novo posto de corte elétrico em Arouca",
+      "explanation": "São expropriadas 28 parcelas de terreno em Arouca, com caráter de urgência, para a instalação do Posto de Corte de Arouca, uma infraestrutura da rede elétrica.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1124025203", "note": "Pombal aprova uma linha de apoio extraordinário para ajudar as empresas locais afetadas pela tempestade Kristin.", "tags": ["empresas"] },
+    { "id": "1124024956", "note": "O Funchal avança com a expropriação urgente de um imóvel no centro histórico para a reabilitação urbana da zona.", "tags": ["habitacao"] }
+  ]
+}

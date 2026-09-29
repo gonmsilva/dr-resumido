@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-07",
+  "overview": "Dia tranquilo, com destaque para a reestruturação do Instituto da Mobilidade e dos Transportes e um novo regime de apoio a doentes de Machado-Joseph nos Açores. O resto do dia é preenchido por extensões de acordos coletivos e assuntos administrativos de rotina.",
+  "highlights": [
+    {
+      "id": "1167595460",
+      "headline": "Instituto da Mobilidade e dos Transportes é reestruturado",
+      "explanation": "Um decreto-lei procede à reestruturação do Instituto da Mobilidade e dos Transportes, I. P., o organismo que regula transportes rodoviários e mobilidade em Portugal.",
+      "tags": ["infraestruturas", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1167773580",
+      "headline": "Açores criam apoios específicos para doentes de Machado-Joseph",
+      "explanation": "Um decreto regulamentar regional dos Açores regulamenta a atribuição de material clínico e de apoios específicos aos doentes diagnosticados com a doença de Machado-Joseph, mais prevalente nesta região.",
+      "tags": ["saude", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1167595459",
+      "note": "Alterado o regime de constituição e funcionamento do Conselho Nacional de Cultura e das suas secções especializadas.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1167595086",
+      "note": "Nova servidão administrativa para faixas de gestão de combustível em freguesias dos concelhos da Guarda e de Manteigas.",
+      "tags": ["infraestruturas"]
+    }
+  ]
+}

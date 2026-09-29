@@ -1,0 +1,30 @@
+{
+  "date": "2026-01-02",
+  "overview": "Primeiro dia útil do ano com o Tribunal Constitucional a travar uma alteração ao Código Penal e o Estado a autorizar a emissão de nova dívida pública para 2026. Resto do dia dominado por nomeações e regulamentos municipais de rotina.",
+  "highlights": [
+    {
+      "id": "993605129",
+      "headline": "Tribunal Constitucional trava alteração ao Código Penal",
+      "explanation": "O TC declarou inconstitucional o artigo que a Assembleia da República tinha aprovado para aditar o artigo 69.º-D ao Código Penal, travando a entrada em vigor dessas normas.",
+      "tags": ["justica"],
+      "importance": "medium"
+    },
+    {
+      "id": "993614819",
+      "headline": "Estado autoriza IGCP a emitir dívida pública para 2026",
+      "explanation": "O Governo autorizou a Agência de Gestão da Tesouraria e da Dívida Pública a emitir dívida pública dentro dos limites fixados no Orçamento do Estado para 2026, dando início ao financiamento do país este ano.",
+      "tags": ["banca", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "993605128",
+      "headline": "Sobem as taxas para títulos de biocombustível e baixo carbono",
+      "explanation": "Com efeitos a partir de 1 de janeiro, o Governo atualizou as taxas cobradas pela emissão de títulos de biocombustível e de baixo carbono, que incidem sobre as empresas do setor energético.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "993315668", "note": "O IGCP fixou as taxas de juros de mora aplicáveis a dívidas ao Estado e a outras entidades públicas em 2026.", "tags": ["impostos"] }
+  ]
+}

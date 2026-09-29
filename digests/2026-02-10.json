@@ -1,0 +1,33 @@
+{
+  "date": "2026-02-10",
+  "overview": "O Governo autorizou a parceria público-privada para construir o novo Complexo Hospitalar do Hospital Central do Algarve e reforçou o financiamento da mobilidade verde e do apoio às exportações. Dia sem grandes novidades para o dia a dia dos portugueses fora destas decisões de investimento público.",
+  "highlights": [
+    {
+      "id": "1043405187",
+      "headline": "Avança parceria público-privada para o novo Hospital Central do Algarve",
+      "explanation": "É autorizada a despesa para o contrato de parceria público-privada que vai conceber, construir, financiar e explorar o novo Complexo Hospitalar do Hospital Central do Algarve.",
+      "tags": ["saude", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1043405188",
+      "headline": "Fundo Ambiental reforça apoio à mobilidade verde de mercadorias e passageiros",
+      "explanation": "O Governo autoriza o Fundo Ambiental a reforçar o financiamento de medidas do Pacote Mobilidade Verde, dirigido ao transporte urbano de mercadorias e passageiros.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1043405189",
+      "headline": "Governo aprova nova linha de financiamento com garantia para exportadoras",
+      "explanation": "É aprovada a despesa e a programação plurianual da linha de financiamento com garantia 'BPF Invest Export', no âmbito do Programa Reforçar, para apoiar empresas exportadoras.",
+      "tags": ["empresas", "banca"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1043405203", "note": "Reforçado o papel do Conselho Nacional do Internato Médico no acompanhamento de médicos internos afetados pela calamidade da tempestade Kristin.", "tags": ["saude"] },
+    { "id": "1043405190", "note": "Atualizados os valores pagos aos militares da GNR e à PSP por serviços remunerados extra.", "tags": ["estado"] },
+    { "id": "1042059339", "note": "Alterado o tarifário da água fornecida pela EDIA no Empreendimento de Fins Múltiplos de Alqueva.", "tags": ["energia", "empresas"] },
+    { "id": "1043311694", "note": "'Cereja de Alfândega da Fé' recebe decisão nacional favorável ao registo como indicação geográfica protegida.", "tags": ["empresas"] }
+  ]
+}

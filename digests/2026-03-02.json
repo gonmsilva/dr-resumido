@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-02",
+  "overview": "Dia dominado pela cadeia de comando militar, com troca no topo do Estado-Maior-General das Forças Armadas e da Força Aérea. Fora isso, um dia tranquilo, com apoios do Fundo Ambiental e ajustes pontuais em infraestruturas ferroviárias.",
+  "highlights": [
+    {
+      "id": "1065304312",
+      "headline": "Trocas no topo das Forças Armadas",
+      "explanation": "O Presidente da República exonera o Chefe do Estado-Maior da Força Aérea e nomeia um novo Chefe do Estado-Maior-General das Forças Armadas.",
+      "tags": ["estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1065304309",
+      "headline": "Fundo Ambiental liberta apoios financeiros urgentes para 2026",
+      "explanation": "O Governo aprova apoios financeiros urgentes através do Fundo Ambiental para este ano, sem detalhe público sobre os beneficiários no resumo disponível.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1063793747",
+      "headline": "Reprogramação de encargos na Rede Ferroviária Nacional",
+      "explanation": "A Infraestruturas de Portugal é autorizada a reprogramar os encargos do contrato de instalação de sistemas complementares de segurança na rede ferroviária.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1065304314", "note": "Prorrogado o mandato do Chefe do Estado-Maior do Exército.", "tags": ["estado"] },
+    { "id": "1063831089", "note": "Entra em vigor o acordo comercial entre a UE e a Colômbia e o Peru.", "tags": ["empresas"] },
+    { "id": "1063831100", "note": "Ajustes às regras de apoio à florestação e silvicultura sustentável no PDR 2020.", "tags": ["empresas"] },
+    { "id": "1063935318", "note": "Transferência de verbas do Fundo Ambiental para a Agência Portuguesa do Ambiente.", "tags": ["energia"] }
+  ]
+}

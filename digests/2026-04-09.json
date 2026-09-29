@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-09",
+  "overview": "O Parlamento pede ao Governo uma avaliação no terreno dos prejuízos da tempestade Kristin e cria uma comissão eventual para a resiliência nacional e prevenção de catástrofes. Na saúde, é recomendada a redução dos internamentos hospitalares a favor de cuidados continuados e domiciliários, e arrancam projetos-piloto de rastreio do cancro do pulmão no SNS. O Governo define ainda como os municípios podem ser compensados por externalidades negativas locais de grandes projetos.",
+  "highlights": [
+    {
+      "id": "1082906720",
+      "headline": "Parlamento pede avaliação no terreno dos prejuízos da tempestade Kristin",
+      "explanation": "A Assembleia da República recomenda ao Governo o acompanhamento no terreno e a avaliação dos danos causados pela tempestade Kristin, sinal de que os prejuízos ainda estão a ser contabilizados.",
+      "tags": ["estado", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1082906722",
+      "headline": "Parlamento recomenda menos dias de internamento e mais cuidados em casa",
+      "explanation": "É recomendada ao Governo a redução das permanências hospitalares, com reforço dos cuidados continuados e domiciliários, o que pode mudar como muitos doentes e idosos são acompanhados.",
+      "tags": ["saude", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1083043898",
+      "headline": "SNS lança projetos-piloto de rastreio do cancro do pulmão",
+      "explanation": "A Secretária de Estado da Saúde determina a implementação de projetos-piloto de rastreio do cancro do pulmão no Serviço Nacional de Saúde, um passo relevante na deteção precoce da doença.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1082906723",
+      "headline": "Definidas as regras para compensar municípios por externalidades negativas de grandes projetos",
+      "explanation": "É estabelecido quais os impactos locais negativos que podem gerar compensação aos municípios, ao abrigo do mecanismo já previsto em lei, com condições para a sua aplicação prática.",
+      "tags": ["estado", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1082906721", "note": "Assembleia da República cria uma comissão eventual para a resiliência nacional, prevenção de catástrofes naturais e acompanhamento do PRR.", "tags": ["estado"] },
+    { "id": "1082906752", "note": "Expropriação urgente de terrenos para reabilitar o sistema de drenagem da praça de portagem de Torres Novas, na A1.", "tags": ["infraestruturas"] },
+    { "id": "1082906753", "note": "Criada equipa técnica de apoio à estratégia PORTOS 5+ para os portos nacionais.", "tags": ["infraestruturas", "empresas"] },
+    { "id": "1083043916", "note": "Fixadas para 2026 as prestações pecuniárias devidas pelos produtos petrolíferos no âmbito das reservas de segurança.", "tags": ["energia"] }
+  ]
+}

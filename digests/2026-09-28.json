@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-28",
+  "overview": "Dia fraco em legislação. O principal destaque é o arranque, pelo Tesouro, dos trabalhos preparatórios de uma parceria público-privada para a exploração das linhas ferroviárias suburbanas de Cascais e de Sintra/Azambuja. Também de registo: o Tribunal Constitucional afastou uma norma do Código Civil sobre doações, e o Governo mexeu nas regras de construção em zonas da Reserva Ecológica Nacional e na segurança de elevadores.",
+  "highlights": [
+    {
+      "id": "1174092980",
+      "headline": "Linhas de Cascais e Sintra/Azambuja avançam para PPP",
+      "explanation": "A Entidade do Tesouro e Finanças criou uma equipa de projeto para estudar e preparar a subconcessão, em duas fases, do transporte ferroviário suburbano de passageiros nas linhas de Cascais e de Sintra/Azambuja, em modelo de parceria público-privada. É o primeiro passo formal para a exploração privada de duas das linhas suburbanas mais movimentadas de Lisboa.",
+      "tags": [
+        "infraestruturas",
+        "empresas"
+      ],
+      "importance": "high"
+    },
+    {
+      "id": "1174092987",
+      "headline": "CCDR passam a decidir projetos em terrenos da REN",
+      "explanation": "Os ministros da Economia e do Ambiente delegam nas CCDR o reconhecimento do relevante interesse público de ações em áreas da Reserva Ecológica Nacional, que é a via para aprovar projetos nesses terrenos. A decisão fica mais perto do território, o que pode acelerar o licenciamento de obras em solo condicionado.",
+      "tags": [
+        "habitacao",
+        "energia"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "1174093057",
+      "headline": "Constitucional afasta nulidade de doações ao cúmplice de adultério",
+      "explanation": "Num caso concreto, o Tribunal Constitucional julgou inconstitucional a norma do Código Civil (art. 2196.º, n.º 1, aplicado às doações pelo art. 953.º) que torna nulas as doações de uma pessoa casada a quem com ela cometeu adultério. A decisão vale para este processo e não elimina a norma com força obrigatória geral.",
+      "tags": [
+        "justica"
+      ],
+      "importance": "medium"
+    },
+    {
+      "id": "1174093041",
+      "headline": "Regras dos elevadores em serviço vão ser revistas",
+      "explanation": "O secretário de Estado da Energia pediu à DGEG uma proposta de atualização do regime jurídico dos ascensores e outras instalações de elevação depois de entrarem em serviço, o que abrange manutenção e inspeções. Quando avançar, interessa a condomínios e proprietários de prédios.",
+      "tags": [
+        "habitacao"
+      ],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1174093371",
+      "note": "A Assembleia prorroga o prazo do relatório sobre o projeto de lei de criação do Município de Fátima.",
+      "tags": [
+        "estado"
+      ]
+    },
+    {
+      "id": "1174092982",
+      "note": "Novo administrador não executivo autorizado no Banco Português de Fomento.",
+      "tags": [
+        "banca"
+      ]
+    },
+    {
+      "id": "1174093372",
+      "note": "Alterações ao fundo especial de segurança social dos profissionais de banca dos casinos.",
+      "tags": [
+        "social",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "1174093333",
+      "note": "A Freguesia de Arroios (Lisboa) põe em consulta o projeto de regulamento de feiras e mercados.",
+      "tags": [
+        "estado"
+      ]
+    },
+    {
+      "id": "1174093290",
+      "note": "Coruche abre consulta pública à revisão do regulamento das taxas municipais.",
+      "tags": [
+        "impostos",
+        "estado"
+      ]
+    },
+    {
+      "id": "1174093329",
+      "note": "Vila de Rei altera a tabela de taxas, tarifas, preços e licenças municipais.",
+      "tags": [
+        "impostos",
+        "estado"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-26",
+  "overview": "Publicadas as normas de execução do Orçamento do Estado para 2026 e avança o processo de contratação da parceria público-privada para o novo Hospital Central do Algarve. A Assembleia da República pede medidas contra a inflação e a subida dos combustíveis.",
+  "highlights": [
+    {
+      "id": "1126594009",
+      "headline": "Publicadas as normas de execução do Orçamento do Estado para 2026",
+      "explanation": "São estabelecidas as normas que regulam a execução do Orçamento do Estado para 2026, com impacto em toda a despesa pública ao longo do ano.",
+      "tags": ["impostos", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1126581841",
+      "headline": "Avança a parceria público-privada para o Hospital Central do Algarve",
+      "explanation": "A Ministra da Saúde delega na Administração Central do Sistema de Saúde a competência para avançar com o procedimento e o contrato de parceria público-privada de conceção, financiamento e exploração do novo Hospital Central do Algarve.",
+      "tags": ["saude", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1126594008",
+      "headline": "Deputados pedem medidas contra a inflação e a subida dos combustíveis",
+      "explanation": "A Assembleia da República recomenda ao Governo que adote medidas para responder à inflação e ao aumento dos preços dos combustíveis, depois de o imposto sobre os combustíveis ter sido revisto três vezes este mês.",
+      "tags": ["impostos", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1126594003", "note": "A Assembleia da República recomenda mais benefícios fiscais para empresas que criem creches para filhos de trabalhadores.", "tags": ["impostos", "trabalho"] },
+    { "id": "1126594005", "note": "Recomendada a criação de um programa de prevenção e deteção da violência sexual contra crianças em entidades que trabalham com menores.", "tags": ["social"] },
+    { "id": "1126581869", "note": "Aprovadas ações de mitigação do risco de incêndios rurais em cinco municípios do interior centro.", "tags": ["energia"] }
+  ]
+}

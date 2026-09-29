@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-17",
+  "overview": "Dia de grande produção legislativa da Assembleia da República e do Governo. Destacam-se uma reforma do regime financeiro das autarquias, um esclarecimento sobre o IVA aplicável a um conjunto de bens, um novo regime para a venda de imóveis em heranças indivisas, um incentivo remuneratório para médicos do SNS e a criação da Plataforma Nacional do Mecenato.",
+  "highlights": [
+    {
+      "id": "1159105696",
+      "headline": "Governo muda regras de financiamento das câmaras municipais",
+      "explanation": "A Assembleia da República alterou a Lei das Finanças Locais, que define como o Estado transfere dinheiro para os municípios e as regras a que estes ficam sujeitos. As mudanças afetam o orçamento e a margem de manobra financeira de todas as autarquias do país.",
+      "tags": ["impostos", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1159105694",
+      "headline": "Parlamento esclarece regras de IVA de uma verba da lista de bens com taxa reduzida",
+      "explanation": "Uma nova lei interpreta de forma vinculativa a verba 2.23 da lista I do Código do IVA, fixando definitivamente como deve ser aplicada a taxa reduzida a esses bens. Resolve dúvidas de interpretação que vinham gerando litígios entre contribuintes e Fisco.",
+      "tags": ["impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1159105695",
+      "headline": "Novo regime facilita venda de imóveis herdados sem acordo entre herdeiros",
+      "explanation": "O Parlamento autorizou o Governo a criar um processo especial para vender um imóvel que faz parte de uma herança ainda não partilhada, e um regime de arbitragem para resolver disputas sobre a sucessão definido pelo autor da herança. Facilita situações comuns em que os herdeiros não conseguem entender-se sobre o destino de uma casa.",
+      "tags": ["habitacao", "justica"],
+      "importance": "medium"
+    },
+    {
+      "id": "1159105699",
+      "headline": "Médicos do SNS têm incentivo remuneratório clarificado",
+      "explanation": "O Governo clarificou o regime excecional que recompensa o desempenho dos médicos que trabalham em entidades do Serviço Nacional de Saúde através de um incentivo remuneratório. Procura tornar mais atrativo o trabalho no SNS.",
+      "tags": ["saude", "trabalho"],
+      "importance": "medium"
+    },
+    {
+      "id": "1159105698",
+      "headline": "Criada Plataforma Nacional do Mecenato",
+      "explanation": "O Governo alterou o Estatuto dos Benefícios Fiscais e criou a Plataforma Nacional do Mecenato, uma ferramenta para facilitar e dar mais transparência aos donativos de empresas e particulares a causas com benefícios fiscais.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1159105692",
+      "note": "Criado um suplemento remuneratório para o agente único de transportes coletivos (o profissional que conduz e cobra bilhetes em simultâneo).",
+      "tags": ["trabalho", "infraestruturas"]
+    },
+    {
+      "id": "1159105697",
+      "note": "A lei da concorrência de 2022 passa a aplicar-se também a processos que já estavam pendentes.",
+      "tags": ["empresas", "justica"]
+    },
+    {
+      "id": "1159784841",
+      "note": "Alteradas as regras de apoio financeiro do Estado a escolas particulares e cooperativas de ensino não superior.",
+      "tags": ["educacao"]
+    },
+    {
+      "id": "1159035096",
+      "note": "O Tribunal Constitucional deferiu o registo do novo partido político \"Trabalhadores Unidos\" (TU).",
+      "tags": ["estado", "justica"]
+    },
+    {
+      "id": "1159035117",
+      "note": "Arouca abre discussão pública a uma alteração ao seu Plano Diretor Municipal.",
+      "tags": ["habitacao", "estado"]
+    },
+    {
+      "id": "1159035405",
+      "note": "A Freguesia de Alcântara (Lisboa) publica o novo regulamento e tabela geral de taxas.",
+      "tags": ["impostos", "estado"]
+    }
+  ]
+}

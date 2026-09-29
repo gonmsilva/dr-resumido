@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-13",
+  "overview": "O Parlamento elegeu o novo Provedor de Justiça e recomendou ao Governo a reposição do serviço ferroviário na Linha da Beira Baixa. Fora isso, dia de gestão corrente na Administração Pública e nos municípios.",
+  "highlights": [
+    {
+      "id": "1146287132",
+      "headline": "Parlamento elege novo Provedor de Justiça",
+      "explanation": "A Assembleia da República aprovou a eleição do novo Provedor de Justiça, o órgão que recebe queixas dos cidadãos contra a Administração Pública.",
+      "tags": ["estado", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1146287131",
+      "headline": "Parlamento pede reposição do comboio na Linha da Beira Baixa",
+      "explanation": "Recomendação ao Governo para repor a oferta ferroviária na Linha da Beira Baixa, região com ligações reduzidas nos últimos anos.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1146287134", "note": "Corrigido o decreto-lei que aprovou o desagravamento fiscal para aumentar a oferta de habitação.", "tags": ["habitacao", "impostos"] },
+    { "id": "1146591865", "note": "Amares publica o regulamento do seu programa de arrendamento acessível no Aldeamento da Mamoa.", "tags": ["habitacao"] },
+    { "id": "1146592108", "note": "Matosinhos aprova o regulamento do programa REPARA, de apoio à reabilitação de casas.", "tags": ["habitacao"] },
+    { "id": "1145969767", "note": "Fixado o preço da estampilha especial do tabaco para 2027.", "tags": ["impostos"] }
+  ]
+}

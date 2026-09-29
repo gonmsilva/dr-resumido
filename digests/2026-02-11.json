@@ -1,0 +1,32 @@
+{
+  "date": "2026-02-11",
+  "overview": "Maria Lúcia Amaral deixou o cargo de Ministra da Administração Interna, com novos secretários de estado nomeados para a pasta, e o Governo ordenou uma avaliação técnica independente às principais infraestruturas rodoviárias e ferroviárias do país. Concluiu-se ainda a criação de quatro novas Zonas Especiais de Conservação.",
+  "highlights": [
+    {
+      "id": "1047219709",
+      "headline": "Maria Lúcia Amaral sai do cargo de Ministra da Administração Interna",
+      "explanation": "A seu pedido e sob proposta do Primeiro-Ministro, é exonerada Maria Lúcia da Conceição Abrantes Amaral do cargo de Ministra da Administração Interna. São simultaneamente nomeados novos secretários de Estado para a área, incluindo um dedicado à Proteção Civil.",
+      "tags": ["estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1047287444",
+      "headline": "Governo manda avaliar de forma independente estradas e linhas ferroviárias do país",
+      "explanation": "É determinada, a título excecional, uma avaliação técnica independente às principais infraestruturas rodoviárias e ferroviárias nacionais, um exame que pode ter impacto em futuras decisões de investimento e manutenção.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1045423485",
+      "headline": "Concluídas quatro novas Zonas Especiais de Conservação",
+      "explanation": "O Governo conclui os processos de designação das Zonas Especiais de Conservação Dunas de Mira/Gândara e Gafanhas, Cabeção, Serra de Arga e Carregal do Sal, reforçando a proteção destas áreas naturais e condicionando usos futuros do solo.",
+      "tags": ["energia", "habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1047219710", "note": "Tomam posse os novos secretários de Estado da Administração Interna, Adjunto da Administração Interna e da Proteção Civil.", "tags": ["estado"] },
+    { "id": "1045423574", "note": "Aprovado o regulamento definitivo da obra do Aproveitamento Hidroagrícola do Divor.", "tags": ["empresas", "energia"] },
+    { "id": "1045580018", "note": "Aprovado o Regulamento dos Serviços da Área Metropolitana do Porto.", "tags": ["estado"] }
+  ]
+}

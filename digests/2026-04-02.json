@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-02",
+  "overview": "Dia com peso em energia: revistas as taxas do imposto sobre produtos petrolíferos e fixadas as condições de isenção de encargos de política energética para o autoconsumo renovável até 2029. Avançam também expropriações para obras ferroviárias e rodoviárias.",
+  "highlights": [
+    {
+      "id": "1081202674",
+      "headline": "Governo revê taxas do imposto sobre combustíveis",
+      "explanation": "Fixa novos valores das taxas unitárias do ISP sobre produtos petrolíferos e energéticos, com reflexo direto no preço dos combustíveis na bomba.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1081867376",
+      "headline": "Isenção de encargos de política energética para autoconsumo",
+      "explanation": "Define as condições para isentar, entre 2026 e 2029, os projetos de autoconsumo individual ou coletivo e as comunidades de energia renovável dos custos de política energética nas tarifas de acesso à rede elétrica.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1080930291",
+      "headline": "Avança supressão de passagens de nível na Linha do Norte",
+      "explanation": "Declarada utilidade pública urgente das expropriações necessárias para eliminar passagens de nível num troço da Linha do Norte, entre os quilómetros 69,4 e 84.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1080930290", "note": "Expropriações urgentes para obra de regularização da Ribeira da Selga e proteção do viaduto do Nó de Penacova, no IP3.", "tags": ["infraestruturas"] },
+    { "id": "1080934447", "note": "Portimão aprova o regulamento da tarifa social da água.", "tags": ["impostos"] },
+    { "id": "1080934168", "note": "Amadora aprova novo regulamento de estacionamento de duração limitada.", "tags": ["habitacao", "estado"] }
+  ]
+}

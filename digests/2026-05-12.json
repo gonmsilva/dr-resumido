@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-12",
+  "overview": "Fica aprovado o regulamento do concurso nacional de acesso ao ensino superior para 2026/2027 e é lançado um programa de incentivo financeiro para requalificar os serviços de urgência do SNS.",
+  "highlights": [
+    {
+      "id": "1119818253",
+      "headline": "Aprovadas as regras do concurso de acesso ao ensino superior 2026/2027",
+      "explanation": "É publicado o Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público, que define as regras de candidatura e matrícula para o próximo ano letivo.",
+      "tags": ["educacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1119817493",
+      "headline": "Incentivo financeiro para requalificar urgências hospitalares",
+      "explanation": "A Ministra da Saúde aprova um programa de incentivo financeiro para a requalificação dos espaços dos serviços de urgência geral e psiquiátrica do SNS.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1119818248", "note": "A Assembleia da República recomenda ao Governo a criação de um fundo para catástrofes naturais.", "tags": ["estado"] },
+    { "id": "1119818247", "note": "A Assembleia da República recomenda mais transparência nos apoios atribuídos após tempestades.", "tags": ["estado"] }
+  ]
+}

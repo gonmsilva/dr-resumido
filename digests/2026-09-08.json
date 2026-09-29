@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-08",
+  "overview": "Dia tranquilo no Diário da República, dominado por portarias de extensão de contratos coletivos e nomeações rotineiras. O único destaque é a simplificação dos apoios agrícolas do PEPAC; a nível municipal, Maia e Monchique abrem consultas públicas sobre taxas.",
+  "highlights": [
+    {
+      "id": "1167945131",
+      "headline": "Simplificados os apoios europeus à agricultura e ao mundo rural",
+      "explanation": "O Governo altera regras de elegibilidade, despesas elegíveis e procedimentos dos apoios ao desenvolvimento rural e à abordagem territorial integrada do PEPAC, tornando mais simples aos agricultores aceder a estes fundos europeus.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1167944863", "note": "Câmara da Maia lança consulta pública a um novo regulamento de compensações e encargos urbanísticos.", "tags": ["habitacao", "impostos"] },
+    { "id": "1167944871", "note": "Monchique consulta o público sobre a revisão geral do regulamento de taxas municipais.", "tags": ["impostos", "estado"] },
+    { "id": "1167944793", "note": "Processo de oposição nacional ao pedido de registo da «Amêndoa de Trás-os-Montes» como Indicação Geográfica Protegida.", "tags": ["empresas"] }
+  ]
+}

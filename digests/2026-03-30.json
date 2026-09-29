@@ -1,0 +1,45 @@
+{
+  "date": "2026-03-30",
+  "overview": "Dia com medidas que tocam o dia a dia: fica regulamentada a isenção de portagens no interior, fecham as candidaturas aos apoios à habitação própria permanente e é fixada tolerância de ponto na tarde de Quinta-Feira Santa para a função pública.",
+  "highlights": [
+    {
+      "id": "1078137066",
+      "headline": "Regulamentada a isenção de portagens no interior",
+      "explanation": "Nova portaria define o procedimento para os condutores se habilitarem à isenção de cobrança de taxas de portagem prevista na Lei do Orçamento do Estado.",
+      "tags": ["infraestruturas", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1080168879",
+      "headline": "Fecham as candidaturas aos apoios à habitação própria permanente",
+      "explanation": "O Ministério da Economia e Coesão Territorial determina o encerramento das candidaturas aos apoios em matéria de habitação própria permanente.",
+      "tags": ["habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1078137071",
+      "headline": "Fixadas as taxas para a mobilidade elétrica",
+      "explanation": "É definido o valor das taxas aplicáveis à organização, acesso e exercício de atividades relacionadas com a mobilidade elétrica, como a gestão de postos de carregamento.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1078137067",
+      "headline": "Verbas consignadas para o programa Incentiva+TP em 2026",
+      "explanation": "É definida a consignação de verbas para o programa Incentiva+TP em 2026, de apoio ao transporte público.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1080168888",
+      "headline": "Tolerância de ponto na tarde de Quinta-Feira Santa",
+      "explanation": "É concedida tolerância de ponto na tarde do dia 2 de abril aos trabalhadores da administração direta e institutos públicos.",
+      "tags": ["estado", "trabalho"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1079638152", "note": "Aprovado o regulamento definitivo da obra do Aproveitamento Hidroagrícola do Vale do Sado.", "tags": ["empresas"] },
+    { "id": "1079638153", "note": "Atualizadas as taxas cobradas pela Direção-Geral de Alimentação e Veterinária pelos seus atos e serviços.", "tags": ["empresas"] }
+  ]
+}

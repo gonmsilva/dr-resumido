@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-25",
+  "overview": "O Tribunal Constitucional chumba a pena acessória de perda de nacionalidade, o abono de família para crianças e jovens é alterado e é reprogramado o financiamento do novo Hospital Central do Alentejo.",
+  "highlights": [
+    {
+      "id": "1125716291",
+      "headline": "Tribunal Constitucional chumba pena de perda de nacionalidade",
+      "explanation": "O Tribunal Constitucional pronuncia-se pela inconstitucionalidade da norma que criava a pena acessória de perda de nacionalidade para determinados crimes, travando a alteração ao Código Penal aprovada pela Assembleia da República.",
+      "tags": ["justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1125716287",
+      "headline": "Alterado o abono de família para crianças e jovens",
+      "explanation": "É alterado o regime do abono de família para crianças e jovens e da proteção por encargos familiares, com impacto nas famílias beneficiárias deste apoio da Segurança Social.",
+      "tags": ["social"],
+      "importance": "high"
+    },
+    {
+      "id": "1126581593",
+      "headline": "Reprogramado o financiamento do novo Hospital Central do Alentejo",
+      "explanation": "É autorizada a reprogramação temporal e financeira dos encargos com a construção do novo Hospital Central do Alentejo, um dos maiores projetos hospitalares em curso no país.",
+      "tags": ["saude", "infraestruturas"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1125716290", "note": "Reprogramados os encargos financeiros com a aquisição da Quinta da Bela Vista, no Porto.", "tags": ["estado"] },
+    { "id": "1125717123", "note": "Sernancelhe aprova regulamento de apoio a pessoas e empresas afetadas por incêndios rurais.", "tags": ["social", "empresas"] }
+  ]
+}

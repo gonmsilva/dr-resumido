@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-11",
+  "overview": "O Governo autoriza o Metropolitano de Lisboa a repartir os encargos plurianuais do seu plano de expansão. Na Madeira, é criado o regime jurídico do autoconsumo de energia renovável.",
+  "highlights": [
+    {
+      "id": "1118713682",
+      "headline": "Financiamento plurianual para a expansão do Metro de Lisboa",
+      "explanation": "O Governo autoriza o Metropolitano de Lisboa a repartir por vários anos os encargos financeiros do seu Plano de Expansão, permitindo avançar com as novas linhas e estações previstas.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1118713684",
+      "headline": "Madeira cria regime próprio para o autoconsumo de energia",
+      "explanation": "A Assembleia Legislativa da Madeira aprova o regime jurídico do autoconsumo de energia renovável na Região, adaptando as regras nacionais à realidade da ilha.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1118713683", "note": "Definidos os apoios do PEPAC para prevenção de calamidades e catástrofes naturais na agricultura.", "tags": ["empresas"] },
+    { "id": "1118713681", "note": "A Assembleia da República recomenda ao Governo mais fiscalização no setor das pescas.", "tags": ["empresas"] }
+  ]
+}

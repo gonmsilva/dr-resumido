@@ -1,0 +1,30 @@
+{
+  "date": "2026-03-23",
+  "overview": "Dia calmo, dominado por nomeações e regulamentos internos. As novidades relevantes são o arranque do ordenamento do território no Norte e Centro, uma revisão do processo de análise dos homicídios em violência doméstica e uma correção à lei do acesso a consultas e cirurgias no SNS.",
+  "highlights": [
+    {
+      "id": "1075293616",
+      "headline": "Governo arranca com plano de ordenamento do território do Norte e do Centro",
+      "explanation": "Duas resoluções do Conselho de Ministros determinam a elaboração dos Programas Regionais de Ordenamento do Território do Norte e do Centro, que vão definir regras de uso do solo e condicionar futuros licenciamentos urbanísticos nessas regiões.",
+      "tags": ["habitacao", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1075293618",
+      "headline": "Novo procedimento para analisar homicídios em contexto de violência doméstica",
+      "explanation": "Uma portaria revoga as regras de 2016 e reformula o processo de análise retrospetiva de mortes ocorridas em contexto de violência doméstica, envolvendo os ministérios da Justiça, Administração Interna, Saúde e Segurança Social.",
+      "tags": ["justica", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1075294853",
+      "headline": "Corrigida lei que criou o novo sistema de acesso a consultas e cirurgias do SNS",
+      "explanation": "Uma declaração de retificação corrige o Decreto-Lei n.º 12/2026 que criou o Sistema Nacional de Acesso a Consulta e Cirurgia, com impacto em como os utentes do SNS conseguem marcar consultas e operações.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {"id": "1074953686", "note": "Município de Nelas aprova isenção de derrama para 2026, com efeitos retroativos a janeiro.", "tags": ["impostos"]}
+  ]
+}

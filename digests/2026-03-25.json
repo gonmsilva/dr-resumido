@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-25",
+  "overview": "O Governo avança para a fase seguinte da venda do Banco Caixa Geral - Brasil, suspende partes dos planos de ordenamento em três concelhos do Douro e financia o Programa Cuida-te até 2029. Sem grandes novidades para o dia a dia fora destes três temas.",
+  "highlights": [
+    {
+      "id": "1076925540",
+      "headline": "Estado avança para fase seguinte da venda do Banco Caixa Geral - Brasil",
+      "explanation": "O Conselho de Ministros determina a seleção dos potenciais investidores que vão integrar a fase seguinte da venda direta da totalidade ou parte do capital do Banco Caixa Geral - Brasil, um passo relevante no processo de alienação desta participação da CGD.",
+      "tags": ["banca", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1076925537",
+      "headline": "Suspensos planos de ordenamento em Cinfães, Penafiel e na albufeira de Crestuma-Lever",
+      "explanation": "O Governo suspende parcialmente o Plano de Ordenamento da Albufeira de Crestuma-Lever e os Planos Diretores Municipais de Cinfães e Penafiel, impondo medidas preventivas que condicionam construção e usos do solo nessas áreas.",
+      "tags": ["habitacao", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1076925539",
+      "headline": "Financiamento garantido para o Programa Cuida-te até 2029",
+      "explanation": "O Conselho de Ministros autoriza o Instituto Português do Desporto e Juventude a gastar verbas para promover e gerir o Programa Cuida-te entre 2026 e 2029, um programa dirigido aos jovens.",
+      "tags": ["social", "saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {"id": "1076925538", "note": "Governo ratifica a criação da Polícia Municipal de Leiria.", "tags": ["estado"]},
+    {"id": "1076861644", "note": "Declarada utilidade pública urgente para expropriar terrenos destinados a um acesso de emergência médica na A3/IP1.", "tags": ["infraestruturas"]},
+    {"id": "1076925511", "note": "Águas de Gaia publica os novos tarifários de água, saneamento e resíduos para 2026.", "tags": ["impostos"]},
+    {"id": "1076925541", "note": "Alteradas as regras que definem quanto as escolas podem gerir das matrizes curriculares no básico e secundário.", "tags": ["educacao"]}
+  ]
+}

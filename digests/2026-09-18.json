@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-18",
+  "overview": "Dia com impacto direto no bolso: o Governo reviu em alta as taxas do imposto sobre os combustíveis. O Supremo Tribunal de Justiça fixou jurisprudência sobre o valor do testemunho de vítimas de violência doméstica em julgamento, e a farmacêutica BIAL fechou um novo contrato de investimento com o Estado.",
+  "highlights": [
+    {
+      "id": "1172217151",
+      "headline": "Governo sobe as taxas do imposto sobre os combustíveis",
+      "explanation": "Nova portaria revê e fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), com reflexo direto no preço dos combustíveis pagos pelos automobilistas.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1171929505",
+      "headline": "STJ fixa jurisprudência sobre testemunho de vítimas de violência doméstica",
+      "explanation": "O Supremo Tribunal de Justiça decidiu que o tribunal pode valorar declarações para memória futura de vítimas de violência doméstica, prestadas em inquérito ou instrução, mesmo que a vítima recuse depor em julgamento perante o arguido.",
+      "tags": ["justica", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1171739576",
+      "headline": "Estado fecha contrato de investimento com a BIAL",
+      "explanation": "Aprovada a minuta do contrato de investimento entre a AICEP, em representação do Estado, e a BIAL, no âmbito do sistema de incentivos à investigação e desenvolvimento empresarial.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1171929503",
+      "note": "Governo altera resolução anterior sobre despesa e doação de equipamentos no âmbito do apoio a Ucrânia em 2026.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1171929504",
+      "note": "Nomeada a nova presidente do conselho de administração da AICEP ― Agência para o Investimento e Comércio Externo de Portugal.",
+      "tags": ["empresas", "estado"]
+    },
+    {
+      "id": "1171481965",
+      "note": "Infraestruturas de Portugal autorizada a repartir encargos com a substituição de transformadores de potência na Linha do Norte.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1171481967",
+      "note": "Infraestruturas de Portugal autorizada a repartir encargos com o alargamento do Nó de Paranhos, na A20.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1171481968",
+      "note": "Infraestruturas de Portugal autorizada a repartir encargos com a reparação do túnel de Chão de Maçãs, na Linha do Norte.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1171739624",
+      "note": "Governo avança com a alteração do Programa da Orla Costeira de Espichel-Odeceixe.",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1171739901",
+      "note": "Mértola põe em consulta pública um novo Regulamento dos Preços do município.",
+      "tags": ["impostos"]
+    }
+  ]
+}

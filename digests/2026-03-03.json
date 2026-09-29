@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-03",
+  "overview": "Dia calmo, sem grande legislação de impacto imediato. O Banco de Portugal atualiza regras sobre pensões de reforma da banca e é aprovado o plano de gestão da Berlenga, enquanto avança mais um pacote de modernização ferroviária.",
+  "highlights": [
+    {
+      "id": "1065235173",
+      "headline": "Banco de Portugal atualiza regras sobre pensões de reforma na banca",
+      "explanation": "Novo aviso regula as responsabilidades por pensões de reforma e sobrevivência de planos de benefício definido nas instituições de crédito e sociedades financeiras, substituindo normas de 2001-2002.",
+      "tags": ["banca"],
+      "importance": "medium"
+    },
+    {
+      "id": "1065989735",
+      "headline": "Aprovado o plano de gestão da Berlenga",
+      "explanation": "É aprovado o plano de gestão da Zona Especial de Conservação do Arquipélago da Berlenga, que define as regras de proteção do território nos próximos anos.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1065235088",
+      "headline": "Mais fundos para eletrificar a Linha do Oeste",
+      "explanation": "A Infraestruturas de Portugal é autorizada a reprogramar os encargos do contrato de eletrificação e modernização do troço Caldas da Rainha-Louriçal da Linha do Oeste.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1065235087", "note": "Reprogramados também os encargos da eletrificação e modernização da Linha do Douro entre a Régua e o Pocinho.", "tags": ["infraestruturas"] },
+    { "id": "1065236028", "note": "Madeira propõe à Assembleia da República um regime de mecenato fiscal para as regiões autónomas.", "tags": ["impostos"] },
+    { "id": "1065236025", "note": "Parlamento condena o golpe de Estado na Guiné-Bissau e pede a libertação dos detidos.", "tags": ["estado"] },
+    { "id": "1066034739", "note": "Governo ajusta as fontes de financiamento de uma resolução de 2021.", "tags": ["estado"] }
+  ]
+}

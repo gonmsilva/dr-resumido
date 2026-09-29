@@ -1,0 +1,25 @@
+{
+  "date": "2026-02-02",
+  "overview": "Dia calmo, dominado por nomeações e regulamentos internos. O destaque vai para a classificação de todo o continente como zona de grande procura na rede elétrica e para as novas orientações salariais no setor empresarial do Estado.",
+  "highlights": [
+    {
+      "id": "1031758691",
+      "headline": "Portugal continental classificado como zona de grande procura elétrica",
+      "explanation": "O Governo reconhece todo o território continental abrangido pela rede elétrica de serviço público como zona de grande procura e abre um procedimento excecional para lidar com a pressão sobre a rede.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1033276017",
+      "headline": "Novas orientações salariais para empresas públicas em 2026",
+      "explanation": "O Governo define a política salarial a seguir em 2026 pelas empresas do setor empresarial do Estado, com impacto nos salários de milhares de trabalhadores de empresas públicas.",
+      "tags": ["trabalho", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1031485055", "note": "Nova licença para a UFORCE Portugal comercializar e produzir bens e tecnologias militares.", "tags": ["empresas"] },
+    { "id": "1031759092", "note": "Município do Barreiro atualiza a taxa municipal de direito de passagem.", "tags": ["impostos", "estado"] },
+    { "id": "1031485060", "note": "Instituto de Ação Social das Forças Armadas abre concurso para casas de renda económica devolutas.", "tags": ["habitacao", "social"] }
+  ]
+}

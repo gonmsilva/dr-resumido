@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-22",
+  "overview": "Dia tranquilo. Portugal ratifica com Espanha um novo protocolo sobre os caudais do rio Guadiana e o Governo ajusta o regime excecional de reconstrução para os concelhos afetados pela tempestade Kristin. O resto do dia foi de diplomas administrativos menores.",
+  "highlights": [
+    {
+      "id": "1172319751",
+      "headline": "Ajustado o regime de reconstrução pós-tempestade Kristin",
+      "explanation": "Alteração ao regime excecional e temporário de simplificação administrativa e financeira para reconstruir e reabilitar património e infraestruturas nos concelhos afetados pela tempestade Kristin.",
+      "tags": ["infraestruturas", "habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1172319748",
+      "headline": "Portugal e Espanha ratificam acordo sobre o rio Guadiana",
+      "explanation": "Ratificado o Segundo Protocolo de Revisão da convenção luso-espanhola sobre os caudais do Guadiana na secção de Pomarão, que regula a partilha de água entre os dois países.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1172319754", "note": "Atualizadas as regras sobre tempo de serviço de voo e repouso dos pilotos de aeronaves em trabalho aéreo.", "tags": ["trabalho"] },
+    { "id": "1172559688", "note": "Fixados os índices de custos de materiais e equipamentos de julho, usados para rever preços em contratos públicos.", "tags": ["empresas"] },
+    { "id": "1172559760", "note": "Aprovado programa nacional 2026-2030 para controlar a alga invasora Rugulopteryx okamurae na costa portuguesa.", "tags": ["energia"] },
+    { "id": "1172319752", "note": "Criado um novo Julgado de Paz no concelho da Figueira da Foz.", "tags": ["justica"] },
+    { "id": "1172319750", "note": "Alterado o regime de recrutamento e remuneração das equipas do Turismo de Portugal no estrangeiro.", "tags": ["empresas"] }
+  ]
+}

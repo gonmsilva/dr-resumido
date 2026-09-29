@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-10",
+  "overview": "O Governo extingue o Fundo REVITA e pôs em consulta pública um novo regime jurídico de cibersegurança. Foi também revogado o plano de ordenamento da Albufeira do Azibo.",
+  "highlights": [
+    {
+      "id": "1069935645",
+      "headline": "Extinto o Fundo REVITA",
+      "explanation": "Despacho conjunto das Finanças, Economia, Infraestruturas e Habitação e Trabalho e Segurança Social extingue o Fundo REVITA. O resumo oficial não detalha o destino dos seus recursos ou beneficiários.",
+      "tags": ["estado", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1069935643",
+      "headline": "Consulta pública sobre novo regime de cibersegurança",
+      "explanation": "O Gabinete Nacional de Segurança lança para consulta pública um projeto de regulamento do regime jurídico da cibersegurança, que vai definir obrigações para entidades públicas e privadas.",
+      "tags": ["empresas", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1070022782",
+      "headline": "Revogado o plano de ordenamento da Albufeira do Azibo",
+      "explanation": "O Conselho de Ministros revoga o Plano de Ordenamento da Albufeira do Azibo, alterando as regras de uso do solo em torno desta barragem no distrito de Bragança.",
+      "tags": ["energia", "habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1070022780",
+      "note": "Concedido a título póstumo o Grande-Colar da Ordem de Camões ao escritor António Lobo Antunes.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1070022779",
+      "note": "Ratificado o Tratado de Amizade e Cooperação entre Portugal e França, assinado no Porto em fevereiro de 2025.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1069986444",
+      "note": "TAP autorizada a explorar a rota aérea regular Porto-Praia-Porto.",
+      "tags": ["empresas"]
+    }
+  ]
+}

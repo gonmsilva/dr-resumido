@@ -1,0 +1,33 @@
+{
+  "date": "2026-02-18",
+  "overview": "Destaque para a denúncia, pela Rússia, do acordo de cooperação militar com Portugal, e para novas regras da ANACOM sobre pequenas antenas de acesso sem fios. A Moita delimita seis áreas de reabilitação urbana.",
+  "highlights": [
+    {
+      "id": "1051479908",
+      "headline": "Rússia denuncia acordo de cooperação militar com Portugal",
+      "explanation": "O Governo russo notificou Portugal da denúncia do acordo de cooperação no domínio militar entre os dois países, assinado em Moscovo em 2000, pondo fim a esse quadro de cooperação bilateral.",
+      "tags": ["estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1051479633",
+      "headline": "Moita delimita seis áreas de reabilitação urbana",
+      "explanation": "O Município da Moita aprova a delimitação de seis áreas de reabilitação urbana — Baixa da Banheira, Vale da Amoreira, Alhos Vedros, Moita, Gaio-Rosário e Sarilhos Pequenos — que passam a beneficiar de regras e incentivos próprios de reabilitação.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1051479330",
+      "headline": "Novas regras técnicas para antenas de acesso sem fios de área reduzida",
+      "explanation": "A ANACOM aprova instruções técnicas para a instalação de pequenos pontos de acesso sem fios (small cells), usados para reforçar a cobertura móvel e de internet em zonas urbanas.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1051479635", "note": "Nazaré republica, em versão consolidada, o regulamento de atribuição de habitação de arrendamento apoiado.", "tags": ["habitacao"] },
+    { "id": "1051479909", "note": "Nova alteração ao regulamento de pedidos de ajuda e pagamento ao IFAP para agricultores.", "tags": ["empresas"] },
+    { "id": "1051479594", "note": "Aljustrel atualiza a planta de condicionantes para integrar a nova delimitação da Reserva Ecológica Nacional (REN).", "tags": ["energia", "habitacao"] },
+    { "id": "1051479293", "note": "Aprovada a nova Carta Administrativa Oficial de Portugal (CAOP 2025), a referência oficial dos limites administrativos do país.", "tags": ["estado"] }
+  ]
+}

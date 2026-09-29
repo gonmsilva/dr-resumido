@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-29",
+  "overview": "Dia com foco em energia e ambiente: alterado o regime da Reserva Ecológica Nacional, reorganizado o Sistema Elétrico Nacional e criado um novo sistema de apoio à produção de hidrogénio renovável. O Governo prorrogou ainda a Estratégia Nacional de Adaptação às Alterações Climáticas.",
+  "highlights": [
+    {
+      "id": "1139897686",
+      "headline": "Alterado o regime da Reserva Ecológica Nacional",
+      "explanation": "O Governo alterou as regras que definem que terrenos integram a Reserva Ecológica Nacional (REN), com impacto nas possibilidades de construção e uso do solo em áreas protegidas, incluindo zonas costeiras e de risco de cheias.",
+      "tags": ["habitacao", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1139897687",
+      "headline": "Reorganizado o Sistema Elétrico Nacional",
+      "explanation": "Alterado o regime jurídico que organiza o Sistema Elétrico Nacional, transpondo diretivas europeias sobre o mercado da eletricidade, com reflexos na forma como a eletricidade é produzida, distribuída e comercializada.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1139905344",
+      "headline": "Novo apoio à produção de hidrogénio renovável",
+      "explanation": "Criado o Sistema de Apoio à Produção de Hidrogénio Renovável e de Outros Gases Renováveis, para incentivar empresas a investir nesta tecnologia como alternativa aos combustíveis fósseis.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1139897693",
+      "headline": "Definido apoio extraordinário para falhas no transporte público",
+      "explanation": "Estabelecidas as condições para atribuição, em 2026, de um apoio extraordinário em caso de disrupção grave ou perturbação relevante nos serviços de transporte público de passageiros.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1139897689", "note": "Prorrogada até final de 2026 a Estratégia Nacional para a Adaptação às Alterações Climáticas.", "tags": ["energia"] },
+    { "id": "1139897695", "note": "Definidas as regras de pagamento aos profissionais de saúde por atividade assistencial extra (produção adicional e externalizada).", "tags": ["saude"] }
+  ]
+}

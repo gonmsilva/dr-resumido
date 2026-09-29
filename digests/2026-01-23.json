@@ -1,0 +1,32 @@
+{
+  "date": "2026-01-23",
+  "overview": "Dia sobretudo virado para a energia: avança o reequipamento do Parque Eólico de Penamacor 2 e ficam definidas as regras de partilha de dados sobre carregamento de veículos elétricos. Cria-se também um novo instituto público para a qualidade e avaliação no ensino. Resto do boletim é maioritariamente rotina administrativa e municipal.",
+  "highlights": [
+    {
+      "id": "1020469578",
+      "headline": "Reequipamento do Parque Eólico de Penamacor 2 declarado de utilidade pública",
+      "explanation": "O Governo declarou de imprescindível utilidade pública o projeto de reequipamento do Parque Eólico de Penamacor 2, na serra de Santo André, no concelho de Penamacor.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1022092628",
+      "headline": "Novas regras para partilha de dados da mobilidade elétrica",
+      "explanation": "Portaria regula como os operadores de pontos de carregamento devem disponibilizar dados sobre mobilidade elétrica a uma entidade agregadora, que depois os transmite ao Ponto de Acesso Nacional. Aplica-se a quem opera ou usa postos de carregamento.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1023994567",
+      "headline": "Criado o Instituto de Educação, Qualidade e Avaliação (EduQA)",
+      "explanation": "Aprovados os estatutos do novo Instituto de Educação, Qualidade e Avaliação, I. P. (EduQA), organismo público na área da educação.",
+      "tags": ["educacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1020469585", "note": "TAP pede autorização para explorar a rota Porto-Telavive-Porto.", "tags": ["empresas", "infraestruturas"] },
+    { "id": "1022092627", "note": "Concluído o processo de designação da Zona Especial de Conservação Minas de Santo Adrião.", "tags": ["energia"] },
+    { "id": "1022513615", "note": "Abre concurso para 168 vagas de formação inicial para magistratura judicial e do Ministério Público.", "tags": ["justica"] }
+  ]
+}

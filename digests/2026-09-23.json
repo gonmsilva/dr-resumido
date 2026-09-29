@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-23",
+  "overview": "Dia muito calmo em legislação nacional. O único assunto com peso real é o reforço do apoio aos viticultores do Douro que não conseguem escoar a produção; o resto ficou por diplomas processuais e nomeações.",
+  "highlights": [
+    {
+      "id": "1172868787",
+      "headline": "Reforçado o apoio aos viticultores do Douro sem mercado para o vinho",
+      "explanation": "Primeira alteração ao apoio excecional ao rendimento dos viticultores da Região Demarcada do Douro que não conseguem escoar a produção da campanha 2026-2027 devido às condições de mercado.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1172868786",
+      "headline": "Novas regras para a tramitação eletrónica nos tribunais",
+      "explanation": "Alterada a portaria que regula a tramitação eletrónica dos processos nos tribunais judiciais, administrativos e fiscais e nos serviços do Ministério Público.",
+      "tags": ["justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1172868785", "note": "Aprovado acordo de cooperação entre Portugal e Angola na área da proteção civil e bombeiros.", "tags": ["estado"] },
+    { "id": "1172867984", "note": "Criado um grupo de trabalho para rever o regime da atividade de segurança privada.", "tags": ["trabalho"] }
+  ]
+}

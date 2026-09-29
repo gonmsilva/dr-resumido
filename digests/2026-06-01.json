@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-01",
+  "overview": "Dia dominado por diplomas da Assembleia da República: autorização ao Governo para alterar o Código das Expropriações, novas regras sobre pagamentos em atraso das entidades públicas e um novo modelo de declaração do regime de grupos de IVA. Resto do dia preenchido por nomeações e regulamentos municipais de rotina.",
+  "highlights": [
+    {
+      "id": "1128264722",
+      "headline": "Governo autorizado a rever o Código das Expropriações",
+      "explanation": "A Assembleia da República autorizou o Governo a alterar as regras que regem as expropriações por utilidade pública, com impacto potencial em processos de aquisição de terrenos e imóveis para obras públicas.",
+      "tags": ["habitacao", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1128264721",
+      "headline": "Novas regras para compromissos e pagamentos em atraso do Estado",
+      "explanation": "Alteração à lei que disciplina a assunção de compromissos financeiros e o controlo de pagamentos em atraso pelas entidades públicas, com efeitos na disciplina orçamental do setor público.",
+      "tags": ["impostos", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1128264731",
+      "headline": "Aprovado modelo de declaração para grupos de IVA",
+      "explanation": "As Finanças publicaram o modelo de declaração a usar pelas empresas que optam pelo regime de grupos de IVA, simplificando as obrigações declarativas de grupos empresariais.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1128264720",
+      "headline": "Alterado subsídio social de mobilidade aérea para Açores e Madeira",
+      "explanation": "Lei da Assembleia da República altera o regime do subsídio que reduz o preço das viagens aéreas entre o continente e as Regiões Autónomas, com impacto direto nos residentes insulares.",
+      "tags": ["infraestruturas", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1128264728", "note": "Aprovado acordo de cooperação policial entre Portugal e França.", "tags": ["estado", "justica"] },
+    { "id": "1128264726", "note": "Governo autoriza despesa com apoios a centros de recursos para a inclusão no ano letivo 2026-2027.", "tags": ["educacao", "social"] },
+    { "id": "1128264733", "note": "Atualizadas as regras do programa de distribuição de fruta, hortícolas e leite nas escolas.", "tags": ["educacao"] },
+    { "id": "1128264732", "note": "Terceira alteração ao regime de apoios do Programa Mar 2030 para o setor das pescas.", "tags": ["empresas"] },
+    { "id": "1128499585", "note": "Tribunal Constitucional rejeita recursos sobre contas de campanha eleitoral nos Açores em 2020.", "tags": ["justica", "estado"] }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-24",
+  "overview": "Dia com notícias de peso: o Estado reforça a garantia pessoal para crédito à habitação de jovens até aos 35 anos e o Governo revê as taxas do imposto sobre os combustíveis. Fica também definido que a dessalinizadora do Algarve só funciona a full capacidade em situações de escassez de água.",
+  "highlights": [
+    {
+      "id": "1090467337",
+      "headline": "Estado reforça garantia para crédito à habitação de jovens até 35 anos",
+      "explanation": "O Ministério das Finanças reforça a garantia pessoal do Estado a bancos para viabilizar a concessão de crédito à habitação própria permanente a jovens até aos 35 anos.",
+      "tags": ["habitacao", "banca"],
+      "importance": "high"
+    },
+    {
+      "id": "1092323241",
+      "headline": "Governo revê o imposto sobre os combustíveis",
+      "explanation": "Nova portaria fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), o que se reflete diretamente no preço da gasolina e do gasóleo.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1093663484",
+      "headline": "Dessalinizadora do Algarve só a plena capacidade em seca extrema",
+      "explanation": "A Agência Portuguesa do Ambiente passa a gerir a estação de dessalinização de água do mar do Algarve, cuja exploração a plena capacidade fica reservada a situações de escassez hídrica, como último recurso para abastecimento público.",
+      "tags": ["energia", "habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1090467338",
+      "note": "Alteração aos limites de subscrição dos Certificados de Aforro da série F.",
+      "tags": ["banca"]
+    },
+    {
+      "id": "1090808520",
+      "note": "Fundo Ambiental fica autorizado a celebrar contratos-programa «Territórios Resilientes» para recuperar zonas ribeirinhas e costeiras afetadas por cheias e inundações.",
+      "tags": ["infraestruturas", "energia"]
+    },
+    {
+      "id": "1093663479",
+      "note": "Novos Representantes da República nomeados para a Madeira (Paulo Duarte Barreto Ferreira) e para os Açores (Susana Goulart Costa).",
+      "tags": ["estado"]
+    }
+  ]
+}

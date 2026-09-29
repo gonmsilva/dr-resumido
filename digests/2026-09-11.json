@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-11",
+  "overview": "Dois destaques dominam o dia: uma revisão das taxas do imposto sobre os combustíveis, com efeito direto no preço à bomba, e uma decisão do Tribunal Constitucional que dá luz verde à reforma das leis de imigração e asilo aprovada recentemente. O resto do dia foi preenchido por ratificações de acordos de aviação, condecorações e nomeações rotineiras.",
+  "highlights": [
+    {
+      "id": "1170049161",
+      "headline": "Governo revê as taxas do imposto sobre os combustíveis",
+      "explanation": "Uma portaria fixa novas taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, com impacto direto no preço pago pelos automobilistas nos combustíveis.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1169857279",
+      "headline": "Tribunal Constitucional valida a reforma das leis de imigração e asilo",
+      "explanation": "O Tribunal Constitucional não considera inconstitucionais as normas do diploma que altera as regras de entrada, permanência e concessão de asilo a estrangeiros em Portugal, aprovado recentemente pela Assembleia da República.",
+      "tags": ["justica", "social"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1169290512", "note": "Autorizada a reversão da expropriação de um terreno afeto às obras de modernização da Linha de Vendas Novas, em Salvaterra de Magos.", "tags": ["infraestruturas"] },
+    { "id": "1169857345", "note": "Câmara de Lisboa abre discussão pública sobre a delimitação da unidade de execução Abel Pereira da Fonseca.", "tags": ["habitacao", "estado"] }
+  ]
+}

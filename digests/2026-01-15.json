@@ -1,0 +1,31 @@
+{
+  "date": "2026-01-15",
+  "overview": "Dia calmo no Diário da República, dominado por nomeações diplomáticas e promoções militares de rotina. As novidades que contam: fixou-se o valor do depósito das embalagens de bebidas no novo sistema de depósito e reembolso, os produtores de tabaco com filtros plásticos passam a contribuir para a limpeza urbana das autarquias, e o Governo atualizou as regras de gestão da dívida pública para 2026.",
+  "highlights": [
+    {
+      "id": "1008338856",
+      "headline": "Fixado o valor do depósito das embalagens de bebidas",
+      "explanation": "Um despacho conjunto da Economia e do Ambiente fixa o valor de depósito aplicável às embalagens de bebidas abrangidas pelo Sistema de Depósito e Reembolso (SDR), a cobrar a partir de agora sobre estas embalagens.",
+      "tags": ["energia", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1008338855",
+      "headline": "Produtores de tabaco com filtros plásticos vão pagar às autarquias",
+      "explanation": "Fica fixado, para 2026 e 2027, o montante que os produtores de produtos do tabaco com filtros plásticos têm de pagar aos municípios para compensar os custos de limpeza urbana.",
+      "tags": ["impostos", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1008338850",
+      "headline": "Governo atualiza normas de gestão da dívida pública para 2026",
+      "explanation": "O Ministério das Finanças atualizou as normas orientadoras para a gestão da dívida pública e das disponibilidades de tesouraria, com a proposta para 2026.",
+      "tags": ["banca"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1008945640", "note": "A Figueira da Foz avança com uma alteração ao regulamento de taxas e compensações urbanísticas.", "tags": ["habitacao", "impostos"] },
+    { "id": "1008945639", "note": "Coruche coloca a consulta pública um novo regulamento geral de preços municipais.", "tags": ["impostos", "estado"] }
+  ]
+}

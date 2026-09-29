@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-07",
+  "overview": "Dia com poucos atos de fundo: destaque para a alteração às regras de horários e escalas de turno das farmácias e para uma recomendação da Assembleia da República ao Governo para reforçar o combate às empresas de fachada.",
+  "highlights": [
+    {
+      "id": "1112989387",
+      "headline": "Alteradas as regras de horários e turnos das farmácias",
+      "explanation": "É alterado o regime que define o horário padrão das farmácias de oficina e o procedimento de aprovação das escalas de turno, incluindo o valor máximo a cobrar pelas farmácias de turno na dispensa de medicamentos sem receita.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1112989383", "note": "A Assembleia da República recomenda ao Governo mais medidas para encerrar empresas e lojas de fachada.", "tags": ["empresas", "justica"] },
+    { "id": "1112989379", "note": "A Assembleia da República recomenda o reconhecimento e proteção dos antigos trabalhadores das minas da Urgeiriça e das suas famílias.", "tags": ["social"] },
+    { "id": "1112913410", "note": "Entra em circulação uma nova moeda de coleção do Banco de Portugal dedicada ao Mundial de Futebol.", "tags": ["banca"] }
+  ]
+}

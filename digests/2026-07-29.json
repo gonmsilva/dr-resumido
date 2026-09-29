@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-29",
+  "overview": "Atualizados os valores pagos por doente/dia na Rede Nacional de Cuidados Continuados Integrados. O Parlamento recomendou também um plano de ação e investimento contra a violência doméstica.",
+  "highlights": [
+    {
+      "id": "1152781826",
+      "headline": "Atualizados os valores da Rede de Cuidados Continuados",
+      "explanation": "Portaria atualiza os valores pagos por utente/dia em todas as tipologias da Rede Nacional de Cuidados Continuados Integrados, que apoia idosos e doentes crónicos.",
+      "tags": ["saude", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1152781821",
+      "headline": "Parlamento pede plano de investimento contra a violência doméstica",
+      "explanation": "Recomendação ao Governo para um plano de ação e investimento na prevenção e combate à violência doméstica e no namoro, com mais apoio às vítimas e às forças de segurança.",
+      "tags": ["social", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1152764177", "note": "Cartaxo avança com a 1.ª revisão do seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1152761159", "note": "Almada consulta o público sobre o Plano Municipal de Ação Climática Almada.Clima 2030.", "tags": ["energia"] },
+    { "id": "1152764196", "note": "Ponta Delgada aprova o seu Plano Municipal de Ação Climática.", "tags": ["energia"] }
+  ]
+}

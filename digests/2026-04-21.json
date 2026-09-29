@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-21",
+  "overview": "Dia tranquilo, com o Governo a ajustar os apoios extraordinários às vítimas da tempestade Kristin, entre agricultores e beneficiários de medidas de emprego. Fora isso, sobretudo nomeações e regulamentos internos.",
+  "highlights": [
+    {
+      "id": "1087226611",
+      "headline": "Governo altera apoios extraordinários à tempestade Kristin",
+      "explanation": "Primeira alteração à portaria que regula os apoios financeiros de emergência para quem foi afetado pela calamidade provocada pela tempestade Kristin, no âmbito do regime aprovado em fevereiro.",
+      "tags": ["empresas", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1087228959",
+      "note": "Novo regime excecional e temporário de apoios sociais para quem está em medidas ativas de emprego ou reabilitação profissional, devido à tempestade Kristin.",
+      "tags": ["trabalho", "social"]
+    },
+    {
+      "id": "1087228922",
+      "note": "O Serviço de Finanças de Lisboa 4 é fundido no Serviço de Finanças de Lisboa 1.",
+      "tags": ["impostos", "estado"]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2026-03-31",
+  "overview": "Dia carregado: o Governo cria apoios excecionais para compensar a subida dos combustíveis ligada ao conflito no Médio Oriente, aprova a nova Estratégia para os Direitos das Pessoas com Deficiência e reforça o desconto na tarifa social do gás natural. Também há mexidas nas listas de espera do SNS e no IRS automático.",
+  "highlights": [
+    {
+      "id": "1080481232",
+      "headline": "Apoios excecionais para compensar a subida dos combustíveis",
+      "explanation": "É criado um apoio excecional e temporário para compensar operadores de transporte de passageiros e mercadorias, entidades sociais, bombeiros e os setores agrícola, florestal, das pescas e da aquicultura pela escalada do preço dos combustíveis devido ao conflito no Médio Oriente.",
+      "tags": ["impostos", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1080481227",
+      "headline": "Aprovada a Estratégia para os Direitos das Pessoas com Deficiência 2026-2030",
+      "explanation": "O Conselho de Ministros aprova a nova estratégia nacional e os respetivos planos de ação para os direitos das pessoas com deficiência para o próximo quinquénio.",
+      "tags": ["social"],
+      "importance": "high"
+    },
+    {
+      "id": "1080481206",
+      "headline": "Reforçado o desconto na tarifa social do gás natural",
+      "explanation": "É determinado o desconto a aplicar na tarifa social de fornecimento de gás natural para o ano gás 2026-2027, com impacto direto na fatura das famílias mais vulneráveis.",
+      "tags": ["energia", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1080123525",
+      "headline": "Novas regras para gerir as listas de espera no SNS",
+      "explanation": "Portaria regulamenta os procedimentos operacionais de gestão das listas de espera no Serviço Nacional de Saúde, no âmbito do Sistema Nacional de Acesso a Consulta e Cirurgia.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1080481233",
+      "headline": "Atualizado o universo de contribuintes com IRS automático",
+      "explanation": "É alterado o decreto regulamentar do IRS automático para atualizar quem é abrangido pela declaração automática, na sequência da revisão do regime do IRS Jovem.",
+      "tags": ["impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1080495710",
+      "headline": "Fixadas as vagas para professores no próximo ano letivo",
+      "explanation": "É fixada a dotação de vagas dos quadros das escolas para os concursos de recrutamento de pessoal docente para o ano escolar de 2026-2027.",
+      "tags": ["educacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1080123526", "note": "Definido um modelo nacional de preparação e resposta sazonal em saúde para riscos previsíveis.", "tags": ["saude"] },
+    { "id": "1080481662", "note": "Fixado o valor da taxa sanitária e de segurança alimentar para 2026.", "tags": ["empresas"] },
+    { "id": "1080130511", "note": "Prorrogado por seis anos o Fundo Imobiliário Especial de Apoio às Empresas.", "tags": ["empresas"] },
+    { "id": "1080130553", "note": "Governo estuda o potencial de antigas áreas mineiras degradadas para instalar energias renováveis.", "tags": ["energia"] }
+  ]
+}

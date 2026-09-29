@@ -1,0 +1,17 @@
+{
+  "date": "2026-01-12",
+  "overview": "Dia calmo, dominado por nomeações e regulamentos municipais de rotina. A novidade mais relevante são as novas regras para licenciar operadores de pontos de carregamento elétrico.",
+  "highlights": [
+    {
+      "id": "1003479553",
+      "headline": "Definidas as regras para licenciar operadores de carregamento elétrico",
+      "explanation": "O Governo estabeleceu os requisitos e o procedimento para atribuir licenças a quem opera pontos de carregamento de veículos elétricos, no âmbito do novo regime jurídico da mobilidade elétrica.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1003479554", "note": "O Supremo Tribunal Administrativo uniformizou jurisprudência sobre prazos de citação do Ministério Público em ações de responsabilidade civil contra o Estado.", "tags": ["justica"] },
+    { "id": "1003479552", "note": "A Assembleia da República recomendou ao Governo diligências para garantir a entrada de estudantes palestinianos matriculados em universidades portuguesas.", "tags": ["educacao"] }
+  ]
+}

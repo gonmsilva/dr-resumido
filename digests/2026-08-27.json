@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "overview": "Dia muito fraco em legislação, ofuscado por dezenas de despachos de concessão de igualdade de direitos a cidadãos brasileiros. O único destaque é a regulamentação da nova prestação social única.",
+  "highlights": [
+    {
+      "id": "1162304245",
+      "headline": "Definidas as regras da nova prestação social única",
+      "explanation": "A Portaria estabelece as normas de execução do decreto-lei que institui a prestação social única, que substitui ou reorganiza apoios sociais existentes. Afeta os beneficiários de prestações sociais do sistema de segurança social.",
+      "tags": ["social"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    {
+      "id": "1162304242",
+      "note": "Homologada a exoneração e nomeação do novo Chefe do Estado-Maior Conjunto.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1163084373",
+      "note": "A Freguesia de Vila de Frades aprova o novo Regulamento de Taxas e Preços.",
+      "tags": ["impostos"]
+    }
+  ]
+}

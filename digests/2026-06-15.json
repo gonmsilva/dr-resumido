@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-15",
+  "overview": "Dia de decisões estruturais mas sem grande impacto imediato: o Governo fica autorizado a rever o mecenato e os benefícios fiscais, avança a desmilitarização do Campo de Tiro de Alcochete para o futuro aeroporto e alargam-se os rastreios oncológicos a 39 unidades de saúde. Em Lisboa, cai o plano de pormenor do Parque Oriente.",
+  "highlights": [
+    {
+      "id": "1131865535",
+      "headline": "Governo autorizado a rever o mecenato e os benefícios fiscais",
+      "explanation": "A Assembleia da República autoriza o Governo a alterar o regime do mecenato e o Estatuto dos Benefícios Fiscais. Abre caminho a mudanças nas regras fiscais aplicáveis a donativos e incentivos, ainda por concretizar em decreto-lei.",
+      "tags": ["impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1131865543",
+      "headline": "Avança desmilitarização do Campo de Tiro de Alcochete para o novo aeroporto",
+      "explanation": "O Conselho de Ministros autoriza a despesa para os trabalhos de desmilitarização do Campo de Tiro de Alcochete, passo necessário para a construção do Aeroporto Luís de Camões.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1132294057",
+      "headline": "Rastreios de cancro alargados a 39 unidades de saúde",
+      "explanation": "A Saúde atribui à ACSS, em articulação com a Direção Executiva do SNS, as competências para implementar rastreios do cancro do colo do útero, do cólon e reto e da retinopatia diabética em 39 unidades locais de saúde.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1132294342",
+      "headline": "Câmara de Lisboa revoga plano de pormenor do Parque Oriente",
+      "explanation": "É revogado o Plano de Pormenor em Regime Simplificado do projeto urbano do Parque Oriente, em Lisboa, travando o desenho urbanístico que estava definido para a zona.",
+      "tags": ["habitacao", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1131865536",
+      "note": "Parlamento recomenda ao Governo garantir acesso livre aos terminais rodoviários de passageiros e auditar as práticas concorrenciais do setor.",
+      "tags": ["infraestruturas", "empresas"]
+    },
+    {
+      "id": "1131865537",
+      "note": "Parlamento recomenda ao Governo rever o mecanismo de recuperação de créditos dos lesados do papel comercial do BES.",
+      "tags": ["banca"]
+    },
+    {
+      "id": "1131865548",
+      "note": "Governo fixa o valor máximo da compensação financeira à CP pelas obrigações de serviço público de transporte ferroviário em 2026.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1131865545",
+      "note": "Governo autoriza a compensação financeira à Transtejo/Soflusa pelas obrigações de serviço público no 1.º semestre de 2026.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1132294069",
+      "note": "Abre a consulta pública ao plano de gestão da Zona Especial de Conservação da Serra da Estrela.",
+      "tags": ["energia"]
+    }
+  ]
+}

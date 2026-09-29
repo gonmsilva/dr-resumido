@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-02",
+  "overview": "Dia marcado pela aprovação do PTRR — Portugal Transformação, Recuperação e Resiliência — pelo Conselho de Ministros, e por um acórdão do Supremo Tribunal Administrativo que esclarece quem é responsável pelo pagamento do IUC quando o registo automóvel não reflete o proprietário real. O resto do dia foi preenchido por regulamentos e nomeações municipais de rotina.",
+  "highlights": [
+    {
+      "id": "1128669414",
+      "headline": "Governo aprova o PTRR — Portugal Transformação, Recuperação e Resiliência",
+      "explanation": "O Conselho de Ministros aprovou o plano que sucede ao PRR, definindo prioridades de investimento e reformas para os próximos anos, com impacto potencial em fundos europeus destinados a empresas e infraestruturas.",
+      "tags": ["empresas", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1128669415",
+      "headline": "STA esclarece quem paga o IUC quando o registo automóvel não corresponde ao dono real",
+      "explanation": "O Supremo Tribunal Administrativo uniformizou jurisprudência: quem está inscrito no registo automóvel é presumido responsável pelo Imposto Único de Circulação, mas pode provar que já não é o proprietário efetivo para se eximir ao pagamento.",
+      "tags": ["impostos", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1128773255", "note": "Classificada como monumento de interesse público a Igreja de Nossa Senhora da Assunção, em Cernache, Coimbra.", "tags": ["estado"] },
+    { "id": "1129390726", "note": "Alterada a portaria de fevereiro sobre matérias conjuntas das Finanças e da Segurança Social.", "tags": ["social", "impostos"] }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-24",
+  "overview": "O Governo lançou a estratégia «Água Que Une» e criou o novo regime da AdP AQUA para gerir os recursos hídricos do país. Avançam ainda a duplicação de um troço ferroviário no Ramal de Alfarelos e os trabalhos para uma Estratégia Industrial Verde.",
+  "highlights": [
+    {
+      "id": "1138160259",
+      "headline": "Criada a AdP AQUA para gerir os recursos hídricos do país",
+      "explanation": "Novo decreto-lei estabelece o regime da AdP AQUA — Gestão Ambiental de Recursos Hídricos, a empresa pública que vai executar a estratégia «Água Que Une», com impacto na gestão da água em Portugal.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1135582741",
+      "headline": "Avança expropriação urgente para duplicar troço ferroviário em Alfarelos",
+      "explanation": "Foi declarada a utilidade pública, com caráter de urgência, da expropriação de um imóvel necessário à duplicação do troço Verride/Marujal ― Estação Marujal, no Ramal de Alfarelos.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1135582764",
+      "headline": "Governo arranca com a Estratégia Industrial Verde",
+      "explanation": "Despacho conjunto da Economia e da Energia determina a elaboração da proposta de Estratégia Industrial Verde, definindo orientações e plano de trabalhos, com implicações para a competitividade e a descarbonização das empresas portuguesas.",
+      "tags": ["empresas", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1138160260", "note": "Aprovada em Conselho de Ministros a Estratégia «Água Que Une», que enquadra a nova gestão dos recursos hídricos.", "tags": ["energia"] },
+    { "id": "1138160261", "note": "Criada a Estrutura de Missão «Agência para o PTRR», para acompanhar a execução do Plano de Transição e Recuperação e Resiliência.", "tags": ["estado"] },
+    { "id": "1138160250", "note": "Assembleia da República recomenda ao Governo a ligação do concelho da Trofa à Rede de Metro do Porto.", "tags": ["infraestruturas"] }
+  ]
+}

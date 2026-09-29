@@ -1,0 +1,45 @@
+{
+  "date": "2026-02-05",
+  "overview": "Dia marcado pela resposta aos danos da tempestade Kristin: moratória de crédito para famílias e empresas afetadas, apoios sociais e lay-off simplificado, e medidas extraordinárias no setor energético. Fora desse tema, o Governo atualizou o abono de família e acelerou a compra de material circulante para a CP.",
+  "highlights": [
+    {
+      "id": "1039107604",
+      "headline": "Moratória de crédito para famílias e empresas atingidas pela tempestade Kristin",
+      "explanation": "É fixada uma moratória nos empréstimos das famílias e empresas das zonas afetadas pela tempestade Kristin, suspendendo temporariamente o pagamento de prestações.",
+      "tags": ["banca", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1039107607",
+      "headline": "Governo cria apoios sociais e lay-off simplificado para zonas atingidas pela Kristin",
+      "explanation": "Novo regime dá apoios sociais e um mecanismo simplificado de lay-off às empresas e trabalhadores das zonas atingidas pela tempestade Kristin.",
+      "tags": ["trabalho", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1038101444",
+      "headline": "Atualizados os valores do abono de família, abono pré-natal e subsídio de funeral",
+      "explanation": "Portaria conjunta atualiza os montantes do abono de família para crianças e jovens, do abono pré-natal e do subsídio de funeral, com efeito direto no rendimento de milhares de famílias.",
+      "tags": ["social"],
+      "importance": "high"
+    },
+    {
+      "id": "1038101442",
+      "headline": "CP vai acelerar a compra de comboios, com opção de mais 36 automotoras",
+      "explanation": "O Governo autoriza a reprogramação dos encargos plurianuais do Plano de Investimento em Material Circulante Ferroviário, acelerando entregas à CP e exercendo a opção de compra de 36 automotoras adicionais.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1039064226",
+      "headline": "ERSE aprova medidas extraordinárias no setor energético devido à Kristin",
+      "explanation": "A Entidade Reguladora dos Serviços Energéticos aprova um regulamento com medidas extraordinárias para o setor energético na sequência dos danos causados pela tempestade Kristin.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1039064235", "note": "Governo prorroga a declaração de calamidade decorrente da tempestade Kristin.", "tags": ["estado"] },
+    { "id": "1039064234", "note": "Alterado o Fundo de Contragarantia Mútuo, que apoia o acesso das empresas ao crédito.", "tags": ["banca", "empresas"] }
+  ]
+}

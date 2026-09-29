@@ -1,0 +1,33 @@
+{
+  "date": "2026-01-05",
+  "overview": "O Tribunal Constitucional travou partes da revisão da Lei da Nacionalidade, enquanto a Força Aérea foi autorizada a comprar quatro helicópteros de emergência médica e vários hospitais públicos receberam luz verde para investir em equipamento pesado. Dia com muitas extensões de contratos coletivos e nomeações de rotina.",
+  "highlights": [
+    {
+      "id": "993782284",
+      "headline": "Tribunal Constitucional trava parte da revisão da Lei da Nacionalidade",
+      "explanation": "O TC pronunciou-se pela inconstitucionalidade de várias normas do decreto que alterava a Lei da Nacionalidade, incluindo regras sobre aquisição e perda da nacionalidade, travando a sua entrada em vigor nessa parte.",
+      "tags": ["justica", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "993790167",
+      "headline": "Força Aérea autorizada a comprar quatro helicópteros de emergência médica",
+      "explanation": "O Governo autorizou a Força Aérea a assumir o encargo plurianual para adquirir quatro helicópteros médios de evacuação e emergência médica, financiados pelo Plano de Recuperação e Resiliência.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "993793807",
+      "headline": "Hospitais públicos autorizados a investir em equipamento pesado",
+      "explanation": "O Instituto Português de Oncologia de Lisboa foi autorizado a assumir um encargo em 2026 para o seu plano de aquisição de equipamentos pesados, no âmbito do PRR; autorizações semelhantes abrangeram outras unidades de saúde no mesmo dia.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "993782275", "note": "Alterado o sistema de incentivos Portugal Events, que apoia a captação de eventos para o país.", "tags": ["empresas"] },
+    { "id": "993790164", "note": "A Defesa aprovou as minutas de um acordo no âmbito do International Fund for Ukraine, o fundo internacional de apoio militar à Ucrânia.", "tags": ["estado"] },
+    { "id": "993793804", "note": "A Unidade Local de Saúde de Gaia/Espinho foi autorizada a avançar com obras de remodelação de um edifício e criação de uma unidade de cuidados intermédios.", "tags": ["saude"] },
+    { "id": "993793805", "note": "A Unidade Local de Saúde da Região de Leiria foi autorizada a comprar uma ressonância magnética 3.0T para o serviço de imagiologia.", "tags": ["saude"] }
+  ]
+}

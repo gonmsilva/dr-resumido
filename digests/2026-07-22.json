@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-22",
+  "overview": "O Ministério das Finanças definiu o destino do dinheiro obtido com a venda da participação do Estado no Novo Banco. O Governo criou também uma comissão para acompanhar os investimentos na defesa.",
+  "highlights": [
+    {
+      "id": "1150573710",
+      "headline": "Definido o destino do dinheiro da venda da posição do Estado no Novo Banco",
+      "explanation": "Despacho determina como vai ser aplicada a receita obtida com a alienação da participação do Estado Português no Novo Banco.",
+      "tags": ["banca"],
+      "importance": "high"
+    },
+    {
+      "id": "1151256053",
+      "headline": "Criada comissão para acompanhar os investimentos na defesa",
+      "explanation": "O Governo cria a Comissão de Acompanhamento dos Investimentos na Defesa, que vai monitorizar o reforço do investimento militar nos próximos anos.",
+      "tags": ["estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1150611436", "note": "Santarém publica o novo Regulamento da Habitação de Promoção Pública do concelho.", "tags": ["habitacao"] },
+    { "id": "1150611398", "note": "Amadora lança o programa REABILITA, de apoio a obras no parque habitacional privado.", "tags": ["habitacao"] },
+    { "id": "1150611448", "note": "Vila Nova de Gaia altera a Taxa de Cidade cobrada no município.", "tags": ["impostos"] },
+    { "id": "1150611406", "note": "Campo Maior aprova o seu Plano Municipal de Ação Climática.", "tags": ["energia"] }
+  ]
+}

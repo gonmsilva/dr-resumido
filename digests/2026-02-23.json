@@ -1,0 +1,40 @@
+{
+  "date": "2026-02-23",
+  "overview": "Dia marcado por uma remodelação governamental na área da Administração Interna e por um pacote de mais de 20 portarias que aprovam planos de gestão de zonas especiais de conservação em todo o país. Houve ainda medidas de atualização de preços de contratos públicos e coeficientes de revalorização de remunerações, ligados ao aumento do salário mínimo.",
+  "highlights": [
+    {
+      "id": "1058500630",
+      "headline": "Luís Nunes das Neves é o novo Ministro da Administração Interna",
+      "explanation": "O Presidente da República nomeou, sob proposta do Primeiro-Ministro, Luís António Trindade Nunes das Neves para Ministro da Administração Interna, com exoneração e nomeação de novos secretários de Estado da pasta.",
+      "tags": ["estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1057506184",
+      "headline": "Governo atualiza preços de contratos plurianuais devido à subida do salário mínimo",
+      "explanation": "Nova portaria regula um regime excecional de atualização extraordinária de preços em contratos públicos de duração plurianual, para refletir o impacto do aumento da remuneração mínima mensal garantida em 2026.",
+      "tags": ["trabalho", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1057506185",
+      "headline": "Definidos os coeficientes de revalorização das remunerações para 2026",
+      "explanation": "Portaria fixa os valores dos coeficientes usados para atualizar remunerações anuais, com impacto no cálculo de pensões e prestações sociais.",
+      "tags": ["social", "trabalho"],
+      "importance": "medium"
+    },
+    {
+      "id": "1058799978",
+      "headline": "Governo aprova mais de 20 planos de gestão de zonas protegidas",
+      "explanation": "Um conjunto alargado de portarias aprova os planos de gestão de várias Zonas Especiais de Conservação e Zonas de Proteção Especial por todo o país, da Ria Formosa ao Douro Internacional, com regras que condicionam usos do solo e atividades nessas áreas.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1055938294", "note": "Novo regulamento das provas de avaliação externa e de equivalência à frequência dos ensinos básico e secundário para 2025-2028.", "tags": ["educacao"] },
+    { "id": "1055938299", "note": "Alteração às regras do setor convencionado do SNS, simplificando procedimentos das convenções.", "tags": ["saude"] },
+    { "id": "1055938301", "note": "Novo clausulado-tipo para convenções de telereabilitação com dispositivos médicos certificados.", "tags": ["saude"] },
+    { "id": "1058500629", "note": "Exoneração formal dos anteriores secretários de Estado da Administração Interna e da Proteção Civil, no contexto da remodelação governamental.", "tags": ["estado"] }
+  ]
+}

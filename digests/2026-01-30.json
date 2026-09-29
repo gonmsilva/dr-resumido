@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-30",
+  "overview": "Publicado o mapa oficial com o resultado da eleição presidencial de 18 de janeiro. O Governo declara situação de calamidade após a tempestade Kristin e atualiza os salários e o subsídio de refeição da função pública.",
+  "highlights": [
+    {
+      "id": "1029684246",
+      "headline": "Publicado o mapa oficial do resultado da eleição presidencial",
+      "explanation": "A Comissão Nacional de Eleições publica o mapa oficial com o resultado definitivo da eleição para Presidente da República realizada a 18 de janeiro de 2026.",
+      "tags": ["estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1031784677",
+      "headline": "Governo declara calamidade após a tempestade Kristin",
+      "explanation": "O Conselho de Ministros declara situação de calamidade nas zonas afetadas pelos danos causados pela tempestade Kristin, o que ativa apoios e mecanismos excecionais de resposta.",
+      "tags": ["estado", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1031110272",
+      "headline": "Governo atualiza salários e base remuneratória da função pública",
+      "explanation": "Novo decreto-lei altera o valor da base remuneratória e atualiza as remunerações dos trabalhadores da Administração Pública.",
+      "tags": ["trabalho", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1031110274",
+      "headline": "Subsídio de refeição da função pública atualizado com efeitos retroativos a janeiro",
+      "explanation": "Nova portaria fixa o novo valor do subsídio de refeição dos trabalhadores da Administração Pública, com efeitos a partir de 1 de janeiro de 2026.",
+      "tags": ["trabalho"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1031484982", "note": "Alterada a portaria que interdita a pesca de certas espécies com determinadas artes de pesca.", "tags": ["empresas"] },
+    { "id": "1029684057", "note": "Concluída a designação de mais três zonas especiais de conservação, incluindo a Ribeira de Quarteira e as Serras da Freita e Arada.", "tags": ["energia"] },
+    { "id": "1028145864", "note": "Autorizada a substituição de dois aceleradores lineares na Unidade Local de Saúde de Santa Maria.", "tags": ["saude"] }
+  ]
+}

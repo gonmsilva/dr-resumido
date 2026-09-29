@@ -1,0 +1,38 @@
+{
+  "date": "2026-05-08",
+  "overview": "Dia com várias novidades: o imposto sobre os combustíveis é revisto, a lei da droga é alterada, o Tribunal Constitucional pronuncia-se sobre mais-valias imobiliárias e reforçam-se os direitos dos jovens que passam dos cuidados pediátricos para os de adultos.",
+  "highlights": [
+    {
+      "id": "1118713678",
+      "headline": "Revistas as taxas do imposto sobre os combustíveis",
+      "explanation": "O Governo fixa novas taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), com impacto direto no preço dos combustíveis pagos pelos consumidores.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1114077553",
+      "headline": "Alterada a lei do tráfico e consumo de droga",
+      "explanation": "É alterado o regime jurídico aplicável ao tráfico e consumo de estupefacientes e substâncias psicotrópicas, em vigor desde 1993.",
+      "tags": ["justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1114075446",
+      "headline": "Tribunal Constitucional decide sobre mais-valias de imóveis usados para pagar empréstimos",
+      "explanation": "O Tribunal Constitucional julga inconstitucional a norma que exclui do benefício fiscal de reinvestimento os casos em que o valor da venda de um imóvel é usado para amortizar o empréstimo que financiou a sua construção.",
+      "tags": ["impostos", "habitacao", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1114077532",
+      "headline": "Mais direitos para jovens que passam da pediatria para os cuidados de adultos",
+      "explanation": "Nova lei reforça os direitos dos jovens doentes na transição dos serviços pediátricos para os serviços de saúde de adultos, alterando a Lei de Bases dos Cuidados Paliativos.",
+      "tags": ["saude", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1114077537", "note": "O Aproveitamento Hidroagrícola de Burgães é classificado como obra de interesse local com elevado impacte coletivo.", "tags": ["empresas"] },
+    { "id": "1114075412", "note": "Criado um grupo de trabalho para propor redes de referenciação hospitalar em cardiologia e cirurgia cardíaca e torácica.", "tags": ["saude"] }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-21",
+  "overview": "Dia com dois destaques em impostos: o regime de incentivos fiscais à investigação e desenvolvimento (SIFIDE II) foi prorrogado até 2026, e o Governo reviu as taxas do imposto sobre os produtos petrolíferos e energéticos, que pesam diretamente no preço dos combustíveis. Continuam também a sair, em série, as declarações de utilidade pública para a rede de faixas corta-fogo.",
+  "highlights": [
+    {
+      "id": "1160679270",
+      "headline": "Governo revê as taxas do imposto sobre os combustíveis",
+      "explanation": "Foram fixadas novas taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), que incide sobre a gasolina, o gasóleo e outros combustíveis. Mexe diretamente no preço final pago nas bombas de gasolina.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1160679204",
+      "headline": "Incentivo fiscal ao investimento em I&D prorrogado até 2026",
+      "explanation": "O Governo prorrogou o SIFIDE II, o regime que dá benefícios fiscais às empresas que investem em investigação e desenvolvimento, mas deixou de permitir que esse benefício seja aplicado indiretamente através de fundos de investimento.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1160679206",
+      "note": "Autorizada despesa com a NATO para reparar e ampliar as instalações de apoio marítimo-portuário da Base Naval de Lisboa - Alfeite.",
+      "tags": ["infraestruturas", "estado"]
+    },
+    {
+      "id": "1160677003",
+      "note": "Atualizadas as condições de adiantamento dos contratos do programa de Alojamento Estudantil a Custos Acessíveis.",
+      "tags": ["habitacao", "educacao"]
+    },
+    {
+      "id": "1160677013",
+      "note": "Mais uma leva de despachos declara utilidade pública para faixas de gestão de combustível (corta-fogos) em concelhos do Norte, Centro e Alentejo.",
+      "tags": ["energia", "infraestruturas"]
+    }
+  ]
+}

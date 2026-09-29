@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-19",
+  "overview": "Dia com impacto direto na carteira: o Governo revê as taxas do imposto sobre os combustíveis e avança a parceria público-privada para o novo Hospital Central do Algarve. Também há reforço do apoio a quem foi atingido por situações de calamidade e uma nova estratégia para a Garantia Jovem até 2030.",
+  "highlights": [
+    {
+      "id": "1134835851",
+      "headline": "Governo revê as taxas do imposto sobre os combustíveis",
+      "explanation": "É fixada uma nova tabela de taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP), que se reflete diretamente no preço à bomba da gasolina, do gasóleo e de outros combustíveis.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1134448908",
+      "headline": "Avança parceria público-privada para o Hospital Central do Algarve",
+      "explanation": "São delegadas na ACSS as competências para o procedimento da PPP que vai conceber, construir, financiar e explorar o futuro Hospital Central do Algarve, um dos maiores projetos hospitalares em curso no país.",
+      "tags": ["saude", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1134398998",
+      "headline": "Reforçado o regime de apoios após declaração de calamidade",
+      "explanation": "O Governo altera o regime de apoios financeiros atribuídos na sequência de declarações de situação de calamidade, ajustando as condições de acesso a quem foi afetado.",
+      "tags": ["social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1134448974",
+      "headline": "Homologada nova estratégia para a Garantia Jovem até 2030",
+      "explanation": "É homologada a estratégia para o período de 2026-2030 da Garantia Jovem, o programa que apoia jovens no acesso ao primeiro emprego, estágio ou formação.",
+      "tags": ["trabalho", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1134465193",
+      "note": "Tribunal Constitucional decide recursos sobre as contas anuais de 2017 de vários partidos, dando parcialmente razão ao PCP.",
+      "tags": ["justica", "estado"]
+    },
+    {
+      "id": "1134398997",
+      "note": "Governo autoriza mais equipamento e despesa para cumprir os compromissos de apoio à Ucrânia em 2026.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1134448916",
+      "note": "Reconhecido interesse público relevante à obra do viaduto no Apeadeiro de Santana-Cartaxo, que elimina uma passagem de nível.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1134465195",
+      "note": "Eleitos os novos membros do Conselho Superior do Ministério Público.",
+      "tags": ["justica"]
+    }
+  ]
+}

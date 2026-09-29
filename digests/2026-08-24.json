@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-24",
+  "overview": "Dia fraco em legislação de fundo. A Assembleia da República aprovou duas leis: uma reforça direitos na gravidez, parto e puerpério e no acesso aos serviços de saúde, outra fixa regras de segurança para a identificação de cidadãos em espaços públicos. O resto do dia foi preenchido por expropriações para obras de estrada e regulamentos técnicos.",
+  "highlights": [
+    {
+      "id": "1161149390",
+      "headline": "Reforçados direitos na gravidez, parto e puerpério",
+      "explanation": "A Assembleia da República altera a lei que promove os direitos na gravidez, parto e puerpério e a lei dos direitos e deveres do utente dos serviços de saúde. Afeta diretamente grávidas, parturientes e utentes do SNS.",
+      "tags": ["saude", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1161149391",
+      "headline": "Novas regras de segurança para identificação de cidadãos em espaços públicos",
+      "explanation": "A Assembleia da República aprova regras de segurança e prevenção sobre a identificação de cidadãos a adotar em espaços públicos. O resumo disponível não detalha o alcance concreto da medida.",
+      "tags": ["estado", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1160743595",
+      "note": "Declarada utilidade pública urgente para expropriações necessárias a obras de reposição da plataforma rodoviária da EN 243, entre os km 8+560 e 9+200.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1160749685",
+      "note": "O Bombarral põe em consulta pública o projeto do novo Regulamento de Taxas do município.",
+      "tags": ["impostos", "estado"]
+    },
+    {
+      "id": "1160749680",
+      "note": "Alcácer do Sal prorroga o prazo para a revisão do Plano de Urbanização da Comporta.",
+      "tags": ["habitacao", "estado"]
+    }
+  ]
+}

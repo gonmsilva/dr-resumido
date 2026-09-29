@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-11",
+  "overview": "Dia com peso em infraestruturas e saúde: arranca o planeamento do Novo Aeroporto de Lisboa, é autorizada uma nova saída da A1 em São João da Talha e cria-se a carreira especial de médico dentista no SNS. Nasce ainda uma segunda universidade pública este mês, a Universidade Técnica do Porto.",
+  "highlights": [
+    {
+      "id": "1155718875",
+      "headline": "Arranca o Programa Setorial do Novo Aeroporto de Lisboa",
+      "explanation": "O Governo determina a elaboração do Programa Setorial do Novo Aeroporto de Lisboa (PSNAL), o instrumento de ordenamento do território que vai enquadrar a construção da nova infraestrutura aeroportuária.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1155738216",
+      "headline": "Criada carreira especial de médico dentista no SNS",
+      "explanation": "A Assembleia da República aprova a carreira especial de médico dentista no Serviço Nacional de Saúde, criando um percurso profissional próprio para estes profissionais dentro do SNS.",
+      "tags": ["saude", "trabalho"],
+      "importance": "high"
+    },
+    {
+      "id": "1154986270",
+      "headline": "Autorizada nova saída da A1 em São João da Talha",
+      "explanation": "É autorizada a construção do novo ramo de saída da A1 (sentido Sul/Norte) no nó de São João da Talha, uma alteração à rede rodoviária que afeta o tráfego na zona norte de Lisboa.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1156670492",
+      "headline": "Aprovados os estatutos da nova Universidade Técnica do Porto",
+      "explanation": "O Governo aprova os estatutos provisórios, em regime de instalação, da Universidade Técnica do Porto, criando uma nova instituição pública de ensino superior na região.",
+      "tags": ["educacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1155719235", "note": "Oeiras aprova em definitivo o regulamento que identifica imóveis sujeitos à majoração da taxa de IMI.", "tags": ["habitacao", "impostos"] },
+    { "id": "1155738217", "note": "Aprovado o Regulamento da Residência Farmacêutica.", "tags": ["saude", "educacao"] },
+    { "id": "1155718946", "note": "Autorizado aumento do teor alcoólico natural permitido para a vindima de 2026-2027.", "tags": ["empresas"] },
+    { "id": "1155718893", "note": "Turismo de Portugal cria o Programa FIT 2.0 de financiamento à aceleração e inovação no turismo.", "tags": ["empresas"] },
+    { "id": "1155718880", "note": "Portugal cria embaixada e secção consular em Manila, nas Filipinas.", "tags": ["estado"] }
+  ]
+}

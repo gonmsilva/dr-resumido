@@ -1,0 +1,33 @@
+{
+  "date": "2026-01-28",
+  "overview": "A Assembleia da República aprova a lei que cria o Registo de Transparência da Representação de Interesses, regulando o lóbi junto de entidades públicas. O Tribunal Constitucional valida as regras que limitam a transmissão por morte do direito de arrendamento, e o país transpõe as regras europeias contra conteúdos terroristas online.",
+  "highlights": [
+    {
+      "id": "1028061007",
+      "headline": "Aprovado o Registo de Transparência da Representação de Interesses",
+      "explanation": "Nova lei fixa regras de transparência para entidades privadas, nacionais e estrangeiras, que fazem representação de interesses junto de entidades públicas, criando um registo obrigatório para essa atividade de lóbi.",
+      "tags": ["estado", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1027770307",
+      "headline": "Tribunal Constitucional valida limites à transmissão de arrendamento por morte do inquilino",
+      "explanation": "O TC considera constitucional a regra que só permite a filhos ou enteados herdar o contrato de arrendamento urbano se tiverem 65 anos ou mais e rendimentos baixos, ao abrigo do NRAU.",
+      "tags": ["habitacao", "justica"],
+      "importance": "medium"
+    },
+    {
+      "id": "1027770661",
+      "headline": "Portugal transpõe regras europeias contra conteúdos terroristas online",
+      "explanation": "Novo decreto-lei adapta a ordem jurídica interna ao regulamento europeu sobre o combate à difusão de conteúdos terroristas em linha.",
+      "tags": ["justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1027770662", "note": "Atualizados os valores das taxas cobradas pelos serviços de segurança e saúde no trabalho.", "tags": ["trabalho"] },
+    { "id": "1027770657", "note": "Concluída a designação de mais quatro zonas especiais de conservação, incluindo Ria de Alvor, Douro Internacional e Ria Formosa/Castro Marim.", "tags": ["energia"] },
+    { "id": "1027689735", "note": "Autorizados os encargos da Infraestruturas de Portugal com a aquisição de uma máquina de fresagem de carril.", "tags": ["infraestruturas"] },
+    { "id": "1027770298", "note": "Declarada a utilidade pública urgente de um terreno para construir uma estação elevatória do sistema de drenagem de Belmonte.", "tags": ["infraestruturas", "energia"] }
+  ]
+}

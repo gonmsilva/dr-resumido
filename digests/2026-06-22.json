@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-22",
+  "overview": "Dia dominado pela justiça: o Supremo Tribunal Administrativo uniformizou jurisprudência sobre o Imposto Único de Circulação e sobre o regime de residente não habitual, e saiu o novo regulamento de execução do regime jurídico da cibersegurança. Do lado das infraestruturas, avança a nova ponte rodoviária de Alvre.",
+  "highlights": [
+    {
+      "id": "1134399056",
+      "headline": "Novo regulamento de cibersegurança para empresas e infraestruturas críticas",
+      "explanation": "O Centro Nacional de Cibersegurança publicou o regulamento de execução do regime jurídico da cibersegurança, que define as regras concretas que empresas e entidades públicas abrangidas têm de cumprir.",
+      "tags": ["empresas", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1134835841",
+      "headline": "STA esclarece quem paga o Imposto Único de Circulação quando o carro muda de dono",
+      "explanation": "O Supremo Tribunal Administrativo uniformizou jurisprudência: quem está inscrito no registo automóvel é presumido proprietário para efeitos de IUC, mas pode provar que já não é o dono efetivo do veículo.",
+      "tags": ["impostos", "justica"],
+      "importance": "medium"
+    },
+    {
+      "id": "1134835845",
+      "headline": "STA define regras de acesso ao regime fiscal de ex-residentes",
+      "explanation": "O tribunal uniformizou jurisprudência sobre o conceito de residência relevante para aceder ao regime fiscal de ex-residentes, com impacto em quem regressa a Portugal depois de anos no estrangeiro.",
+      "tags": ["impostos", "justica"],
+      "importance": "medium"
+    },
+    {
+      "id": "1134399073",
+      "headline": "Governo reconhece interesse público na nova ponte rodoviária de Alvre",
+      "explanation": "O projeto da Nova Ponte Rodoviária de Alvre e das infraestruturas rodoviárias associadas foi reconhecido como de relevante interesse público, o que acelera o licenciamento da obra.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1134399067", "note": "O Estado autorizou a compra do Palácio do Bispo, Casa do Noviciado e da Capela dos Castros, em Lisboa.", "tags": ["estado", "habitacao"] },
+    { "id": "1134399072", "note": "Declarada utilidade pública, com urgência, da expropriação de terrenos no Porto para o prolongamento de um eixo viário até à Rua Martim Moniz.", "tags": ["infraestruturas", "estado"] },
+    { "id": "1134835268", "note": "Tribunal Constitucional rejeitou os recursos de Ana Gomes sobre as contas da campanha presidencial de 2021.", "tags": ["estado", "justica"] },
+    { "id": "1134835206", "note": "Atualizados os valores dos subsídios pagos às escolas profissionais privadas por turma e por curso.", "tags": ["educacao"] }
+  ]
+}

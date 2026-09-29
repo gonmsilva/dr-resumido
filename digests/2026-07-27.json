@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-27",
+  "overview": "O Parlamento autorizou o Governo a criar uma prestação social única na segurança social e alterou o Código Penal, o Código de Processo Penal e as custas processuais. Foram também definidas as prioridades da política criminal para 2026-2028.",
+  "highlights": [
+    {
+      "id": "1152409209",
+      "headline": "Governo autorizado a criar prestação social única",
+      "explanation": "Lei autoriza o Governo a criar uma prestação social única no subsistema de solidariedade da segurança social, simplificando o acesso a apoios sociais.",
+      "tags": ["social"],
+      "importance": "high"
+    },
+    {
+      "id": "1152409207",
+      "headline": "Alterado o Código Penal e o Código de Processo Penal",
+      "explanation": "Lei altera o Código de Processo Penal, o Código Penal e o Regulamento das Custas Processuais, com impacto em processos-crime e nos custos judiciais.",
+      "tags": ["justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1152409208",
+      "headline": "Definidas as prioridades da política criminal até 2028",
+      "explanation": "Lei fixa os objetivos, prioridades e orientações da política criminal para o biénio 2026-2028.",
+      "tags": ["justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1152437009", "note": "Avança a construção do Hospital de Dia Oncológico no Hospital de São Sebastião, em Santa Maria da Feira.", "tags": ["saude"] },
+    { "id": "1152437296", "note": "Entroncamento altera o Regulamento Geral de Taxas e a respetiva tabela.", "tags": ["impostos"] }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-04",
+  "overview": "Dia com várias decisões de peso: avança a reprivatização da TAP, o Código dos Contratos Públicos é simplificado, sobem as taxas do imposto sobre os combustíveis e o SNS ganha um quadro de referência para 2026-2028. Arranca também o processo para a criação do município de Fátima.",
+  "highlights": [
+    {
+      "id": "1167736597",
+      "headline": "Governo avança para fase final da reprivatização da TAP",
+      "explanation": "O Conselho de Ministros determina uma etapa de negociação no processo de reprivatização da TAP e autoriza a Parpública a convidar os candidatos a apresentarem propostas vinculativas finais e melhoradas.",
+      "tags": ["empresas", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1167736598",
+      "headline": "Taxas do imposto sobre combustíveis são revistas",
+      "explanation": "Uma portaria conjunta das Finanças e do Ambiente e Energia fixa novas taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, com impacto direto no preço dos combustíveis.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1166893105",
+      "headline": "SNS tem novo quadro de referência para 2026-2028",
+      "explanation": "As Finanças e a Saúde aprovam o quadro global de referência do Serviço Nacional de Saúde para o próximo triénio, que enquadra o planeamento e a gestão do sistema público de saúde.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1166969779",
+      "headline": "Código dos Contratos Públicos é simplificado",
+      "explanation": "Um decreto-lei altera o Código dos Contratos Públicos para o simplificar, clarificar e atualizar, com impacto em todas as entidades que contratam com o Estado.",
+      "tags": ["empresas", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1166450063",
+      "headline": "Constituída comissão para instruir a criação do município de Fátima",
+      "explanation": "O Governo cria a comissão responsável por elaborar o relatório que vai instruir o processo legislativo de criação do novo município de Fátima.",
+      "tags": ["estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1166829644",
+      "note": "Nova servidão administrativa para faixas de gestão de combustível em freguesias de Arcos de Valdevez e Ponte de Lima, no âmbito da prevenção de incêndios.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1166450066",
+      "note": "Reconhecido interesse público na regularização de instalações de uma carpintaria em solo da Reserva Agrícola Nacional, em Macedo de Cavaleiros.",
+      "tags": ["empresas"]
+    }
+  ]
+}

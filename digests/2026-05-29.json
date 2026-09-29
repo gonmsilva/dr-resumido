@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-29",
+  "overview": "É revisto o regime do licenciamento urbanístico e da reabilitação urbana, e o imposto sobre os combustíveis volta a ser alterado, a quarta vez este mês. Reforçada também a proteção dos trabalhadores expostos ao amianto.",
+  "highlights": [
+    {
+      "id": "1128002421",
+      "headline": "Revisto o regime de licenciamento urbanístico e da reabilitação urbana",
+      "explanation": "O Governo revê o regime jurídico da urbanização e edificação e o regime da reabilitação urbana, alterando as regras de licenciamento de operações urbanísticas em todo o país.",
+      "tags": ["habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1128499967",
+      "headline": "Imposto sobre os combustíveis volta a ser revisto",
+      "explanation": "É novamente revista e fixada a taxa unitária do imposto sobre os produtos petrolíferos e energéticos (ISP), a quarta alteração no mês de maio.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1128002422",
+      "headline": "Mais proteção para trabalhadores expostos ao amianto",
+      "explanation": "É transposta para a lei portuguesa a diretiva europeia sobre a proteção dos trabalhadores contra os riscos de exposição ao amianto no trabalho.",
+      "tags": ["trabalho", "saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1127995103", "note": "Expropriadas com urgência 119 parcelas de terreno na Figueira da Foz para um novo posto de corte elétrico.", "tags": ["energia", "infraestruturas"] },
+    { "id": "1128002423", "note": "Atualizado o regime dos sistemas de transportes inteligentes e o Estatuto das Estradas da Rede Rodoviária Nacional.", "tags": ["infraestruturas"] }
+  ]
+}

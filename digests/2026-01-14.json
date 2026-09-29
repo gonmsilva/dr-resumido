@@ -1,0 +1,47 @@
+{
+  "date": "2026-01-14",
+  "overview": "O Governo publicou um pacote de decretos-lei que reorganiza as urgências hospitalares do SNS, cria centros de referência em obstetrícia e ginecologia e institui um estatuto para jovens pescadores. Houve ainda alterações às regras dos serviços postais e às contribuições das operadoras de telecomunicações.",
+  "highlights": [
+    {
+      "id": "1006464116",
+      "headline": "Urgências externas do SNS passam a funcionar de forma centralizada",
+      "explanation": "Um novo modelo organizativo cria um funcionamento centralizado e de âmbito regional para os serviços de urgência externa do SNS, o que pode alterar para onde os utentes são encaminhados em caso de urgência.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1006464115",
+      "headline": "Criados centros de referência em obstetrícia e ginecologia no SNS",
+      "explanation": "O Governo criou, em regime experimental, centros de elevado desempenho na área de obstetrícia e ginecologia no Serviço Nacional de Saúde, concentrando meios para partos e cuidados especializados.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1006464120",
+      "headline": "Criado o Estatuto do Jovem Pescador",
+      "explanation": "O Governo instituiu o Estatuto do Jovem Pescador, com um procedimento próprio de reconhecimento, para apoiar a entrada de jovens na atividade da pesca.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1006464118",
+      "headline": "Alteradas as regras dos serviços postais em Portugal",
+      "explanation": "O Governo alterou o regime jurídico aplicável à prestação de serviços postais em território nacional e internacional, com impacto nas empresas do setor.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1006464119",
+      "headline": "Clarificada a contribuição das operadoras de telecomunicações",
+      "explanation": "O Governo clarificou os elementos da contribuição financeira devida pelas empresas de redes e serviços de comunicações eletrónicas e fixou um limite máximo para essa percentagem, alterando a Lei das Comunicações Eletrónicas.",
+      "tags": ["empresas", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1006464117", "note": "Alterado o concurso especial de acesso ao curso de Medicina para quem já tem uma licenciatura.", "tags": ["educacao", "saude"] },
+    { "id": "1006464121", "note": "Alterado o regime de habilitação profissional para a docência na educação pré-escolar e nos ensinos básico e secundário.", "tags": ["educacao"] },
+    { "id": "1006464123", "note": "Revisto o sistema de avaliação de desempenho na Administração Pública (SIADAP).", "tags": ["trabalho", "estado"] },
+    { "id": "1008945927", "note": "Alterado o contrato de concessão de utilização de recursos hídricos para rega e produção de energia no Empreendimento de Fins Múltiplos de Alqueva.", "tags": ["energia"] }
+  ]
+}

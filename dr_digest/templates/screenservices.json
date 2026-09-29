@@ -1,0 +1,324 @@
+{
+ "calendar": {
+  "url": "/dr/screenservices/dr/Home/home/DataActionGetDRByDataCalendarioAndCheckUserLog",
+  "body": {
+   "versionInfo": {
+    "moduleVersion": "VYk4j9D4vRCmqfozYLCHpQ",
+    "apiVersion": "k+86ytikYIT6brie_oLQTQ"
+   },
+   "viewName": "Home.home",
+   "screenData": {
+    "variables": {
+     "UtilizadorGestorDeConteudo": false,
+     "HasDRPublished": true,
+     "HasSerie1": true,
+     "HasSerie2": true,
+     "DataUltimaPublicacao": "2026-09-29",
+     "IsRendered": true,
+     "MobileDevice": "",
+     "IsPageTracked": false,
+     "ImagemDestaque": "https://files.diariodarepublica.pt/StaticContent/VideosEleicoesLegislativas2024.png",
+     "ConteudoDestaque": "",
+     "ImagemNoticia": "",
+     "ConteudoNoticia": "",
+     "ListaNoticias": {
+      "List": []
+     },
+     "StartIndexNoticias": 0,
+     "MaxRecordsNoticias": 3,
+     "IsSumarioCompleto": false,
+     "IsMobileCalendar": false,
+     "DataPublicacaoDRToShow": "2026-09-29",
+     "HaveSubscription": false,
+     "SubscricaoServicoId": "0"
+    }
+   },
+   "clientVariables": {
+    "NewUser": "https://diariodarepublica.pt/dr/utilizador/registar",
+    "PesquisaAvancada": "https://diariodarepublica.pt/dr/pesquisa-avancada",
+    "Login": "https://diariodarepublica.pt/dr/utilizador/entrar",
+    "Data": "2026-09-29",
+    "DicionarioJuridicoId": "0",
+    "FullHTMLURL_EN": "https://diariodarepublica.pt/dr/en",
+    "SearchStartIndex": 0,
+    "StartIndex": 0,
+    "SearchIsConsolidation": false,
+    "DiarioRepublicaId": "",
+    "SearchFilters": "",
+    "Serie": true,
+    "DiplomaConteudoId": "1174343370",
+    "CookiePath": "/dr/",
+    "Session_GUID": "6c1a1a66-4bc4-4598-a382-888ea3da331d",
+    "DateTime": "2026-09-29T12:55:17.943Z",
+    "FullHTMLURL": "https://diariodarepublica.pt/dr/home",
+    "TipoDeUtilizador": "",
+    "GUID": ""
+   }
+  }
+ },
+ "issue": {
+  "url": "/dr/screenservices/dr/Legislacao_Conteudos/Conteudo_Det_Diario/DataActionGetDadosAndApplicationSettings",
+  "body": {
+   "versionInfo": {
+    "moduleVersion": "VYk4j9D4vRCmqfozYLCHpQ",
+    "apiVersion": "WDI22Yi4RdYY1iJKV+8iew"
+   },
+   "viewName": "Legislacao_Conteudos.Conteudo_Detalhe",
+   "screenData": {
+    "variables": {
+     "Diplomas_DetalheConteudo": {
+      "List": [],
+      "EmptyListItem": {
+       "Titulo": "",
+       "Emissor": "",
+       "Sumario": "",
+       "DiplomaLegisId": "0",
+       "ContratoPublicoId": "0",
+       "ContratoPublicoIsAnuncioAlteracao": false,
+       "TipoDiploma": "",
+       "Numero": "",
+       "Isnoindex": false,
+       "LinkSitemap": ""
+      }
+     },
+     "ParteIdAux": "0",
+     "IsFinished": false,
+     "DiplomaIds": {
+      "List": [],
+      "EmptyListItem": "0"
+     },
+     "ShowZoom": false,
+     "DiarioIdAux": "1174343370",
+     "TipoConteudosBools": {
+      "AcordaosSTA": false,
+      "Atos1": false,
+      "Atos2": false,
+      "AtosSocietarios": false,
+      "DGAP": false,
+      "DGODOUT": false,
+      "DiarioRepublica": false,
+      "Jurisprudencia": false,
+      "Legacor": false,
+      "REGTRAB": false
+     },
+     "EmissorVar": "",
+     "PesquisaAvancada_Struct": {
+      "tipoConteudo": {
+       "List": [],
+       "EmptyListItem": ""
+      },
+      "serie": {
+       "List": [],
+       "EmptyListItem": ""
+      },
+      "numero": "",
+      "ano": "0",
+      "suplemento": "0",
+      "dataPublicacao": "",
+      "dataPublicacaoDe": "1900-01-01",
+      "dataPublicacaoAte": "1900-01-01",
+      "parte": "",
+      "apendice": "",
+      "fasciculo": "",
+      "tipo": {
+       "List": [],
+       "EmptyListItem": ""
+      },
+      "emissor": {
+       "List": [],
+       "EmptyListItem": ""
+      },
+      "texto": "",
+      "sumario": "",
+      "entidadeProponente": {
+       "List": [],
+       "EmptyListItem": ""
+      },
+      "numeroDR": "",
+      "paginaInicial": "0",
+      "paginaFinal": "0",
+      "dataAssinatura": "",
+      "dataDistribuicao": "",
+      "entidadePrincipal": {
+       "List": [],
+       "EmptyListItem": ""
+      },
+      "entidadeEmitente": {
+       "List": [],
+       "EmptyListItem": ""
+      },
+      "docType": "",
+      "proferido": "",
+      "processo": "",
+      "assunto": "",
+      "recorrente": "",
+      "recorrido": "",
+      "relator": "",
+      "empresa": "",
+      "concelho": "",
+      "nif": "",
+      "anuncio": "",
+      "numeroDoc": "",
+      "DataAssinaturaDe": "1900-01-01",
+      "DataAssinaturaAte": "1900-01-01",
+      "DataDistribuicaoDe": "1900-01-01",
+      "DataDistribuicaoAte": "1900-01-01",
+      "semestre": "",
+      "IsLegConsolidadaSelected": false,
+      "IsFromData": false,
+      "DescritorList": {
+       "List": [],
+       "EmptyListItem": ""
+      }
+     },
+     "ResultsByPage": "",
+     "StartIndex": 0,
+     "MaxRecords": 25,
+     "SumarioCompleto": false,
+     "Emissor_DesignacaoAux": "",
+     "IsToPrintAux": false,
+     "HaveSubscription": false,
+     "SubscricaoServicoId": "0",
+     "DiarioId": "1174343370",
+     "_diarioIdInDataFetchStatus": 1,
+     "ParteId": "0",
+     "_parteIdInDataFetchStatus": 1,
+     "IsSerieI": true,
+     "_isSerieIInDataFetchStatus": 1,
+     "ScrollTo": "ScrollTo2",
+     "_scrollToInDataFetchStatus": 1,
+     "CurrentZoom": "1",
+     "_currentZoomInDataFetchStatus": 1,
+     "Footer": "Footer2",
+     "_footerInDataFetchStatus": 1,
+     "Diario_DetalheConteudo": {
+      "Id": "1174343370",
+      "Titulo": "Diário da República n.º 189/2026, Série I",
+      "Publicacao": "Diário da República n.º 189/2026, Série I de 2026-09-29",
+      "Numero": "189",
+      "Resumo": "",
+      "Sumario": "",
+      "Texto": "",
+      "TextoFormatado": "",
+      "DataPublicacao": "2026-09-29",
+      "DataDistribuicao": "1900-01-01",
+      "DataDisponibilizacao": "2026-09-29",
+      "DataAssinatura": "1900-01-01",
+      "Emissor": "INCM",
+      "EmissorAcronimo": "",
+      "Parte": "",
+      "Serie": "I",
+      "Suplemento": "0",
+      "Processo": "",
+      "Vigencia": "",
+      "URL_PDF": "https://files.diariodarepublica.pt/gratuitos/1s/2026/09/18900.pdf",
+      "TipoConteudo": "DiarioRepublica",
+      "TipoDiploma": "",
+      "TipoDiplomaAcronimo": "",
+      "TipoDiplomaExterno": "",
+      "Notas": "",
+      "Pagina": "",
+      "PaginaOffset": "",
+      "ELI": "https://data.dre.pt/eli/diario/1/189/2026/0/pt/html",
+      "ELIMetadataHTML": "",
+      "IsDiplomaExterno": false,
+      "IsDiplomaLegis": false,
+      "LinkSitemap": "/dr/detalhe/diario-republica/189-2026-1174343370",
+      "DiarioRepublica": {
+       "Numero": "189/2026",
+       "NumPaginas_PDF": "28",
+       "Tamanho_PDF": "677448",
+       "URL_PDF": "https://files.diariodarepublica.pt/gratuitos/1s/2026/09/18900.pdf",
+       "Id": "1174343370"
+      },
+      "AtosSocietarios": {
+       "Concelho": "",
+       "Conservatoria": "",
+       "Empresa": ""
+      },
+      "AcordaoSTA": {
+       "Assunto": "",
+       "DataEmQueFoiProferido": ""
+      },
+      "DiplomaLegis": {
+       "EntidadeProponente": "",
+       "IsNoIndex": false
+      },
+      "DiplomaRegTrab": {
+       "Fonte_AJ": ""
+      },
+      "DiplomaLegacor": {
+       "FonteRegional": "",
+       "EntidadeEmitente_AJ": {
+        "List": [],
+        "EmptyListItem": ""
+       }
+      },
+      "DiplomaExterno": {
+       "Descritores": "",
+       "FonteDireito": "",
+       "Relator": ""
+      },
+      "ContratoPublico": {
+       "IsAnuncioAlteracao": false
+      }
+     },
+     "_diario_DetalheConteudoInDataFetchStatus": 1,
+     "ELI_HTML": "",
+     "_eLI_HTMLInDataFetchStatus": 1,
+     "Emissor_Designacao": "",
+     "_emissor_DesignacaoInDataFetchStatus": 1,
+     "IsPrint": false,
+     "_isPrintInDataFetchStatus": 1,
+     "GetDadosAndApplicationSettings": {
+      "DetalheConteudo": {
+       "List": [],
+       "EmptyListItem": {
+        "Titulo": "",
+        "Emissor": "",
+        "Sumario": "",
+        "DiplomaLegisId": "0",
+        "ContratoPublicoId": "0",
+        "ContratoPublicoIsAnuncioAlteracao": false,
+        "TipoDiploma": "",
+        "Numero": "",
+        "Isnoindex": false,
+        "LinkSitemap": ""
+       }
+      },
+      "Count": 0,
+      "DomainName": "",
+      "ApplicationRoot": "",
+      "EnvironmentName": "",
+      "ParteDesignacao": "",
+      "IsLogged": false,
+      "HaveValidSubscription": false,
+      "SubscricaoServicoIdAux": "0",
+      "DataFetchStatus": 0
+     }
+    }
+   },
+   "clientVariables": {
+    "NewUser": "https://diariodarepublica.pt/dr/utilizador/registar",
+    "PesquisaAvancada": "https://diariodarepublica.pt/dr/pesquisa-avancada",
+    "Login": "https://diariodarepublica.pt/dr/utilizador/entrar",
+    "Data": "2026-09-29",
+    "DicionarioJuridicoId": "0",
+    "FullHTMLURL_EN": "https://diariodarepublica.pt/dr/en",
+    "SearchStartIndex": 0,
+    "StartIndex": 0,
+    "SearchIsConsolidation": false,
+    "DiarioRepublicaId": "",
+    "SearchFilters": "",
+    "Serie": true,
+    "DiplomaConteudoId": "1174343370",
+    "CookiePath": "/dr/",
+    "Session_GUID": "6c1a1a66-4bc4-4598-a382-888ea3da331d",
+    "DateTime": "2026-09-29T12:55:17.943Z",
+    "FullHTMLURL": "https://diariodarepublica.pt/dr/home",
+    "TipoDeUtilizador": "",
+    "GUID": ""
+   }
+  }
+ }
+}

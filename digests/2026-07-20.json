@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-20",
+  "overview": "O Parlamento alterou a Lei de Bases do Sistema Educativo e as regras de financiamento do ensino superior, e o Governo definiu os princípios da ação social escolar nas universidades e politécnicos. No Funchal, o Plano Diretor Municipal foi parcialmente suspenso numa zona da cidade.",
+  "highlights": [
+    {
+      "id": "1149265695",
+      "headline": "Alterada a Lei de Bases do Sistema Educativo",
+      "explanation": "Lei muda a Lei de Bases do Sistema Educativo, o financiamento do ensino superior e os regimes de avaliação e das instituições de ensino superior, com impacto em escolas, politécnicos e universidades.",
+      "tags": ["educacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1149265697",
+      "headline": "Definidos os princípios da ação social escolar no ensino superior",
+      "explanation": "Decreto-Lei estabelece os princípios que vão orientar os apoios sociais a estudantes universitários e politécnicos, como bolsas e alojamento.",
+      "tags": ["educacao", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1149265137",
+      "headline": "Funchal suspende parte do seu Plano Diretor Municipal",
+      "explanation": "É suspenso parcialmente o Plano Diretor Municipal do Funchal numa área identificada, com medidas preventivas que condicionam construção e licenciamento ali.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1148891318", "note": "Reconhecida como de relevante interesse público a construção da nova Ponte da Ribeira Grande, em Fronteira.", "tags": ["infraestruturas"] },
+    { "id": "1149265162", "note": "Aguiar da Beira cria regulamento para vender 17 lotes destinados a habitação própria e permanente.", "tags": ["habitacao"] },
+    { "id": "1149265165", "note": "Almeirim abre consulta pública à sua Carta Municipal de Habitação.", "tags": ["habitacao"] }
+  ]
+}

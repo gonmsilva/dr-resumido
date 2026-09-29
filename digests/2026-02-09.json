@@ -1,0 +1,46 @@
+{
+  "date": "2026-02-09",
+  "overview": "Definidos os apoios financeiros para habitação própria permanente danificada pela tempestade Kristin, e criado o programa 'O Turismo Acolhe' para alojar gratuitamente as famílias afetadas. O Governo autorizou ainda a compra de 12 novas automotoras de alta velocidade para a CP e um novo programa de acompanhamento da gravidez de baixo risco no SNS.",
+  "highlights": [
+    {
+      "id": "1043405200",
+      "headline": "Regulamentados os apoios para habitações danificadas pela tempestade Kristin",
+      "explanation": "Uma portaria regulamenta o regime de apoios financeiros para habitação própria permanente, na sequência da declaração de calamidade provocada pela tempestade Kristin.",
+      "tags": ["habitacao", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1043313553",
+      "headline": "Programa 'O Turismo Acolhe' dá alojamento gratuito às famílias afetadas pela Kristin",
+      "explanation": "É criado o programa 'O Turismo Acolhe', que mobiliza empresas de alojamento turístico para oferecer, sem custos, alojamento temporário às populações desalojadas pela tempestade Kristin.",
+      "tags": ["social", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1039332356",
+      "headline": "Governo autoriza compra de 12 automotoras de alta velocidade para a CP",
+      "explanation": "É autorizada a despesa com a aquisição de 12 unidades automotoras de alta velocidade, peças e ferramentas especiais, além da modernização do centro oficinal de Contumil da CP.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1041066659",
+      "headline": "SNS cria acompanhamento da gravidez de baixo risco nos cuidados de saúde primários",
+      "explanation": "São definidos os princípios para um novo projeto de acompanhamento da gravidez de baixo risco nos centros de saúde, com potencial impacto em milhares de grávidas por ano.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1039332357",
+      "headline": "Estado atribui indemnização compensatória à SIRESP",
+      "explanation": "É atribuída uma indemnização compensatória à SIRESP, responsável pela rede digital de segurança e emergência usada pelas forças de socorro em Portugal.",
+      "tags": ["estado", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1041066660", "note": "Alteradas as regras do setor convencionado do SNS, simplificando alterações aos termos das convenções.", "tags": ["saude"] },
+    { "id": "1039332354", "note": "Assembleia da República recomenda ao Governo defender a soberania nacional sobre os sistemas públicos de pensões nas negociações europeias.", "tags": ["social"] },
+    { "id": "1039332355", "note": "Assembleia da República recomenda melhorias na saúde auditiva e no acesso a tecnologias de apoio.", "tags": ["saude"] }
+  ]
+}

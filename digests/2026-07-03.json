@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-03",
+  "overview": "Mudam as taxas do imposto sobre os combustíveis e nasce uma nova série de Certificados do Tesouro, com suspensão dos atuais Certificados de Aforro Poupança Valor. O Governo reviu também as regras da inspeção automóvel e decretou luto nacional pelas vítimas do sismo na Venezuela.",
+  "highlights": [
+    {
+      "id": "1144096133",
+      "headline": "Novos Certificados do Tesouro «série 5» substituem os atuais Poupança Valor",
+      "explanation": "É criada uma nova série de Certificados do Tesouro e suspensa a subscrição de novos Certificados do Tesouro Poupança Valor, mudando onde os aforradores podem colocar o dinheiro.",
+      "tags": ["banca"],
+      "importance": "high"
+    },
+    {
+      "id": "1144096117",
+      "headline": "Revistas as taxas do imposto sobre os combustíveis",
+      "explanation": "Portaria fixa novos valores do imposto sobre os produtos petrolíferos e energéticos (ISP), com reflexo no preço da gasolina e do gasóleo.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1143461618",
+      "headline": "Novas regras para os centros de inspeção automóvel",
+      "explanation": "Decreto-Lei revê o regime de acesso e funcionamento dos centros de inspeção técnica de veículos, alterando as condições para quem opera este tipo de negócio.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1144096143",
+      "headline": "Luto nacional pelas vítimas do sismo na Venezuela",
+      "explanation": "O Governo decreta um dia de luto nacional em solidariedade com as vítimas do terramoto que atingiu a Venezuela.",
+      "tags": ["estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1144096118", "note": "Alteradas as regras de prescrição e dispensa de medicamentos e produtos de saúde.", "tags": ["saude"] },
+    { "id": "1143461304", "note": "Nazaré publica os regulamentos da taxa turística e da gestão do alojamento local no concelho.", "tags": ["habitacao", "impostos"] },
+    { "id": "1143461284", "note": "Fronteira abre discussão pública da 1.ª revisão do seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1143461340", "note": "Vila Nova de Famalicão discute em público novos benefícios fiscais sobre o património imobiliário.", "tags": ["impostos", "habitacao"] },
+    { "id": "1143256925", "note": "Nova expropriação urgente para obras na Linha do Norte, troço Alfarelos/Pampilhosa.", "tags": ["infraestruturas"] }
+  ]
+}

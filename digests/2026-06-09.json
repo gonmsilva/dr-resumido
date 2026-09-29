@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-09",
+  "overview": "Dia calmo, dominado por atos de gestão corrente. Destaque para um novo contrato de investimento da AICEP com o grupo SRAM (componentes para bicicletas) e para uma medida que permite ao SNS pagar mais por hora extra em situações excecionais.",
+  "highlights": [
+    {
+      "id": "1130326550",
+      "headline": "Estado assina contrato de investimento com o grupo SRAM",
+      "explanation": "Aprovado o contrato de investimento, via AICEP, com as sociedades SRAMPORT, Livisham e SRAM LLC, no âmbito dos incentivos à inovação produtiva empresarial.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1130568110",
+      "headline": "SNS pode pagar mais por hora extra em situações excecionais",
+      "explanation": "A Ministra da Saúde delegou nos hospitais e unidades de saúde a competência para autorizar, em casos excecionais e fundamentados, o pagamento de até mais 50% por hora de trabalho suplementar, para colmatar faltas de profissionais.",
+      "tags": ["saude", "trabalho"],
+      "importance": "medium"
+    }
+  ],
+  "other": []
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-15",
+  "overview": "Dia dominado por apoios setoriais: um apoio extraordinário aos viticultores do Douro sem escoamento de produção e luz verde para a construção da nova maternidade da ULS de Coimbra. O resto do dia foi preenchido por nomeações, regulamentos internos e uma retificação ao Código dos Valores Mobiliários.",
+  "highlights": [
+    {
+      "id": "1171008708",
+      "headline": "Apoio excecional ao rendimento dos viticultores do Douro",
+      "explanation": "Nova portaria cria um apoio financeiro extraordinário para os viticultores da Região Demarcada do Douro que, por causa das atuais condições de mercado, não conseguem escoar a produção da campanha vitivinícola de 2026-2027.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1171008712",
+      "headline": "Autorizada construção da nova maternidade da ULS de Coimbra",
+      "explanation": "O Estado autoriza a Unidade Local de Saúde de Coimbra a assumir encargos plurianuais com a empreitada de construção da nova maternidade, avançando um investimento relevante na saúde materna da região.",
+      "tags": ["saude", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1171008705",
+      "note": "Governo aprova a segunda fase de desenvolvimento do assistente de inteligência artificial AMALIA, a concluir até ao final de 2026.",
+      "tags": ["estado", "empresas"]
+    },
+    {
+      "id": "1171008707",
+      "note": "Retificação corrige a recente alteração ao Código dos Valores Mobiliários.",
+      "tags": ["banca"]
+    },
+    {
+      "id": "1170050272",
+      "note": "Estado mantém a garantia pessoal às obrigações da Águas de Portugal junto do Banco Europeu de Investimento.",
+      "tags": ["banca", "infraestruturas"]
+    },
+    {
+      "id": "1170050273",
+      "note": "Novo sistema de incentivo económico para a retoma de resíduos de equipamentos elétricos e eletrónicos, com penalizações para quem incumprir.",
+      "tags": ["energia", "empresas"]
+    },
+    {
+      "id": "1171008155",
+      "note": "Indemnizações por danos causados pelo lobo-ibérico em gado passam a ter prazo máximo de 20 dias úteis para serem processadas.",
+      "tags": ["empresas", "social"]
+    },
+    {
+      "id": "1170050274",
+      "note": "Reprogramação dos encargos com a obra de reabilitação da Escola Secundária de Camões, em Lisboa.",
+      "tags": ["educacao"]
+    }
+  ]
+}

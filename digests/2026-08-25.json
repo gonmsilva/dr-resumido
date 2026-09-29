@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-25",
+  "overview": "Dia com foco na saúde e na mobilidade: alterada a lei do TVDE (Uber, Bolt e afins), definidos os termos da campanha de vacinação sazonal nas farmácias e criados novos centros de avaliação médica e psicológica no SNS. O Governo aprovou ainda o programa setorial para as zonas de aceleração de energias renováveis.",
+  "highlights": [
+    {
+      "id": "1161801432",
+      "headline": "Alterada a lei do TVDE (Uber, Bolt e plataformas semelhantes)",
+      "explanation": "A Assembleia da República altera o regime jurídico do transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica. Afeta motoristas e utilizadores destas plataformas.",
+      "tags": ["trabalho", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1161801433",
+      "headline": "Farmácias vão vacinar contra a gripe no outono-inverno",
+      "explanation": "Definidos os termos e a remuneração para as farmácias de oficina prestarem serviços de vacinação na Campanha de Vacinação Sazonal do Outono-Inverno 2026-2027. Facilita o acesso à vacina da gripe perto de casa.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1161801434",
+      "headline": "Novos centros de avaliação médica e psicológica no SNS",
+      "explanation": "Criados Centros de Avaliação Médica e Psicológica (CAMP) nas Unidades Locais de Saúde do SNS, reforçando a resposta nesta área a nível nacional.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1162354869",
+      "headline": "Governo aprova programa para acelerar energias renováveis",
+      "explanation": "Publicada a aprovação do Programa Setorial das Zonas de Aceleração da Implantação de Energias Renováveis, que define onde e como estes projetos podem avançar mais depressa.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1161811994",
+      "note": "Autorizada a ampliação do bloco operatório do Hospital de Barcelos/Esposende, com mais duas salas de cirurgia.",
+      "tags": ["saude"]
+    },
+    {
+      "id": "1161812002",
+      "note": "Força Aérea autorizada a contratar a revisão geral dos motores F100 dos F-16.",
+      "tags": ["empresas", "estado"]
+    },
+    {
+      "id": "1161801172",
+      "note": "O Sabugal altera a tabela de taxas municipais, incluindo novos valores para o Balcão Único Prédio.",
+      "tags": ["impostos"]
+    },
+    {
+      "id": "1161801405",
+      "note": "A Freguesia de Arroios (Lisboa) põe em consulta o projeto do novo Regulamento Geral de Taxas e Preços.",
+      "tags": ["impostos", "estado"]
+    },
+    {
+      "id": "1161812073",
+      "note": "Fixados os índices trimestrais de atualização de capitais para os seguros contra incêndio e elementos da natureza.",
+      "tags": ["banca"]
+    }
+  ]
+}

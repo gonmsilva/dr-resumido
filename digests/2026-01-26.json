@@ -1,0 +1,27 @@
+{
+  "date": "2026-01-26",
+  "overview": "Dia marcado pelo arranque formal da parceria público-privada para o novo Hospital Central do Algarve. A Assembleia Legislativa da Madeira propõe à Assembleia da República mudanças ao subsídio social de mobilidade entre o continente e as regiões autónomas, e o Governo fecha a classificação de três novas zonas especiais de conservação.",
+  "highlights": [
+    {
+      "id": "1022513652",
+      "headline": "Aprovado o lançamento da PPP para o Hospital Central do Algarve",
+      "explanation": "O Governo aprova o arranque do processo de parceria público-privada para conceção, construção, financiamento e exploração do novo Hospital Central do Algarve.",
+      "tags": ["saude", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1023994562",
+      "headline": "Madeira propõe mudanças ao subsídio social de mobilidade aérea",
+      "explanation": "A Assembleia Legislativa da Madeira apresenta à Assembleia da República uma proposta de lei que altera o regime do subsídio social de mobilidade nos voos entre o continente e as Regiões Autónomas dos Açores e da Madeira.",
+      "tags": ["infraestruturas", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1023994546", "note": "A Assembleia da República recomenda ao Governo medidas para facilitar a conciliação entre vida pessoal e profissional.", "tags": ["trabalho", "social"] },
+    { "id": "1023994547", "note": "O Governo conclui a designação de três novas zonas especiais de conservação (Serra da Gardunha, Complexo do Açor e Guadiana/Juromenha).", "tags": ["energia"] },
+    { "id": "1022554177", "note": "Nova portaria define as condições para usar resíduos inertes no enchimento de escavações de pedreiras.", "tags": ["energia"] },
+    { "id": "1023994561", "note": "O Parlamento açoriano vai acompanhar de perto o processo de privatização da SATA Internacional ― Azores Airlines.", "tags": ["empresas", "infraestruturas"] },
+    { "id": "1025363558", "note": "Autorizados os encargos plurianuais para a fiscalização das obras de modernização da Linha de Leixões.", "tags": ["infraestruturas"] }
+  ]
+}

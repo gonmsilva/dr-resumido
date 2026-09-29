@@ -1,0 +1,25 @@
+{
+  "date": "2026-01-16",
+  "overview": "A Assembleia da República pede ao Governo que aplique em Portugal o regulamento europeu dos mercados de criptoativos, e o Conselho de Ministros aprova o traçado para a duplicação integral do IP3 e da A13/IC3. Fora isso, dia sobretudo de nomeações e regulamentos internos.",
+  "highlights": [
+    {
+      "id": "1011550849",
+      "headline": "Parlamento pede transposição das regras europeias sobre criptoativos",
+      "explanation": "Uma resolução da Assembleia da República recomenda ao Governo que garanta as condições para aplicar em Portugal o Regulamento (UE) 2023/1114, que regula os mercados de criptoativos.",
+      "tags": ["banca"],
+      "importance": "medium"
+    },
+    {
+      "id": "1011550850",
+      "headline": "Governo aprova traçado da duplicação do IP3 e da A13/IC3",
+      "explanation": "O Conselho de Ministros aprovou o traçado para a duplicação integral e a requalificação do IP3 e da A13/IC3, mandando a Infraestruturas de Portugal avançar com os passos seguintes.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    }
+  ],
+  "other": [
+    { "id": "1009135871", "note": "Fixada a taxa supletiva de juros de mora para o 1.º semestre de 2026.", "tags": ["impostos", "banca"] },
+    { "id": "1009134407", "note": "A Autoridade de Supervisão de Seguros e Fundos de Pensões suspende norma sobre a divulgação de informação de fundos de pensões fechados e adesões a fundos abertos.", "tags": ["banca"] },
+    { "id": "1009135869", "note": "Autorizada a repartição de encargos para a reabilitação da EN378 entre o Seixal e Fernão Ferro.", "tags": ["infraestruturas"] }
+  ]
+}

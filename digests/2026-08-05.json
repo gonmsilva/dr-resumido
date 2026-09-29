@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-05",
+  "overview": "Dia fraco em legislação nacional, dominado por diplomas regionais dos Açores e nomeações. O único destaque de fundo é a aprovação dos estatutos provisórios da nova Universidade de Leiria e Oeste.",
+  "highlights": [
+    {
+      "id": "1154709506",
+      "headline": "Aprovados os estatutos da nova Universidade de Leiria e Oeste",
+      "explanation": "O Governo aprova os estatutos provisórios, em regime de instalação, da Universidade de Leiria e Oeste, formalizando a criação desta nova instituição de ensino superior público.",
+      "tags": ["educacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1154555179", "note": "Açores aprovam planos de gestão das áreas terrestres de seis parques naturais (Terceira, Graciosa, Corvo, Flores, Santa Maria, São Jorge).", "tags": ["energia"] },
+    { "id": "1154310742", "note": "Definida a dotação financeira do apoio à escalada do preço dos combustíveis para as Regiões Autónomas.", "tags": ["energia"] },
+    { "id": "1154310743", "note": "Abre concurso da rede de \"Refúgios Climáticos\" no âmbito do Programa Crescer com o Turismo.", "tags": ["empresas", "energia"] },
+    { "id": "1154510159", "note": "Évora altera a tabela de taxas e outras receitas municipais.", "tags": ["impostos", "estado"] }
+  ]
+}

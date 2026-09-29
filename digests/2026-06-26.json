@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-26",
+  "overview": "A ERSE fixou as tarifas de gás para o próximo ano gás e o Governo aprovou a Estratégia Nacional para a Resiliência das Entidades Críticas, alargando a cibersegurança à eletricidade transfronteiriça. No plano fiscal, o Supremo Tribunal Administrativo uniformizou jurisprudência sobre seguros unit linked e sobre o registo tardio como residente não habitual.",
+  "highlights": [
+    {
+      "id": "1138879591",
+      "headline": "ERSE fixa as tarifas do gás para 2026-2027",
+      "explanation": "A Entidade Reguladora dos Serviços Energéticos aprovou as tarifas e preços de gás natural para o próximo ano gás, com efeito direto na fatura de famílias e empresas.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1139191716",
+      "headline": "STA esclarece o IRS a pagar no resgate parcial de seguros unit linked",
+      "explanation": "O Supremo Tribunal Administrativo uniformizou jurisprudência: mesmo que o valor resgatado de um seguro do ramo vida seja inferior ao total dos prémios pagos, há lugar a tributação em IRS sobre a parte correspondente à valorização das unidades de participação.",
+      "tags": ["impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1139191708",
+      "headline": "Governo aprova estratégia para proteger infraestruturas críticas do país",
+      "explanation": "O Conselho de Ministros aprovou a Avaliação Nacional de Risco e a Estratégia Nacional para a Resiliência das Entidades Críticas, que define como proteger serviços essenciais como energia, água ou transportes.",
+      "tags": ["infraestruturas", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1139191707",
+      "headline": "Centro Nacional de Cibersegurança passa a vigiar a eletricidade entre países",
+      "explanation": "Novo decreto-lei designa o Centro Nacional de Cibersegurança como autoridade responsável por aplicar as regras europeias de cibersegurança aos fluxos de eletricidade entre Portugal e outros países.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1139191719",
+      "headline": "Pedido tardio de residente não habitual só conta a partir do ano do registo",
+      "explanation": "O STA fixou jurisprudência: quem se inscreve como residente não habitual fora do prazo legal só passa a beneficiar do regime fiscal a partir do ano em que fizer o registo, não podendo aplicá-lo retroativamente.",
+      "tags": ["impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1138561628", "note": "Estado autoriza garantias públicas ao Fundo de Contragarantia Mútuo no âmbito da Linha Portugal | Resiliência Energética, para apoiar o financiamento de empresas.", "tags": ["banca", "empresas"] },
+    { "id": "1138561631", "note": "Reconhecido interesse estratégico para a economia nacional no investimento da NOVARROZ ― Produtos Alimentares.", "tags": ["empresas"] },
+    { "id": "1139191705", "note": "Novo decreto-lei cria espaços temporários para acondicionar material lenhoso, medida ligada à gestão de riscos florestais.", "tags": ["energia"] },
+    { "id": "1139191710", "note": "Autorizada despesa do Instituto Português do Sangue e da Transplantação para comprar medicamentos derivados de plasma humano.", "tags": ["saude"] },
+    { "id": "1139191704", "note": "Novo decreto-lei aplica em Portugal as regras europeias de fiscalização do mercado e conformidade de produtos.", "tags": ["empresas"] }
+  ]
+}

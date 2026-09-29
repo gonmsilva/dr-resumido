@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-21",
+  "overview": "Novas regras para a doação de órgãos após paragem cardiocirculatória e transposição de diretivas europeias sobre troca de informação policial e combate ao terrorismo. O Parlamento aprovou ainda uma longa lista de recomendações ao Governo, da igualdade salarial à proteção de cães das forças de segurança.",
+  "highlights": [
+    {
+      "id": "1149478655",
+      "headline": "Novas regras para doação de órgãos após paragem cardiocirculatória",
+      "explanation": "Despacho define os requisitos para a doação e colheita de órgãos e tecidos de dadores falecidos por paragem cardiocirculatória, atualizando as regras que vigoravam desde 2013.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1149748262",
+      "headline": "Nova lei sobre troca de informação policial e combate ao terrorismo",
+      "explanation": "Lei transpõe diretivas europeias sobre o intercâmbio de informações entre autoridades policiais dos Estados-Membros e altera a lei de combate ao terrorismo.",
+      "tags": ["justica", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1149478665",
+      "headline": "Avança novo posto de corte para a linha elétrica Fundão-Vilarouco",
+      "explanation": "Declarada imprescindível a utilidade pública da construção do Posto de Corte de Vilarouco, parte do eixo elétrico a 400 kV entre Fundão e Vilarouco.",
+      "tags": ["energia", "infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1149748266", "note": "Parlamento recomenda ao Governo proteger a pesca do atum e do peixe-espada na Reserva Natural Marinha Dom Carlos.", "tags": ["empresas", "energia"] },
+    { "id": "1149748270", "note": "Parlamento recomenda a reorganização das forças de segurança pública.", "tags": ["estado"] },
+    { "id": "1149747933", "note": "Aguiar da Beira aprova regulamento para atribuir fogos municipais em arrendamento acessível e apoiado.", "tags": ["habitacao"] }
+  ]
+}

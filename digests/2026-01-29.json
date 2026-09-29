@@ -1,0 +1,19 @@
+{
+  "date": "2026-01-29",
+  "overview": "Dia calmo, dominado por nomeações e regulamentos internos. A novidade com impacto direto nas famílias é o regulamento do apoio extraordinário «Botija de Gás Solidária» para 2026.",
+  "highlights": [
+    {
+      "id": "1028040915",
+      "headline": "Aprovado o apoio «Botija de Gás Solidária» para 2026",
+      "explanation": "O Governo aprova o regulamento do apoio extraordinário e excecional à compra de botijas de gás para famílias em situação de carência, para vigorar durante 2026.",
+      "tags": ["energia", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1029684243", "note": "Definidas as Lojas do Cidadão cujos balcões de atendimento passam a funcionar sem interrupção ao longo do dia.", "tags": ["estado"] },
+    { "id": "1028040875", "note": "Autorizados os encargos da Infraestruturas de Portugal com a reabilitação de um troço da EN2 entre Portalegre e Évora.", "tags": ["infraestruturas"] },
+    { "id": "1028040876", "note": "Autorizados os encargos da Infraestruturas de Portugal com a execução da 3.ª fase da Linha de Sines.", "tags": ["infraestruturas"] },
+    { "id": "1028060983", "note": "Novo regime de apoios a grupos operacionais para a inovação no âmbito do desenvolvimento rural (PEPAC).", "tags": ["empresas"] }
+  ]
+}

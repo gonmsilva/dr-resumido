@@ -1,0 +1,28 @@
+{
+  "date": "2026-01-21",
+  "overview": "Dia com duas reestruturações relevantes na área social: a Casa Pia de Lisboa é reorganizada por decreto-lei e arranca um projeto-piloto de Bolsa de Cuidadores para apoiar quem cuida de familiares dependentes. Fora isso, sobretudo extinções de organismos, regulamentos portuários e uma leva de portarias de extensão de contratos coletivos, sem novidades de maior.",
+  "highlights": [
+    {
+      "id": "1017369017",
+      "headline": "Casa Pia de Lisboa é reestruturada",
+      "explanation": "Decreto-lei reestrutura a Casa Pia de Lisboa, instituição pública de proteção de crianças e jovens. Afeta a organização da resposta social prestada pela instituição.",
+      "tags": ["social", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1017369025",
+      "headline": "Arranca projeto-piloto de Bolsa de Cuidadores",
+      "explanation": "Nova portaria altera as regras de descanso do cuidador informal e cria o projeto-piloto da Bolsa de Cuidadores, destinado a assegurar a continuidade dos cuidados a pessoas dependentes quando o cuidador está temporariamente ausente.",
+      "tags": ["social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1017369016", "note": "Extinta, por fusão, a Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social.", "tags": ["estado"] },
+    { "id": "1017369024", "note": "Retificada a resolução que autoriza o IGCP a emitir dívida pública dentro dos limites do Orçamento do Estado para 2026.", "tags": ["banca"] },
+    { "id": "1017369015", "note": "Retificada a lei que transpõe as regras europeias de resiliência operacional digital para o setor financeiro (DORA).", "tags": ["banca"] },
+    { "id": "1017369035", "note": "Açores criam regime de comparticipação de dispositivos médicos para diabetes mellitus tipo 1.", "tags": ["saude"] },
+    { "id": "1016754139", "note": "Publicado o novo Regulamento de Licenciamento de Obras no Porto de Lisboa, com as respetivas taxas.", "tags": ["infraestruturas"] },
+    { "id": "1016754438", "note": "Vila Viçosa atualiza as taxas urbanísticas e administrativas do município.", "tags": ["impostos"] }
+  ]
+}

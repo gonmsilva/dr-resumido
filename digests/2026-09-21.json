@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-21",
+  "overview": "Dia calmo, dominado por diplomas técnicos: novas regras para energias renováveis e para a capacidade da rede elétrica, simplificação do registo predial e uma linha de crédito para o setor vinícola. Destaque ainda para um regime especial de acesso a medicamentos para duas doenças raras.",
+  "highlights": [
+    {
+      "id": "1172217155",
+      "headline": "Novas regras para promover energias renováveis",
+      "explanation": "Decreto-lei transpõe parcialmente uma diretiva europeia e altera o regime de 2008, ajustando as condições para a produção e promoção de energia a partir de fontes renováveis.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1172217158",
+      "headline": "Alterado o regime do Balcão Único do Prédio",
+      "explanation": "Novo decreto regulamentar altera as regras do Sistema de Informação Cadastral Simplificado e do Balcão Único do Prédio, que servem para simplificar o registo e a identificação de imóveis.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1172217159",
+      "headline": "Linha de crédito bonificado para o setor do vinho",
+      "explanation": "Governo cria a «Linha de Tesouraria — Setor Vinícola II», com juros bonificados, para apoiar operadores que transformam uva em vinho.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1172560828",
+      "headline": "Acesso facilitado a medicamentos para ictiose e epidermólise bolhosa",
+      "explanation": "Nova portaria define um regime especial de disponibilização pública de tecnologias de saúde para tratar doentes com estas duas doenças raras de pele.",
+      "tags": ["saude"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1172217156", "note": "Concluído o processo que designa a Zona Especial de Conservação do Estuário do Sado.", "tags": ["energia"] },
+    { "id": "1172208522", "note": "Aprovado o programa PRO NAT.URBE, para tornar as cidades mais resilientes a eventos climáticos extremos.", "tags": ["energia", "infraestruturas"] },
+    { "id": "1172329723", "note": "Definidas as regras de tramitação para a gestão dinâmica da capacidade de injeção de eletricidade na rede.", "tags": ["energia", "empresas"] },
+    { "id": "1172216798", "note": "Banco de Portugal coloca em circulação uma moeda comemorativa da Fundação Calouste Gulbenkian.", "tags": ["banca"] }
+  ]
+}

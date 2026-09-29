@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-02",
+  "overview": "O Governo declarou situação de alerta em todo o continente para os primeiros dias de julho e abriu convenções com clínicas privadas e sociais para reduzir as listas de espera do SNS. Foi ainda prolongado o apoio à botija de gás para famílias carenciadas.",
+  "highlights": [
+    {
+      "id": "1143343961",
+      "headline": "Situação de alerta declarada em todo o continente de 3 a 6 de julho",
+      "explanation": "Vários ministérios declaram situação de alerta em todo o território continental entre as 00h00 de 3 de julho e as 23h59 de 6 de julho de 2026, mobilizando meios de proteção civil.",
+      "tags": ["estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1143173402",
+      "headline": "Governo abre convenções com privados para reduzir listas de espera no SNS",
+      "explanation": "Nova portaria define como o SNS pode contratar consultas e cirurgias programadas a clínicas privadas e sociais para baixar os tempos de espera dos utentes.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1143461644",
+      "headline": "Apoio à botija de gás solidária prolongado até final de 2026",
+      "explanation": "É estendido o regime excecional do apoio extraordinário «Botija de Gás Solidária» para famílias carenciadas durante 2026.",
+      "tags": ["social", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1143147818", "note": "Santo Tirso aprova a 2.ª revisão do seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1143147801", "note": "Odivelas aprova novo Regulamento Municipal de Edificação e Urbanização.", "tags": ["habitacao"] },
+    { "id": "1143173403", "note": "Definido o regime de repartição financeira entre proprietários de terrenos sujeitos a gestão florestal.", "tags": ["empresas"] },
+    { "id": "1143256896", "note": "Sertã cria regulamento de incentivos para atrair e fixar médicos no concelho.", "tags": ["saude"] },
+    { "id": "1142817833", "note": "Declarada utilidade pública urgente para expropriações na estabilização de taludes da Linha do Algarve, troço Tunes-Lagos.", "tags": ["infraestruturas"] }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-13",
+  "overview": "Dia relevante para a carteira: o Governo revê as taxas do imposto sobre os combustíveis. Avança também o acompanhamento técnico à expansão do aeroporto Francisco Sá Carneiro e é declarada de utilidade pública a zona industrial de Sines.",
+  "highlights": [
+    {
+      "id": "1072545714",
+      "headline": "Governo revê as taxas do imposto sobre os combustíveis",
+      "explanation": "Nova portaria fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, com efeito direto no preço da gasolina e do gasóleo.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1071481440",
+      "headline": "Criado grupo técnico para acompanhar a expansão do aeroporto Francisco Sá Carneiro",
+      "explanation": "Infraestruturas, Habitação e Ambiente e Energia constituem um grupo técnico para acompanhar a expansão do aeroporto do Porto.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1072545675",
+      "headline": "Declarada utilidade pública para a Zona Industrial e Logística de Sines",
+      "explanation": "É declarada de imprescindível utilidade pública a implementação do loteamento e da infraestruturação de vários lotes da Zona Industrial e Logística de Sines, facilitando o avanço do projeto.",
+      "tags": ["empresas", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1071582382",
+      "headline": "Definidas medidas para garantir a rega no Aproveitamento Hidroagrícola do Mira",
+      "explanation": "São estabelecidas medidas para assegurar a segurança hídrica do Aproveitamento Hidroagrícola do Mira na campanha de rega de 2026 e seguintes, relevante para a agricultura da região.",
+      "tags": ["empresas", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1071481424", "note": "Nova fase de expropriações na Linha do Minho para eliminar passagens de nível em Barcelos.", "tags": ["infraestruturas"] },
+    { "id": "1071582390", "note": "CMVM atualiza os seus códigos de conduta e ética.", "tags": ["banca"] },
+    { "id": "1071448217", "note": "Parlamento recomenda isenção ou reembolso de portagens nos municípios afetados pela tempestade Kristin.", "tags": ["infraestruturas", "estado"] }
+  ]
+}

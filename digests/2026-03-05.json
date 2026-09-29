@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-05",
+  "overview": "Dia com legislação relevante: bilhete gratuito para acompanhante de pessoa com deficiência em espetáculos, conclusão da designação de sete zonas especiais de conservação, e declaração de utilidade pública para a modernização da Linha do Alentejo. O Governo decretou ainda luto nacional pela morte de António Lobo Antunes.",
+  "highlights": [
+    {
+      "id": "1066993459",
+      "headline": "Bilhete gratuito para acompanhante de pessoa com deficiência",
+      "explanation": "Novo decreto-lei cria o bilhete gratuito para um acompanhante de pessoa com deficiência em espetáculos artísticos promovidos por entidades públicas.",
+      "tags": ["social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1066993460",
+      "headline": "Concluída a designação de sete zonas especiais de conservação",
+      "explanation": "Sete decretos-lei fecham o processo de designação de Zonas Especiais de Conservação (Moura/Barrancos, Serras de Aire e Candeeiros, Sicó/Alvaiázere, Serra de Montejunto, Azabuxo/Leiria, Sintra/Cascais e Arade/Odelouca), com efeitos em regras de uso e construção nesses territórios.",
+      "tags": ["energia", "habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1066940110",
+      "headline": "Expropriações para modernizar a Linha do Alentejo",
+      "explanation": "Declarada utilidade pública com caráter de urgência para expropriar terrenos necessários à modernização e duplicação do troço Poceirão-Bombel da Linha do Alentejo.",
+      "tags": ["infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1068097904",
+      "headline": "Luto nacional pela morte de António Lobo Antunes",
+      "explanation": "O Governo decretou luto nacional pelo falecimento do escritor António Lobo Antunes.",
+      "tags": ["estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1066993467",
+      "note": "Novos modelos e instruções para a obrigação declarativa do artigo 57.º do Código do IRS.",
+      "tags": ["impostos"]
+    },
+    {
+      "id": "1068097881",
+      "note": "Mais seis planos de gestão de Zonas Especiais de Conservação aprovados (Rio Lima, Comporta/Galé, Paul de Arzila, Caia, Barrinha de Esmoriz, Rios Sabor e Maçãs).",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1066993469",
+      "note": "Novo modelo de gestão da quota portuguesa de pesca da sarda.",
+      "tags": ["empresas"]
+    },
+    {
+      "id": "1066940121",
+      "note": "Prorrogado o prazo do programa de apoio \"O Turismo Acolhe\".",
+      "tags": ["empresas"]
+    }
+  ]
+}
