@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-30",
+  "overview": "O destaque do dia é a regulamentação dos contratos de investimento para arrendamento, que define como os investidores podem aderir ao novo regime de habitação para arrendar. Há ainda apoios às pescas afetadas pelo fecho do linguado e aos agricultores atingidos pela tempestade Kristin, e novos estatutos para o Instituto da Mobilidade e dos Transportes.",
+  "highlights": [
+    {
+      "id": "1174840973",
+      "headline": "Regras para os contratos de investimento para arrendamento",
+      "explanation": "Uma portaria regulamenta os contratos de investimento para arrendamento (CIA), criados em maio: define como se apresenta e aprova um contrato, que investidores são elegíveis e que obrigações assumem. É o passo que faltava para o regime começar a funcionar na prática.",
+      "tags": ["habitacao", "impostos", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1175177140",
+      "headline": "Apoio à frota de pesca pelo fecho do linguado",
+      "explanation": "O Governo cria um apoio financeiro excecional e temporário para compensar em parte as perdas da frota de pesca polivalente com o encerramento da pesca dirigida ao linguado-legítimo.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1175177141",
+      "headline": "Reserva agrícola europeia para os danos da tempestade Kristin",
+      "explanation": "Fixa as regras de aplicação no continente da medida excecional da Reserva Agrícola da UE aprovada para responder à tempestade Kristin, abrindo caminho aos apoios aos agricultores afetados.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1175177139", "note": "Aprovados os novos estatutos do Instituto da Mobilidade e dos Transportes (IMT).", "tags": ["infraestruturas", "estado"] },
+    { "id": "1175177138", "note": "Nomeado o conselho de administração da Unidade Local de Saúde do Algarve.", "tags": ["saude"] },
+    { "id": "1175177137", "note": "O IAPMEI fica autorizado a transferir verbas para a AICEP para atividades conjuntas.", "tags": ["empresas", "estado"] },
+    { "id": "1174977069", "note": "Operadores de agricultura biológica e produção integrada passam a ter de notificar a atividade à DGADR numa plataforma própria, após registo no IFAP.", "tags": ["empresas"] },
+    { "id": "1175169031", "note": "Coimbra atualiza o valor da taxa municipal turística.", "tags": ["impostos", "empresas"] },
+    { "id": "1175177087", "note": "Aprovada a 2.ª alteração ao PDM de Setúbal.", "tags": ["habitacao"] },
+    { "id": "1175169024", "note": "Cantanhede aprova regulamento de isenções de impostos municipais.", "tags": ["impostos"] },
+    { "id": "1175169009", "note": "Aberto concurso ao apoio extraordinário ProMuseus Respostas de Emergência 2026.", "tags": ["empresas"] }
+  ]
+}
