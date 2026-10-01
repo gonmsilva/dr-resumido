@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-01",
+  "overview": "O INE publicou o coeficiente que fixa a atualização das rendas para o próximo ano, e o Governo declarou de utilidade pública urgente as expropriações para o primeiro troço da alta velocidade entre Campanhã e Aveiro. O dia trouxe ainda o reforço da «Botija de Gás Solidária», a prorrogação das licenças de handling nos aeroportos de Lisboa, Porto e Faro e um acórdão do Tribunal Constitucional sobre violência doméstica.",
+  "highlights": [
+    {
+      "id": "1175645456",
+      "headline": "Publicado o coeficiente de atualização das rendas",
+      "explanation": "O INE divulgou o coeficiente previsto no NRAU que senhorios podem aplicar para atualizar as rendas habitacionais e não habitacionais no próximo ano, bem como as rendas rurais. Interessa a todos os inquilinos e senhorios com contratos em vigor.",
+      "tags": ["habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1175645454",
+      "headline": "Expropriações urgentes para a alta velocidade Campanhã–Aveiro",
+      "explanation": "O Governo declarou a utilidade pública, com carácter de urgência, da expropriação dos terrenos necessários ao primeiro subtroço da linha de alta velocidade entre Porto (Campanhã) e Aveiro (Oiã). Permite avançar com a posse das parcelas e afeta os proprietários ao longo do traçado.",
+      "tags": ["infraestruturas", "habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1176351844",
+      "headline": "Reforçado o apoio «Botija de Gás Solidária» e garantido para 2027",
+      "explanation": "O Conselho de Ministros reforça a verba de 2026 do apoio extraordinário à compra de gás engarrafado por famílias vulneráveis e fixa o montante a afetar em 2027.",
+      "tags": ["social", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1176351843",
+      "headline": "Prorrogadas as licenças de handling em Lisboa, Porto e Faro",
+      "explanation": "Decreto-lei estende, de forma excecional e transitória, a validade das licenças atuais de assistência em escala nos três principais aeroportos, adiando a mudança de operadores destes serviços.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1176355434",
+      "headline": "Constitucional trava declarações para memória futura sem arguido constituído",
+      "explanation": "O Tribunal Constitucional julgou inconstitucional interpretar a lei da violência doméstica no sentido de permitir recolher declarações para memória futura sem que o denunciado tenha sido constituído arguido, quando nada o impedia.",
+      "tags": ["justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1176351845", "note": "Reforço e reprogramação dos encargos do Sistema de Mobilidade do Mondego (metrobus de Coimbra).", "tags": ["infraestruturas"] },
+    { "id": "1175645458", "note": "Antigos parques de manutenção ferroviária em Loures passam para o domínio público municipal.", "tags": ["infraestruturas", "habitacao"] },
+    { "id": "1176355716", "note": "Nazaré publica a versão consolidada do regulamento da taxa turística e republica as regras do alojamento local.", "tags": ["impostos", "habitacao"] },
+    { "id": "1176355733", "note": "Portel cria um programa municipal de arrendamento acessível.", "tags": ["habitacao"] },
+    { "id": "1176351847", "note": "Fixadas as percentagens do mecanismo de correção cambial para o 2.º semestre de 2026, aplicado a quem trabalha para o Estado no estrangeiro.", "tags": ["trabalho", "estado"] },
+    { "id": "1176351846", "note": "Parcela na serra da Freita sai do regime florestal para construir um centro de interpretação.", "tags": ["energia"] }
+  ]
+}
