@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-02",
+  "overview": "Dia calmo. A única novidade nacional relevante é uma alteração às regras de licenciamento e fiscalização de postos de combustível e armazéns de produtos petrolíferos; o resto é sobretudo regulamentação local e consultas públicas.",
+  "highlights": [
+    {
+      "id": "1176760741",
+      "headline": "Governo altera regras de licenciamento dos postos de combustível",
+      "explanation": "O decreto-lei muda o regime de 2002 que define como são licenciadas e fiscalizadas as instalações de armazenamento de produtos de petróleo e os postos de abastecimento, e quem tem competência para o fazer. Afeta operadores de postos e distribuidores de combustíveis.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1176996942", "note": "Maia avança com alteração simplificada ao PDM para passar solo rústico a urbano, destinado a atividades económicas.", "tags": ["habitacao"] },
+    { "id": "1176997191", "note": "Freguesia de Marvila (Lisboa) publica novo regulamento e tabela de taxas e preços.", "tags": ["impostos", "estado"] },
+    { "id": "1176760742", "note": "Açores voltam a alterar os apoios do PRR à inovação e transição verde e digital das empresas agroalimentares da região.", "tags": ["empresas"] },
+    { "id": "1176765973", "note": "Abre consulta pública para inscrever a corrida de toiros no Inventário Nacional do Património Cultural Imaterial.", "tags": ["estado"] },
+    { "id": "1176996974", "note": "Silves põe em discussão pública o Plano de Pormenor de Pêra Sul.", "tags": ["habitacao"] },
+    { "id": "1176996936", "note": "Idanha-a-Nova cria incentivos municipais para fixar médicos de família no concelho.", "tags": ["saude"] }
+  ]
+}
