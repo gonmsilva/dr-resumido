@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-06",
+  "overview": "Dia calmo. O Parlamento cria uma comissão de inquérito à classificação digital dos exames nacionais e a ACSS publica o mapa de vagas do Internato Médico 2026; o resto é sobretudo expediente local e de pessoal.",
+  "highlights": [
+    {
+      "id": "1177471463",
+      "headline": "Comissão de inquérito à classificação digital dos exames nacionais",
+      "explanation": "A Assembleia da República cria uma comissão parlamentar de inquérito às decisões, contratações e responsabilidades na conceção e execução da classificação digital dos exames nacionais de 2025 e 2026. Interessa a alunos, famílias e escolas afetados pelo novo sistema.",
+      "tags": ["educacao", "estado"],
+      "importance": "high"
+    },
+    {
+      "id": "1177060620",
+      "headline": "Publicado o mapa de vagas do Internato Médico 2026",
+      "explanation": "A ACSS publica, em suplemento, as vagas por especialidade e por instituição para os médicos que entram na formação especializada este ano. Determina onde e em que áreas o SNS vai formar novos especialistas.",
+      "tags": ["saude", "educacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1176997265",
+      "headline": "Expropriações urgentes para reparar o ex-IC 3 após as intempéries",
+      "explanation": "O Governo declara de utilidade pública, com carácter de urgência, a expropriação dos terrenos necessários para repor a plataforma da estrada e o aterro entre os km 13,5 e 14,3 do ex-IC 3, danificados pelas intempéries de 2026.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1177471431", "note": "A Junta de Freguesia de Matosinhos aprova novo regulamento de taxas e licenças.", "tags": ["impostos", "estado"] },
+    { "id": "1177471419", "note": "Ponta do Sol (Madeira) aprova regulamento municipal de apoios à educação e à natalidade.", "tags": ["social", "educacao"] },
+    { "id": "1177471400", "note": "Guimarães abre plano de pormenor para a área habitacional e de equipamentos de Urgezes.", "tags": ["habitacao"] },
+    { "id": "1177471415", "note": "Monção aprova alteração por adaptação do seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1177471413", "note": "Miranda do Corvo publica a 2.ª alteração ao seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1177471393", "note": "Figueira da Foz prorroga por 18 meses a elaboração do plano de pormenor do empreendimento turístico da Lagoa da Vela.", "tags": ["habitacao", "empresas"] },
+    { "id": "1177471464", "note": "Retificado o decreto que retira do regime florestal uma parcela na serra da Freita para o futuro Centro de Interpretação.", "tags": ["energia"] },
+    { "id": "1177471399", "note": "A Guarda publica novo regulamento municipal de trânsito, circulação e estacionamento.", "tags": ["estado"] }
+  ]
+}
