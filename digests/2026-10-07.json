@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "overview": "Dia calmo. O destaque é um novo pacote de apoios temporários para compensar a subida dos combustíveis no transporte rodoviário, táxis, setor social e bombeiros. O Governo marcou também o prazo do relatório que vai instruir a criação do município de Fátima.",
+  "highlights": [
+    {
+      "id": "1177979316",
+      "headline": "Apoios extraordinários para compensar a subida dos combustíveis",
+      "explanation": "O Governo cria apoios financeiros temporários para mitigar o aumento dos custos com combustíveis no transporte rodoviário de mercadorias e de passageiros, nos táxis, no setor social e nas associações humanitárias de bombeiros.",
+      "tags": ["energia", "empresas", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1177978479",
+      "headline": "Criação do município de Fátima avança com prazo para relatório",
+      "explanation": "Fixada a data de entrega do relatório que vai servir de base ao processo legislativo para criar o município de Fátima. É um passo processual, mas mostra que a separação de Ourém está em andamento.",
+      "tags": ["estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1177978477", "note": "O Serviço de Finanças Lisboa 7 é fundido no Serviço de Finanças Lisboa 2.", "tags": ["impostos", "estado"] },
+    { "id": "1177978853", "note": "Sintra abre o período de participação preventiva da revisão do seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1177979317", "note": "O Instituto dos Registos e do Notariado fica autorizado a assumir encargos em 2027 com a plataforma BUPi Cloud, usada no registo de propriedade rústica.", "tags": ["habitacao", "estado"] }
+  ]
+}
