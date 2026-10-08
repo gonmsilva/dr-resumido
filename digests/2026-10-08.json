@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-08",
+  "overview": "O Governo cria um suplemento extraordinário de pensões e prolonga os apoios à agricultura e às pescas pela subida do preço dos combustíveis. O Parlamento aprova o seu orçamento para 2027 e recomenda o reforço dos rastreios oncológicos; de resto, um dia de atos menores.",
+  "highlights": [
+    {
+      "id": "1178225509",
+      "headline": "Suplemento extraordinário de pensões",
+      "explanation": "Um decreto-lei cria um suplemento extraordinário para os pensionistas. O resumo oficial não indica valores nem quem tem direito; os detalhes estão no diploma.",
+      "tags": ["social"],
+      "importance": "high"
+    },
+    {
+      "id": "1178225508",
+      "headline": "Prolongados os apoios à agricultura e pescas pelo preço dos combustíveis",
+      "explanation": "Os apoios excecionais criados em março para compensar a escalada do preço dos combustíveis nos setores agrícola, florestal, das pescas e da aquicultura são prorrogados.",
+      "tags": ["empresas", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1178225511",
+      "headline": "Barragem do Crato adiada até 2030",
+      "explanation": "O Governo prolonga até 2030 a execução do Aproveitamento Hidráulico de Fins Múltiplos do Crato e reprograma os encargos financeiros do projeto.",
+      "tags": ["infraestruturas", "energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1178225506", "note": "Parlamento recomenda ao Governo reforçar rastreios oncológicos, prevenção e diagnóstico precoce.", "tags": ["saude"] },
+    { "id": "1178225504", "note": "Parlamento recomenda programas de rastreio precoce de doenças oncológicas, cerebrovasculares e respiratórias.", "tags": ["saude"] },
+    { "id": "1178225505", "note": "Parlamento pede medidas urgentes para melhorar as condições de vida das pessoas com ELA.", "tags": ["saude", "social"] },
+    { "id": "1178225507", "note": "Aprovado o orçamento da Assembleia da República para 2027.", "tags": ["estado", "impostos"] },
+    { "id": "1178225510", "note": "Programa Escolhas (9.ª geração) prorrogado até 31 de março de 2027.", "tags": ["social", "educacao"] },
+    { "id": "1178262769", "note": "Funchal põe em consulta pública o regulamento da sua taxa municipal turística.", "tags": ["impostos", "empresas"] },
+    { "id": "1178262469", "note": "Tribunal Constitucional valida a bonificação de 1,5 para sinistrados do trabalho com 50 ou mais anos, mesmo sem agravamento comprovado.", "tags": ["justica", "trabalho"] }
+  ]
+}
