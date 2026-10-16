@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-16",
+  "overview": "O Governo escolheu a proposta vencedora para a venda direta de referência de ações da TAP e reviu as taxas do imposto sobre os produtos petrolíferos, com efeito no preço dos combustíveis. O Estado abre ainda negociações para refinanciar a subconcessão rodoviária do Baixo Alentejo e para ampliar o Hospital de Cascais.",
+  "highlights": [
+    {
+      "id": "1182082413",
+      "headline": "Governo escolhe comprador para a privatização parcial da TAP",
+      "explanation": "Uma resolução do Conselho de Ministros seleciona a proposta de aquisição de ações da TAP na venda direta de referência, um passo decisivo na reprivatização da companhia aérea. O resumo publicado não identifica o comprador nem os termos.",
+      "tags": ["empresas", "infraestruturas"],
+      "importance": "high"
+    },
+    {
+      "id": "1182897092",
+      "headline": "Revistas as taxas do imposto sobre combustíveis (ISP)",
+      "explanation": "Uma portaria das Finanças e do Ambiente revê e fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, o que pesa diretamente no preço da gasolina e do gasóleo nas bombas. O resumo não indica se as taxas sobem ou descem.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1180341162",
+      "headline": "Estado renegoceia a subconcessão rodoviária do Baixo Alentejo",
+      "explanation": "É criada uma comissão para renegociar o contrato desta parceria público-privada, com vista ao seu refinanciamento e à partilha dos ganhos entre o Estado e a subconcessionária.",
+      "tags": ["infraestruturas", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1180341163",
+      "headline": "Contrato do Hospital de Cascais em renegociação para ampliar o edifício",
+      "explanation": "O Estado constitui uma comissão para renegociar o contrato de gestão do Hospital de Cascais, com o objetivo de ampliar o edifício hospitalar.",
+      "tags": ["saude", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1182082414",
+      "headline": "Alterado o programa de apoio a eventos Portugal Events",
+      "explanation": "O sistema de incentivos que financia a realização de eventos em Portugal sofre a quarta alteração desde 2023. O resumo não detalha o que muda.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1182082159", "note": "Vila Nova de Famalicão aprova um regulamento de benefícios fiscais sobre imóveis.", "tags": ["impostos", "habitacao"] },
+    { "id": "1182082127", "note": "Lajes do Pico cria uma taxa turística municipal.", "tags": ["impostos", "empresas"] },
+    { "id": "1182082091", "note": "Azambuja inicia a sexta alteração ao seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1180341172", "note": "Autoridade Marítima autorizada a comprar seis embarcações de fiscalização das pescas em 2027 e 2028.", "tags": ["empresas", "estado"] },
+    { "id": "1180341169", "note": "Revogada a autorização para a Força Aérea comprar um radar móvel de longo alcance.", "tags": ["estado"] },
+    { "id": "1182082153", "note": "Setúbal altera o regulamento dos serviços de água e saneamento.", "tags": ["energia", "estado"] },
+    { "id": "1182082114", "note": "Chaves fixa o tarifário do calor fornecido pela rede municipal de geotermia.", "tags": ["energia"] }
+  ]
+}

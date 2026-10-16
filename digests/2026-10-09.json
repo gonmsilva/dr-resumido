@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-09",
+  "overview": "Dia calmo no Diário da República. O destaque é a reorganização da estrutura que gere o PRR, agora preparada para o fecho do plano; o resto são sobretudo regulamentos municipais, com várias câmaras a mexer em taxas, taxas turísticas e derrama.",
+  "highlights": [
+    {
+      "id": "1178585148",
+      "headline": "Estrutura do PRR adaptada à fase de encerramento",
+      "explanation": "O Governo ajusta a Estrutura de Missão «Recuperar Portugal», que coordena os fundos do Plano de Recuperação e Resiliência, à fase final do plano. É um sinal de que o PRR entra na reta final de execução e prestação de contas.",
+      "tags": ["estado", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1178601186", "note": "Maia põe em consulta pública alterações às isenções e reduções de taxas municipais.", "tags": ["impostos"] },
+    { "id": "1178601209", "note": "Peniche propõe um regulamento de redução e isenção de derrama para empresas.", "tags": ["impostos", "empresas"] },
+    { "id": "1178600966", "note": "Funchal altera um artigo do regulamento geral de taxas e licenças municipais.", "tags": ["impostos"] },
+    { "id": "1178600923", "note": "Alijó abre consulta pública sobre a criação de uma taxa turística.", "tags": ["impostos", "empresas"] },
+    { "id": "1178601214", "note": "Porto Moniz (Madeira) também põe em consulta pública uma taxa turística.", "tags": ["impostos", "empresas"] },
+    { "id": "1178585159", "note": "Delimitada a Reserva Ecológica Nacional no município do Entroncamento.", "tags": ["energia", "habitacao"] },
+    { "id": "1178600884", "note": "Reconhecido o interesse público dos Jogos do Mediterrâneo de Praia Portimão-Lagoa 2027.", "tags": ["empresas"] }
+  ]
+}
