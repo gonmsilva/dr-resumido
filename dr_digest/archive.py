@@ -6,9 +6,9 @@ published on a date (main issue and supplements, both series), the other
 lists every act in one issue with its summary.
 
 The request bodies in templates/screenservices.json were captured from the
-site. They carry the site's module and API version tokens; when the site is
-redeployed those change and the calls fail with a version error. Re-capture
-the templates then (see README).
+site. Their version tokens change on every redeploy, so sync_versions()
+refreshes them from the live site before the first call. If the request
+bodies themselves ever change shape, re-capture the templates (see README).
 """
 
 from __future__ import annotations
@@ -36,6 +36,39 @@ class ArchiveError(RuntimeError):
     pass
 
 
+_versions_synced = False
+
+
+def _get(path: str) -> bytes:
+    req = urllib.request.Request(BASE + path, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=60) as resp:
+        return resp.read()
+
+
+def sync_versions() -> None:
+    """Refresh the templates' version tokens from the live site.
+
+    The site sends a new module version on every redeploy and rejects calls
+    that carry the old one. Both tokens are public: the module version is in
+    /moduleservices/moduleinfo, and each endpoint's API version sits next to
+    its URL in the screen's own script.
+    """
+    global _versions_synced
+    if _versions_synced:
+        return
+    manifest = json.loads(_get("/dr/moduleservices/moduleinfo"))["manifest"]
+    scripts = {"calendar": "/dr/scripts/dr.Home.home.mvc.js",
+               "issue": "/dr/scripts/dr.Legislacao_Conteudos.Conteudo_Det_Diario.mvc.js"}
+    for name, script in scripts.items():
+        info = TEMPLATES[name]["body"]["versionInfo"]
+        info["moduleVersion"] = manifest["versionToken"]
+        js = _get(script + manifest["urlVersions"].get(script, "")).decode("utf-8", "replace")
+        m = re.search(re.escape(TEMPLATES[name]["url"].lstrip("/").removeprefix("dr/")) + r'", "([^"]+)"', js)
+        if m:
+            info["apiVersion"] = m.group(1)
+    _versions_synced = True
+
+
 def _post(path: str, body: dict, timeout: int = 60) -> dict:
     # The site rejects anonymous calls without the header; any value, even
     # empty, is accepted.
@@ -59,6 +92,7 @@ def _post(path: str, body: dict, timeout: int = 60) -> dict:
 
 def issues_on(date: str) -> list[dict]:
     """Issues published on a date: [{id, series, number, supplement}]."""
+    sync_versions()
     body = copy.deepcopy(TEMPLATES["calendar"]["body"])
     body["screenData"]["variables"]["DataPublicacaoDRToShow"] = date
     data = _post(TEMPLATES["calendar"]["url"], body)
