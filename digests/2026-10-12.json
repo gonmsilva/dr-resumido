@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-12",
+  "overview": "Dia tranquilo em termos de legislação: o Parlamento recomenda apoio à vindima do Douro e ao montado, e os notários passam a poder apostilar documentos. Nas autarquias, destaque para a alteração ao PDM do Porto, o loteamento da Quinta da Granja de Cima em Lisboa e as novas taxas em Cascais.",
+  "highlights": [
+    {
+      "id": "1179433115",
+      "headline": "Notários passam a poder apostilar documentos",
+      "explanation": "Nova portaria regulamenta a legalização de documentos através da aposição de apostilas pelos notários, o que pode facilitar a quem precisa de usar documentos portugueses no estrangeiro.",
+      "tags": ["justica", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1179331393",
+      "headline": "Segunda alteração ao PDM do Porto",
+      "explanation": "É publicada a segunda alteração ao Plano Diretor Municipal do Porto, que define as regras de uso do solo e de construção na cidade.",
+      "tags": ["habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1179331173",
+      "headline": "Lisboa abre discussão pública do loteamento da Quinta da Granja de Cima",
+      "explanation": "Está aberto o período de discussão pública da operação de loteamento da Quinta da Granja de Cima, em Lisboa.",
+      "tags": ["habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1179331166",
+      "headline": "Cascais altera a tabela de taxas e licenças municipais",
+      "explanation": "Terceira alteração ao Regulamento de Cobrança e Tabela de Taxas, Licenças e Outras Receitas Municipais de Cascais, com impacto no que residentes e empresas pagam ao município. Está também em consulta pública uma alteração ao regulamento de benefícios fiscais do concelho.",
+      "tags": ["impostos", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1179433113",
+      "headline": "Parlamento recomenda apoio extraordinário à vindima do Douro",
+      "explanation": "A Assembleia da República recomenda ao Governo a criação de um mecanismo extraordinário de apoio à vindima de 2026 na Região Demarcada do Douro. É uma recomendação, sem efeito vinculativo imediato.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1179433106",
+      "headline": "Governo acelera o Programa Alcateia 2025-2035",
+      "explanation": "Despacho da ministra do Ambiente e Energia acelera a execução do programa de conservação do lobo e reforça a proteção do habitat, das presas selvagens e dos efetivos pecuários.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1179433114", "note": "Resolução recomenda ao Governo medidas de apoio ao montado.", "tags": ["empresas", "energia"] },
+    { "id": "1179433112", "note": "Parlamento recomenda medidas para melhorar as condições de vida de pessoas com esclerose lateral amiotrófica.", "tags": ["social", "saude"] },
+    { "id": "1179331077", "note": "Rede de rega do Xévora: acréscimo de despesa, reprogramação de encargos plurianuais e trabalhos complementares.", "tags": ["infraestruturas", "empresas"] },
+    { "id": "1179330869", "note": "Regulamento de Gestão das Praias Marítimas do troço Caminha-Espinho.", "tags": ["energia", "estado"] },
+    { "id": "1179331386", "note": "Pombal aprova operações de reabilitação urbana sistemática na Aldeia do Vale (e na Pelariga).", "tags": ["habitacao"] },
+    { "id": "1179433111", "note": "Parlamento aprecia o relatório «Portugal na União Europeia 2025».", "tags": ["estado"] },
+    { "id": "1179331407", "note": "Alteração ao PDM de Vagos; a Povoação conclui a 1.ª revisão do seu PDM.", "tags": ["habitacao"] }
+  ]
+}

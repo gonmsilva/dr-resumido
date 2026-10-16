@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-13",
+  "overview": "Dia forte em matéria de impostos e habitação: sai a portaria com os limites de renda do Arrendamento Acessível simplificado e o coeficiente de atualização dos escalões de IRS. O Governo fixa ainda a tarifa social de eletricidade para 2027.",
+  "highlights": [
+    {
+      "id": "1179722108",
+      "headline": "Definidos os limites de renda do Arrendamento Acessível simplificado",
+      "explanation": "Nova portaria fixa os limites máximos de renda por tipologia no Regime Simplificado de Arrendamento Acessível, afetando senhorios e inquilinos que aderem ao regime.",
+      "tags": ["habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1179722109",
+      "headline": "Publicado o coeficiente de atualização dos escalões de IRS",
+      "explanation": "A portaria divulga as taxas de variação do deflator do PIB e do PIB por trabalhador e o coeficiente de atualização dos escalões de rendimento coletável do IRS, base para o ajustamento dos escalões.",
+      "tags": ["impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1179418036",
+      "headline": "Tarifa social de eletricidade fixada para 2027",
+      "explanation": "Despacho da ministra do Ambiente e Energia fixa a tarifa social de fornecimento de energia elétrica aplicável a partir de 1 de janeiro de 2027, relevante para as famílias economicamente vulneráveis.",
+      "tags": ["energia", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1179418015",
+      "headline": "Escolas migram a gestão escolar para a cloud",
+      "explanation": "Despacho do ministro da Educação define a migração dos sistemas de informação de gestão escolar para ambiente cloud, a atualização das aplicações, a exportação de dados e o registo das atividades letivas.",
+      "tags": ["educacao", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1179417994", "note": "Eleições intercalares para a Assembleia de Freguesia de Paçô (Arcos de Valdevez) marcadas para 10 de janeiro de 2027.", "tags": ["estado"] },
+    { "id": "1179417989", "note": "Reconhecida a Fundação António Oliveira.", "tags": ["estado"] },
+    { "id": "1179417990", "note": "Reversão de expropriação de 324 m2 na obra de modernização da linha de Vendas Novas, em Muge (Salvaterra de Magos).", "tags": ["infraestruturas"] },
+    { "id": "1179418842", "note": "Seixal aprova alteração ao estudo conjunto da UOPG 18, Quinta do Paço/Quinta da Atalaia.", "tags": ["habitacao"] },
+    { "id": "1179418856", "note": "Valença propõe alterar as taxas da piscina municipal e do court de ténis.", "tags": ["impostos"] }
+  ]
+}

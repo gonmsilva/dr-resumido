@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-14",
+  "overview": "O Governo ajustou as tabelas de retenção na fonte de IRS para novembro e regulamentou o reembolso do suplemento extraordinário de pensão dos reformados da banca. Foram ainda autorizadas despesas públicas com gás natural, combustíveis e eletricidade, e a Assembleia da República constituiu uma comissão de inquérito à atuação de Luís Neves na Polícia Judiciária.",
+  "highlights": [
+    {
+      "id": "1180337885",
+      "headline": "Novas tabelas de retenção de IRS para novembro",
+      "explanation": "O Ministério das Finanças aprovou ajustamentos às tabelas de retenção na fonte de IRS que se aplicam aos salários e pensões pagos em novembro de 2026. Afeta o valor líquido recebido por trabalhadores e pensionistas.",
+      "tags": ["impostos", "trabalho"],
+      "importance": "high"
+    },
+    {
+      "id": "1180100664",
+      "headline": "Reembolso do suplemento extraordinário de pensão na banca",
+      "explanation": "Portaria das Finanças e da Segurança Social que regulamenta o procedimento de reembolso do suplemento extraordinário de pensão dos pensionistas do setor bancário. Interessa aos reformados da banca e às instituições envolvidas.",
+      "tags": ["social", "banca"],
+      "importance": "high"
+    },
+    {
+      "id": "1180100660",
+      "headline": "Estado autoriza despesas com gás, combustíveis e eletricidade",
+      "explanation": "Três resoluções do Conselho de Ministros autorizam a assunção de encargos orçamentais para o fornecimento de gás natural, combustíveis rodoviários e eletricidade ao Estado. As resoluções sobre combustíveis e eletricidade têm os ids 1180100661 e 1180100662.",
+      "tags": ["energia", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1180337913",
+      "headline": "Constituída comissão de inquérito sobre Luís Neves e a PJ",
+      "explanation": "A Assembleia da República constituiu a comissão parlamentar de inquérito para avaliar a atuação de Luís Neves como diretor da Polícia Judiciária (2018-2026) e a eventual responsabilidade dos membros do Governo que o nomearam e tutelaram.",
+      "tags": ["justica", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1180100329", "note": "A Docapesca abriu consulta pública do projeto de Regulamento Específico de Tarifas para 2027 (portos e lotas).", "tags": ["empresas", "infraestruturas"] },
+    { "id": "1180100345", "note": "Figueira de Castelo Rodrigo aprovou medidas de desagravamento fiscal para fomentar a oferta de habitação.", "tags": ["habitacao", "impostos"] },
+    { "id": "1180100368", "note": "Odivelas aprovou o seu regulamento de atribuição de benefícios fiscais municipais.", "tags": ["impostos", "estado"] },
+    { "id": "1180100584", "note": "Sernancelhe aprovou novo regulamento e tabela de taxas municipais.", "tags": ["impostos"] },
+    { "id": "1180100663", "note": "Retificado o Decreto-Lei n.º 188/2026, que transpõe parcialmente a diretiva europeia sobre energias renováveis.", "tags": ["energia"] },
+    { "id": "1180100023", "note": "Reprogramados os encargos plurianuais da empreitada do Centro de Dados do Centro Nacional de Computação Avançada.", "tags": ["educacao", "infraestruturas"] },
+    { "id": "1180100659", "note": "A Assembleia da República recomenda ao Governo um programa de melhoria do atendimento às vítimas de violência sexual no SNS.", "tags": ["saude", "social"] },
+    { "id": "1180100582", "note": "O Seixal aprovou a delimitação da unidade de execução da UOPG 14, Quinta da Fábrica.", "tags": ["habitacao"] }
+  ]
+}

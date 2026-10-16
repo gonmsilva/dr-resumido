@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-15",
+  "overview": "Dia calmo. Destaque para a atualização dos coeficientes de desvalorização da moeda, relevantes para o cálculo de mais-valias na venda de imóveis e outros bens, e para o ajuste das tabelas de retenção de IRS nos Açores em novembro.",
+  "highlights": [
+    {
+      "id": "1180341125",
+      "headline": "Atualizados os coeficientes de desvalorização da moeda",
+      "explanation": "Portaria das Finanças atualiza os coeficientes aplicados aos bens e direitos alienados durante 2026. Interessa a quem vende imóveis ou outros ativos e precisa de calcular mais-valias.",
+      "tags": ["impostos", "habitacao"],
+      "importance": "medium"
+    },
+    {
+      "id": "1180906813",
+      "headline": "Retenção de IRS nos Açores ajustada para novembro",
+      "explanation": "Aprovados ajustamentos às tabelas de retenção na fonte de IRS para novembro de 2026 na Região Autónoma dos Açores. Afeta o rendimento líquido mensal de trabalhadores e pensionistas da região.",
+      "tags": ["impostos", "trabalho"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1180906513", "note": "Esposende tem em consulta o projeto de Regulamento Municipal de Benefícios Fiscais.", "tags": ["impostos", "estado"] },
+    { "id": "1180906520", "note": "Faro abriu consulta pública do projeto de Regulamento Geral de Taxas do município.", "tags": ["impostos"] },
+    { "id": "1180906546", "note": "Rio Maior adotou normas provisórias no âmbito da revisão do PDM, na zona do Alto da Serra.", "tags": ["habitacao"] },
+    { "id": "1180906525", "note": "Horta suspende parcialmente o Plano de Urbanização da cidade e fixa medidas preventivas.", "tags": ["habitacao"] },
+    { "id": "1180906199", "note": "Novas normas para a autorização de utilização especial de medicamentos veterinários, com tramitação eletrónica.", "tags": ["saude", "empresas"] },
+    { "id": "1180337927", "note": "Alterados os encargos da empreitada do bloco de partos do Hospital de Santa Luzia, em Viana do Castelo.", "tags": ["saude", "infraestruturas"] },
+    { "id": "1180337928", "note": "Marcadas eleições intercalares para 10 de janeiro de 2027 na freguesia de Ferreira do Alentejo (e na de Rapoula do Côa, por despacho separado).", "tags": ["estado"] }
+  ]
+}

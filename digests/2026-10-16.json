@@ -1,19 +1,12 @@
 {
   "date": "2026-10-16",
-  "overview": "O Governo escolheu a proposta vencedora para a venda direta de referência de ações da TAP e reviu as taxas do imposto sobre os produtos petrolíferos, com efeito no preço dos combustíveis. O Estado abre ainda negociações para refinanciar a subconcessão rodoviária do Baixo Alentejo e para ampliar o Hospital de Cascais.",
+  "overview": "O Governo escolheu a proposta vencedora para a venda direta de referência de ações da TAP, o passo central da reprivatização da companhia. O Estado abre ainda negociações para refinanciar a subconcessão rodoviária do Baixo Alentejo e para ampliar o Hospital de Cascais.",
   "highlights": [
     {
       "id": "1182082413",
       "headline": "Governo escolhe comprador para a privatização parcial da TAP",
       "explanation": "Uma resolução do Conselho de Ministros seleciona a proposta de aquisição de ações da TAP na venda direta de referência, um passo decisivo na reprivatização da companhia aérea. O resumo publicado não identifica o comprador nem os termos.",
       "tags": ["empresas", "infraestruturas"],
-      "importance": "high"
-    },
-    {
-      "id": "1182897092",
-      "headline": "Revistas as taxas do imposto sobre combustíveis (ISP)",
-      "explanation": "Uma portaria das Finanças e do Ambiente revê e fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, o que pesa diretamente no preço da gasolina e do gasóleo nas bombas. O resumo não indica se as taxas sobem ou descem.",
-      "tags": ["impostos", "energia"],
       "importance": "high"
     },
     {
@@ -39,6 +32,7 @@
     }
   ],
   "other": [
+    { "id": "1182897092", "note": "Nova revisão periódica das taxas do imposto sobre os produtos petrolíferos (ISP).", "tags": ["impostos", "energia"] },
     { "id": "1182082159", "note": "Vila Nova de Famalicão aprova um regulamento de benefícios fiscais sobre imóveis.", "tags": ["impostos", "habitacao"] },
     { "id": "1182082127", "note": "Lajes do Pico cria uma taxa turística municipal.", "tags": ["impostos", "empresas"] },
     { "id": "1182082091", "note": "Azambuja inicia a sexta alteração ao seu Plano Diretor Municipal.", "tags": ["habitacao"] },
