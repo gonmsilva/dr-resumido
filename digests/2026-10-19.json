@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-19",
+  "overview": "O desconto temporário no imposto sobre os combustíveis é prolongado e a ERSE altera as tarifas de eletricidade em vigor desde 1 de outubro. O Governo arranca com a passagem de terrenos portuários sem uso portuário para as câmaras de Lisboa, Almada, Oeiras e Sines, e o Banco Português de Fomento passa a ser a agência de crédito à exportação. O Parlamento aprovou ainda uma série de recomendações sobre crédito à habitação, IMI e alívio fiscal, que não obrigam o Governo.",
+  "highlights": [
+    {
+      "id": "1182082463",
+      "headline": "Prolongado o desconto no imposto sobre os combustíveis",
+      "explanation": "A lei que baixou temporariamente os limites mínimos das taxas do ISP, aprovada em abril, continua em vigor por mais tempo. Mantém a margem para o Governo segurar o preço da gasolina e do gasóleo na bomba.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1182870620",
+      "headline": "ERSE altera as tarifas de eletricidade em vigor desde outubro",
+      "explanation": "A reguladora muda a diretiva que fixa as tarifas e preços da eletricidade para 2026 e os parâmetros do período regulatório 2026-2029, com efeitos a partir de 1 de outubro. Afeta as faturas de todos os consumidores com tarifas reguladas e as tarifas de acesso às redes.",
+      "tags": ["energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1182268047",
+      "headline": "Terrenos do porto sem uso portuário vão passar para Lisboa, Almada, Oeiras e Sines",
+      "explanation": "O Governo cria comissões para identificar as áreas portuárias e urbanas não afetas à atividade portuária a transferir para estas quatro câmaras. Abre caminho a que as autarquias decidam o futuro de zonas ribeirinhas, incluindo para turismo e desenvolvimento económico.",
+      "tags": ["infraestruturas", "habitacao", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1182268051",
+      "headline": "Banco Português de Fomento passa a ser a agência de crédito à exportação",
+      "explanation": "O banco público recebe o mandato geral para apoiar as exportações com seguros e garantias em nome do Estado e é aprovada uma nova linha de crédito de curto prazo para exportadores.",
+      "tags": ["empresas", "banca"],
+      "importance": "medium"
+    },
+    {
+      "id": "1182082464",
+      "headline": "Parlamento pede proteção para quem tem crédito à habitação",
+      "explanation": "Uma resolução recomenda ao Governo medidas para proteger as famílias com empréstimo à casa perante o risco de subida dos juros ligada ao agravamento da situação no Médio Oriente. É uma recomendação, não cria medidas por si.",
+      "tags": ["habitacao", "banca"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1182082467", "note": "Recomendação ao Governo para rever as deduções fixas ao IMI para famílias com dependentes.", "tags": ["impostos", "habitacao"] },
+    { "id": "1182082465", "note": "Recomendação para identificar e usar mais imóveis públicos para habitação.", "tags": ["habitacao", "estado"] },
+    { "id": "1182082470", "note": "Recomendação genérica ao Governo de medidas de alívio fiscal; outras duas pedem incentivos fiscais e sociais à natalidade.", "tags": ["impostos", "social"] },
+    { "id": "1182082473", "note": "Nova alteração às regras dos apoios às explorações agrícolas.", "tags": ["empresas"] },
+    { "id": "1182870587", "note": "Atualizados os valores máximos da compensação paga a dadores de óvulos e espermatozoides; outro despacho reforça o acesso dos centros públicos de PMA a gâmetas.", "tags": ["saude"] },
+    { "id": "1182870909", "note": "Lagoa (Algarve) aprova regulamento para limitar e ordenar o crescimento do alojamento local.", "tags": ["habitacao", "empresas"] },
+    { "id": "1182870938", "note": "Paredes cria regulamento da taxa municipal turística.", "tags": ["impostos", "empresas"] },
+    { "id": "1182082462", "note": "Nova lei com as regras de uso de bandeiras nos edifícios públicos.", "tags": ["estado"] }
+  ]
+}
