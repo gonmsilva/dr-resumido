@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-20",
+  "overview": "O Estado reforça a garantia pública que permite aos bancos conceder crédito à habitação a jovens até aos 35 anos. O Governo altera o regime excecional de reconstrução nos concelhos atingidos pela tempestade «Kristin», aumenta o apoio à pequena pesca face à subida dos combustíveis e fixa o montante dos apoios à comunicação social regional e local para 2026.",
+  "highlights": [
+    {
+      "id": "1182979642",
+      "headline": "Reforçada a garantia do Estado ao crédito à habitação para jovens",
+      "explanation": "O Tesouro autoriza o reforço da garantia pública dada aos bancos para viabilizar empréstimos para habitação própria permanente a jovens até aos 35 anos. Na prática, alarga a capacidade do programa para continuar a financiar a compra de casa sem entrada.",
+      "tags": ["habitacao", "banca"],
+      "importance": "high"
+    },
+    {
+      "id": "1183482554",
+      "headline": "Alterado o regime de reconstrução após a tempestade «Kristin»",
+      "explanation": "Novo decreto-lei muda o regime excecional e temporário de simplificação administrativa e financeira criado em fevereiro para reconstruir património e infraestruturas nos concelhos afetados pela tempestade. Interessa às autarquias, empresas de construção e proprietários dessas zonas.",
+      "tags": ["infraestruturas", "habitacao", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1183482555",
+      "headline": "Mais apoio à pequena pesca por causa do preço dos combustíveis",
+      "explanation": "Portaria aumenta o apoio do programa Mar 2030 às embarcações da pequena pesca, para compensar a subida dos custos dos combustíveis provocada pela crise no Médio Oriente.",
+      "tags": ["empresas", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1182979630",
+      "headline": "Fixado o valor dos apoios do Estado à imprensa regional e local em 2026",
+      "explanation": "Despacho conjunto das Finanças, Presidência e Economia determina o montante total de apoios públicos à comunicação social de âmbito regional e local a atribuir este ano.",
+      "tags": ["empresas", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1182979631", "note": "Criada comissão para identificar áreas portuárias e urbanas não afetas ao porto a transferir para o Município de Setúbal.", "tags": ["infraestruturas", "estado"] },
+    { "id": "1182979632", "note": "Criada comissão idêntica para a transferência de áreas portuárias não usadas pelo porto para o Município de Aveiro.", "tags": ["infraestruturas", "estado"] },
+    { "id": "1182979641", "note": "Mantida a garantia do Estado ao empréstimo do Banco Europeu de Investimento à APDL (portos do Douro, Leixões e Viana do Castelo).", "tags": ["infraestruturas", "banca"] },
+    { "id": "1183482553", "note": "Parlamento recomenda ao Governo reforçar a proteção dos consumidores dos Açores e da Madeira nas compras online.", "tags": ["empresas"] },
+    { "id": "1182979671", "note": "Autorizado o uso de solo da Reserva Agrícola Nacional pela fábrica de armas Browning Viana para construir duas carreiras de tiro.", "tags": ["energia", "empresas"] },
+    { "id": "1183482475", "note": "Mação publica o novo Regulamento Geral de Taxas e Preços municipais.", "tags": ["impostos", "estado"] },
+    { "id": "1183482512", "note": "Vila do Porto (Santa Maria, Açores) põe em discussão pública novo regulamento e tabela de taxas municipais.", "tags": ["impostos", "estado"] }
+  ]
+}
