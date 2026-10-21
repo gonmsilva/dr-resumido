@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-21",
+  "overview": "Dia calmo. O Governo autoriza Portugal a entrar na segunda edição da European Tech Champions Initiative, o fundo de fundos do BEI para empresas tecnológicas em crescimento. No plano local, Loures mexe na taxa turística e Chaves aprova novas regras para as taxas urbanísticas.",
+  "highlights": [
+    {
+      "id": "1184061220",
+      "headline": "Portugal entra na European Tech Champions Initiative 2.0",
+      "explanation": "O Conselho de Ministros autoriza a participação do país na nova edição da iniciativa do Grupo Banco Europeu de Investimento, que financia fundos de capital de risco para empresas tecnológicas europeias em fase de crescimento.",
+      "tags": ["empresas", "banca"],
+      "importance": "medium"
+    },
+    {
+      "id": "1184054953",
+      "headline": "Loures altera a taxa municipal turística",
+      "explanation": "A Câmara de Loures publica uma alteração ao regulamento da taxa turística cobrada aos hóspedes no concelho. O resumo não indica os novos valores nem as regras alteradas.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1184054939",
+      "headline": "Chaves aprova novo regulamento de taxas urbanísticas",
+      "explanation": "O município de Chaves aprova um regulamento perequativo das taxas e encargos urbanísticos, que define quanto pagam os promotores de obras e loteamentos no concelho.",
+      "tags": ["habitacao", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1184061224", "note": "Açores aprovam o quadro plurianual de programação orçamental para 2027–2030.", "tags": ["impostos", "estado"] },
+    { "id": "1184061225", "note": "Açores criam o Programa Modelo de Apoio à Vida Independente para pessoas com deficiência.", "tags": ["social"] },
+    { "id": "1184061222", "note": "Reforço da despesa com o novo bloco cirúrgico do Hospital das Forças Armadas, em Lisboa.", "tags": ["saude", "estado"] },
+    { "id": "1184061221", "note": "Força Aérea autorizada a gastar em 2027–2028 nas inspeções e manutenção dos F-16.", "tags": ["empresas", "estado"] },
+    { "id": "1184054952", "note": "Loures prolonga a suspensão parcial e as medidas preventivas do Plano de Pormenor da Quinta do Correio Mor.", "tags": ["habitacao"] },
+    { "id": "1184054954", "note": "Madalena (Pico) põe em discussão a criação de uma taxa turística.", "tags": ["impostos"] },
+    { "id": "1184054649", "note": "Aprovado o Plano de Ação para a Conservação do Lince-Ibérico 2026–2030.", "tags": ["energia"] },
+    { "id": "1184054921", "note": "ESTAMO publica lista provisória de imóveis do Estado para justificação administrativa.", "tags": ["habitacao", "estado"] }
+  ]
+}
