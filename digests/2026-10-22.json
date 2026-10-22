@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-22",
+  "overview": "O Governo cria um regime especial de acesso público aos medicamentos para a obesidade e autoriza a compra de mais três aviões KC-390 para a Força Aérea. Na saúde, há ainda novas regras para articular as urgências do SNS; no trabalho, reforça-se a proteção contra substâncias cancerígenas e abre o PARES 3.0 para lares residenciais e centros para pessoas com deficiência.",
+  "highlights": [
+    {
+      "id": "1184326806",
+      "headline": "Medicamentos para a obesidade passam a ter regime especial de acesso público",
+      "explanation": "Uma portaria do Ministério da Saúde define um regime especial de disponibilização pública para medicamentos destinados ao tratamento da obesidade.",
+      "tags": ["saude"],
+      "importance": "high"
+    },
+    {
+      "id": "1184326803",
+      "headline": "Governo autoriza compra de mais três aviões KC-390",
+      "explanation": "O Conselho de Ministros autoriza a despesa plurianual para adquirir três aeronaves KC-390, com equipamento de guerra eletrónica, formação e apoio logístico.",
+      "tags": ["empresas", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1184128958",
+      "headline": "Novas regras para organizar as urgências do SNS",
+      "explanation": "Despacho da ministra da Saúde fixa princípios de organização e articulação entre a urgência externa e a urgência interna dos hospitais do SNS, numa área sob pressão constante.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1184326799",
+      "headline": "Mais proteção para trabalhadores expostos a substâncias cancerígenas",
+      "explanation": "Decreto-lei transpõe diretivas europeias sobre a exposição no trabalho a agentes cancerígenos, mutagénicos, tóxicos para a reprodução e químicos em geral. Afeta sobretudo empresas industriais, de saúde e de construção, que terão de cumprir regras de segurança mais exigentes.",
+      "tags": ["trabalho", "saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1184326814",
+      "headline": "PARES 3.0 abre candidaturas para lares residenciais e centros para pessoas com deficiência",
+      "explanation": "É aprovado o aviso de candidaturas do programa PARES 3.0 para criar ou alargar Centros de Atividades e Capacitação para a Inclusão (CACI) e Lares Residenciais, respostas sociais dirigidas a pessoas com deficiência.",
+      "tags": ["social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1184326800", "note": "Transposta diretiva europeia com procedimentos uniformes de controlo do transporte rodoviário de mercadorias perigosas.", "tags": ["infraestruturas", "empresas"] },
+    { "id": "1184326802", "note": "Verbas não gastas do Plano Nacional de Desenvolvimento Desportivo vão para requalificar instalações desportivas.", "tags": ["estado", "impostos"] },
+    { "id": "1184326805", "note": "Portugal aprova a Convenção n.º 167 da OIT sobre segurança e saúde na construção.", "tags": ["trabalho"] },
+    { "id": "1184371675", "note": "Tribunal Constitucional aceita que não haja recurso para a Relação quando o tribunal confirma a cassação da carta de condução.", "tags": ["justica"] },
+    { "id": "1184128924", "note": "Autorizada a participação portuguesa na Coalition of the Willing em 2026; outra portaria autoriza a Operação Noble Shield da NATO.", "tags": ["estado"] },
+    { "id": "1184128961", "note": "Reprogramados os encargos plurianuais do programa Floresta Ativa.", "tags": ["energia"] },
+    { "id": "1184372026", "note": "Viseu põe em consulta a alteração ao regulamento de compensações e encargos urbanísticos.", "tags": ["habitacao", "impostos"] }
+  ]
+}
