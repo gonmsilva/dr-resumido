@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-23",
+  "overview": "Dia calmo na legislação. O Ministério das Finanças altera os limites de emissão de dívida pública do IGCP para 2026 e cria uma equipa para as Parcerias para o Arrendamento Acessível; na saúde, os participantes em ensaios clínicos passam a ter regras para continuar a receber gratuitamente o medicamento depois do ensaio.",
+  "highlights": [
+    {
+      "id": "1184415254",
+      "headline": "Finanças mexem nos limites de emissão de dívida pública para 2026",
+      "explanation": "Despacho do Ministro das Finanças altera os limites fixados em janeiro para a emissão de dívida pelo IGCP, dentro do quadro do Orçamento do Estado para 2026. O resumo não indica os novos montantes.",
+      "tags": ["impostos", "banca"],
+      "importance": "high"
+    },
+    {
+      "id": "1184835233",
+      "headline": "Medicamentos gratuitos para quem termina um ensaio clínico",
+      "explanation": "Nova portaria regulamenta como os participantes em ensaios clínicos podem continuar a receber, sem custos, os medicamentos e dispositivos médicos testados depois de terminada a sua participação.",
+      "tags": ["saude"],
+      "importance": "medium"
+    },
+    {
+      "id": "1184415255",
+      "headline": "Equipa de projeto para as Parcerias para o Arrendamento Acessível",
+      "explanation": "A Entidade do Tesouro e Finanças cria uma equipa dedicada às Parcerias para o Arrendamento Acessível, o programa de habitação com rendas abaixo do mercado em parceria com privados.",
+      "tags": ["habitacao", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1184834917",
+      "headline": "Esposende passa a cobrar taxa turística",
+      "explanation": "O município publica o regulamento para cobrança da taxa turística, que se aplica a quem pernoita no concelho.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1184835230", "note": "Parlamento recomenda ao Governo reforçar o financiamento e os meios das associações humanitárias de bombeiros.", "tags": ["estado"] },
+    { "id": "1184835231", "note": "Parlamento recomenda uma estratégia integrada de combate ao incendiarismo nos fogos rurais.", "tags": ["energia", "justica"] },
+    { "id": "1184415256", "note": "Grupo de trabalho para propor a criação dos Centros Clínicos Universitários, juntando universidades e hospitais.", "tags": ["saude", "educacao"] },
+    { "id": "1184835235", "note": "Alterado o conteúdo obrigatório dos planos de gestão de região hidrográfica, ao abrigo da Lei da Água.", "tags": ["energia"] },
+    { "id": "1184834897", "note": "Almada põe em discussão uma alteração a pontos da sua tabela de taxas municipais.", "tags": ["impostos", "estado"] },
+    { "id": "1184834933", "note": "Machico (Madeira) aprova regulamento municipal do alojamento local.", "tags": ["habitacao", "empresas"] },
+    { "id": "1184835217", "note": "Classificada a Área de Paisagem Protegida Regional da Serra d'Arga.", "tags": ["energia"] },
+    { "id": "1184415257", "note": "ENSE autorizada a repartir encargos da reabilitação da infraestrutura de armazenagem de combustíveis POL NATO.", "tags": ["energia", "infraestruturas"] }
+  ]
+}
