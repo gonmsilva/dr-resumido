@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-26",
+  "overview": "Dia calmo. O Parlamento aprovou a Conta Geral do Estado de 2025 e o Governo lançou o Passaporte Climático das Cidades; os viticultores ganham mais uma alteração às regras de apoio à reestruturação de vinhas.",
+  "highlights": [
+    {
+      "id": "1185031832",
+      "headline": "Parlamento aprova a Conta Geral do Estado de 2025",
+      "explanation": "A Assembleia da República votou a Conta Geral do Estado de 2025, o fecho oficial das receitas e despesas públicas desse ano. É o passo que encerra formalmente a execução do Orçamento de 2025.",
+      "tags": ["impostos", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1185223463",
+      "headline": "Governo cria o Passaporte Climático das Cidades",
+      "explanation": "Um despacho da Ministra do Ambiente e Energia cria esta iniciativa para as cidades e define como funciona, quem a governa e como é financiada. O resumo não detalha os montantes nem os critérios de adesão.",
+      "tags": ["energia", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1185031834",
+      "headline": "Mudam outra vez as regras de apoio à reestruturação de vinhas",
+      "explanation": "A portaria altera as regras nacionais dos apoios à reestruturação e conversão de vinhas (incluindo em modo biológico) do PEPAC e o período excecional de candidaturas da campanha 2026-2027 no continente. Interessa a viticultores com candidaturas em curso ou a preparar.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1185031831", "note": "Suspenso o prazo da comissão parlamentar de inquérito aos negócios dos incêndios rurais.", "tags": ["estado"] },
+    { "id": "1185252029", "note": "Tomar aprova o regulamento da sua taxa turística.", "tags": ["impostos", "empresas"] },
+    { "id": "1185223762", "note": "Lajes do Pico põe em consulta pública a criação de uma taxa turística.", "tags": ["impostos", "empresas"] },
+    { "id": "1185223458", "note": "Publicado o mapa de vagas da residência farmacêutica para 2027.", "tags": ["saude", "educacao"] },
+    { "id": "1185223676", "note": "Aberto o período de oposição ao registo de «Carne do Minho» como indicação geográfica protegida.", "tags": ["empresas"] },
+    { "id": "1185223747", "note": "Carrazeda de Ansiães publica o novo regulamento municipal de urbanização e edificação.", "tags": ["habitacao"] }
+  ]
+}
