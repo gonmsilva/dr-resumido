@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-27",
+  "overview": "Dia calmo. O destaque vai para o Tribunal Constitucional, que derruba com força obrigatória geral a regra que barrava o regresso à Caixa Geral de Aposentações de quem saiu e voltou à função pública depois de 2006. O Governo aprova ainda medidas de valorização para conservadores e oficiais de registos.",
+  "highlights": [
+    {
+      "id": "1186535406",
+      "headline": "Constitucional chumba restrições ao regresso à Caixa Geral de Aposentações",
+      "explanation": "O Tribunal Constitucional declarou inconstitucional, com força obrigatória geral, a norma da Lei n.º 45/2024 que aplicava a proibição de reinscrição na CGA, e os respetivos requisitos, a quem perdeu o vínculo público depois de 1 de janeiro de 2006 e o recuperou até 27 de dezembro de 2024. Estes trabalhadores deixam de estar sujeitos a essa regra.",
+      "tags": ["social", "trabalho", "justica"],
+      "importance": "high"
+    },
+    {
+      "id": "1186535403",
+      "headline": "Medidas de valorização para conservadores e oficiais de registos",
+      "explanation": "Decreto-lei aprova medidas de valorização dos trabalhadores das carreiras especiais de conservador de registos e de oficial de registos, os serviços que tratam de registos civis, prediais e comerciais. O sumário não detalha as medidas.",
+      "tags": ["trabalho", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1186535402", "note": "Alterado o anexo I do Regime Geral da Gestão de Resíduos.", "tags": ["energia"] },
+    { "id": "1186535404", "note": "O Centro de Reabilitação Profissional é fundido no Centro de Educação e Formação Profissional Integrada.", "tags": ["trabalho", "estado"] },
+    { "id": "1186535405", "note": "Extinta a Academia do Empresário, centro de formação para o empreendedorismo e gestão.", "tags": ["empresas", "estado"] },
+    { "id": "1186534804", "note": "Arranca a integração da Escola Superior de Hotelaria e Turismo do Estoril na Universidade NOVA de Lisboa.", "tags": ["educacao"] },
+    { "id": "1186535379", "note": "Lisboa: a Junta de São Vicente aprova o regulamento de taxas do Mercado de Santa Clara.", "tags": ["impostos", "estado"] }
+  ]
+}
