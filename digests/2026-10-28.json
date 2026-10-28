@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-28",
+  "overview": "Dia calmo na legislação. O Tribunal Constitucional anulou a eleição da direção nacional do PAN, a ASF fixou como as seguradoras reportam a sua resiliência digital e o Governo regulou a identificação à distância por reconhecimento facial. Lisboa mantém a videovigilância e os enfermeiros especialistas passam a poder acompanhar gravidezes de baixo risco nos centros de saúde.",
+  "highlights": [
+    {
+      "id": "1187133740",
+      "headline": "Tribunal Constitucional anula eleição da direção do PAN",
+      "explanation": "O Tribunal declarou ilegais regras do regulamento do X Congresso do PAN e, com isso, inválida a eleição da Comissão Política Nacional e do Conselho de Jurisdição Nacional feita em dezembro de 2025. O partido fica sem órgãos nacionais validamente eleitos.",
+      "tags": ["justica", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1185397561",
+      "headline": "Regras para identificação à distância por reconhecimento facial",
+      "explanation": "O Gabinete Nacional de Segurança define os procedimentos para identificar pessoas à distância com sistemas biométricos automáticos de reconhecimento facial. Interessa a quem abre contas ou contrata serviços online com verificação de identidade por vídeo.",
+      "tags": ["estado", "banca"],
+      "importance": "medium"
+    },
+    {
+      "id": "1187133744",
+      "headline": "Seguradoras passam a reportar à ASF a sua resiliência digital",
+      "explanation": "Nova norma da Autoridade de Supervisão de Seguros e Fundos de Pensões fixa o que seguradoras e gestoras de fundos de pensões têm de reportar sobre resiliência operacional digital, no quadro das regras europeias sobre risco informático no setor financeiro.",
+      "tags": ["banca"],
+      "importance": "medium"
+    },
+    {
+      "id": "1187133721",
+      "headline": "Enfermeiros especialistas acompanham gravidezes de baixo risco nos centros de saúde",
+      "explanation": "Um regulamento da Ministra da Saúde organiza a vigilância pré-natal das gravidezes de baixo risco nos cuidados de saúde primários feita por enfermeiros especialistas em saúde materna e obstétrica. Pode aliviar a falta de médicos de família no seguimento das grávidas.",
+      "tags": ["saude", "social"],
+      "importance": "medium"
+    },
+    {
+      "id": "1187133704",
+      "headline": "Lisboa renova autorização de videovigilância na cidade",
+      "explanation": "O Secretário de Estado da Administração Interna renovou a autorização para usar o sistema de videovigilância na cidade de Lisboa.",
+      "tags": ["estado", "justica"],
+      "importance": "medium"
+    },
+    {
+      "id": "1187134330",
+      "headline": "Receitas de futuras barragens vão financiar restauro da Serra da Estrela",
+      "explanation": "A Ministra do Ambiente manda definir um modelo para canalizar receitas das futuras concessões hidroelétricas para o restauro ecológico do Parque Natural da Serra da Estrela.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1185397571", "note": "Segurança Social autorizada a assumir compromissos plurianuais na ação social além dos previstos na lei.", "tags": ["social", "impostos"] },
+    { "id": "1187133726", "note": "Criada comissão técnica para preparar portaria de condições de trabalho para trabalhadores administrativos.", "tags": ["trabalho"] },
+    { "id": "1187134331", "note": "Viana do Castelo põe em consulta pública o novo Regulamento Geral de Taxas e Preços Municipais.", "tags": ["impostos", "estado"] },
+    { "id": "1185397555", "note": "Expropriações urgentes para estabilizar taludes na EN 8 e na EN 9.", "tags": ["infraestruturas"] },
+    { "id": "1187134031", "note": "Odemira aprova o seu Plano Municipal de Ação Climática.", "tags": ["energia", "estado"] },
+    { "id": "1187134325", "note": "Parlamento recomenda ao Governo um observatório da Lagoa de Óbidos.", "tags": ["energia"] }
+  ]
+}
