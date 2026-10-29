@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-29",
+  "overview": "Dia calmo na legislação. O destaque é o avanço da alta velocidade Porto–Lisboa, com expropriações urgentes no troço até Aveiro, a que se juntam um contrato de investimento com a Alubar e o arranque dos trabalhos para um Código do Poder Local.",
+  "highlights": [
+    {
+      "id": "1187134373",
+      "headline": "Alta velocidade: expropriações urgentes no troço Porto–Aveiro",
+      "explanation": "O Governo declara de utilidade pública, com caráter de urgência, as expropriações de terrenos e direitos necessários ao subtroço 3 da ligação Porto (Campanhã)–Aveiro (Oiã) da linha de alta velocidade. Os proprietários abrangidos passam a ver os seus imóveis sujeitos a expropriação para a obra avançar.",
+      "tags": ["infraestruturas", "habitacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1187561689",
+      "headline": "Estado assina contrato de investimento com a Alubar",
+      "explanation": "É aprovada a minuta do contrato de investimento com a Alubar Europe e a Alubar Global Holding, apoiado pelo sistema de incentivos à inovação produtiva e negociado pela AICEP. O despacho não detalha montantes nem localização.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1187561688",
+      "headline": "Grupo de trabalho vai preparar um Código do Poder Local",
+      "explanation": "O Ministério da Economia e da Coesão Territorial cria um grupo de trabalho para redigir um anteprojeto de Código do Poder Local, que deverá reunir as regras que regem municípios e freguesias.",
+      "tags": ["estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1187562293", "note": "Matosinhos aprova o regulamento do programa municipal Casa Acessível.", "tags": ["habitacao"] },
+    { "id": "1187562060", "note": "Barcelos põe em consulta pública o regulamento de uma taxa municipal turística.", "tags": ["impostos", "empresas"] },
+    { "id": "1187561757", "note": "Alterada a distribuição, em 2026, da receita do imposto sobre o tabaco consignada à saúde.", "tags": ["saude", "impostos"] },
+    { "id": "1187561975", "note": "Tribunal Constitucional declara inconstitucionais coimas de um diploma regional dos Açores que excedem os limites do regime geral das contraordenações.", "tags": ["justica"] },
+    { "id": "1187562058", "note": "Amares reclassifica solo rústico em urbano para atividades económicas na freguesia de Fiscal.", "tags": ["habitacao", "empresas"] },
+    { "id": "1187562286", "note": "Lisboa abre concursos para as chefias da Direção Municipal de Habitação e Desenvolvimento Local.", "tags": ["habitacao", "estado"] }
+  ]
+}
