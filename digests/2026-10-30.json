@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-30",
+  "overview": "Dia calmo na legislação. O Governo reprograma os pagamentos da expansão da Linha Vermelha do Metro de Lisboa, reforça o apoio extraordinário à agricultura e floresta e manda estudar uma PPP para o novo hospital de Barcelos-Esposende. A AIMA troca a direção dedicada à igualdade e ao combate ao racismo por uma de migração laboral.",
+  "highlights": [
+    {
+      "id": "1189018886",
+      "headline": "Expansão da Linha Vermelha do Metro de Lisboa com pagamentos reprogramados",
+      "explanation": "O Conselho de Ministros autoriza o Metropolitano de Lisboa a redistribuir pelos próximos anos os encargos plurianuais da expansão da Linha Vermelha. O resumo não indica valores nem prazos novos.",
+      "tags": ["infraestruturas", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1188733028",
+      "headline": "Mais dinheiro para prolongar o apoio extraordinário à agricultura e floresta",
+      "explanation": "Finanças e Agricultura fixam uma dotação adicional para prorrogar o apoio extraordinário aos setores agrícola e florestal. Interessa a agricultores e produtores florestais que já recebiam esta ajuda.",
+      "tags": ["empresas", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1188733063",
+      "headline": "Novo Hospital de Barcelos-Esposende pode avançar em PPP",
+      "explanation": "A ACSS fica encarregada de preparar uma proposta fundamentada para lançar uma parceria público-privada que projete, construa, financie e mantenha o novo hospital. É o primeiro passo; ainda não há concurso.",
+      "tags": ["saude", "infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1188733009",
+      "headline": "AIMA cria direção de migração laboral e extingue a de combate ao racismo",
+      "explanation": "A Agência para a Integração, Migrações e Asilo extingue a direção de serviços para a igualdade e o combate ao racismo e à discriminação (IGUAL) e cria uma Direção de Serviços de Migração Laboral.",
+      "tags": ["estado", "trabalho"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1189018884", "note": "O Parlamento recomenda ao Governo mais meios humanos, técnicos e financeiros para a Entidade para a Transparência.", "tags": ["estado", "justica"] },
+    { "id": "1188733007", "note": "Infraestruturas de Portugal reprograma os encargos da fiscalização das obras para eliminar passagens de nível na Linha do Norte (pk 60 a 66).", "tags": ["infraestruturas"] },
+    { "id": "1188733064", "note": "Publicado o mapa de vagas da Formação Geral 2027 para médicos recém-formados.", "tags": ["saude", "educacao"] },
+    { "id": "1189020579", "note": "A apanha de pinhas de pinheiro-manso abre mais cedo este ano, a 1 de novembro.", "tags": ["empresas", "energia"] },
+    { "id": "1189018877", "note": "Abrem as candidaturas ao Programa de Apoio à Internacionalização da Cultura Portuguesa 2027.", "tags": ["empresas"] }
+  ]
+}
