@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-02",
+  "overview": "Dia calmo. O Governo autoriza a despesa plurianual para modernizar os carros de combate Leopard 2A6 do Exército, cria um grupo de trabalho para negociar o próximo plano de fundos europeus e mexe na orgânica de vários serviços públicos. O Tribunal Constitucional trava a detenção de arguidos só para garantir que comparecem a um exame médico.",
+  "highlights": [
+    {
+      "id": "1190056898",
+      "headline": "Exército autorizado a gastar em vários anos na modernização dos Leopard 2A6",
+      "explanation": "O Conselho de Ministros autoriza o encargo plurianual com a modernização dos carros de combate Leopard 2A6. É uma despesa de defesa com impacto em vários orçamentos e potencial interesse para a indústria do setor.",
+      "tags": ["empresas", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1189962385",
+      "headline": "Grupo de trabalho vai preparar o Plano de Parceria para os próximos fundos europeus",
+      "explanation": "Quatro ministérios criam um grupo de trabalho para preparar, programar e negociar o Plano de Parceria Nacional e Regional, o instrumento que vai enquadrar a aplicação de fundos europeus. É o início do processo que decide para onde irá o dinheiro de Bruxelas.",
+      "tags": ["estado", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1190056897",
+      "headline": "Governo altera a orgânica de vários serviços públicos",
+      "explanation": "Um decreto-lei muda a estrutura de diversos serviços e entidades da Administração Pública. O sumário não diz quais nem em que sentido.",
+      "tags": ["estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1189962466",
+      "headline": "Constitucional trava detenção de arguido só para garantir exame médico",
+      "explanation": "O Tribunal Constitucional julga inconstitucional a interpretação do Código de Processo Penal que permitia deter um arguido que faltou a um exame médico, pelo tempo necessário para o fazer comparecer e realizar o exame.",
+      "tags": ["justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1189962467", "note": "Constitucional confirma que a pena suspensa com deveres ou regime de prova fica fora do perdão de um ano da lei da amnistia de 2023.", "tags": ["justica"] },
+    { "id": "1190056899", "note": "Alterado o contrato de fornecimento de combustíveis operacionais ao Estado para 2026–2028.", "tags": ["energia", "impostos"] },
+    { "id": "1189982255", "note": "Funchal põe em consulta pública o novo regulamento de atribuição de habitação social.", "tags": ["habitacao", "social"] },
+    { "id": "1190056895", "note": "Suspenso o prazo da comissão de inquérito à classificação digital dos exames nacionais de 2025/2026.", "tags": ["estado", "educacao"] },
+    { "id": "1190056896", "note": "Suspenso também o prazo da comissão de inquérito à atuação de Luís Neves à frente da Polícia Judiciária.", "tags": ["estado", "justica"] },
+    { "id": "1190056901", "note": "Fixados perímetros de proteção para águas minerais (Caldas de Chaves, Termas das Gaeiras) e captações de água no Alentejo e Minho.", "tags": ["energia"] }
+  ]
+}
