@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-03",
+  "overview": "Dia dedicado à educação e à ciência: o Governo aprova um novo regime de recrutamento e colocação de professores, revê o regime da educação inclusiva e cria o enquadramento legal do Sistema Nacional de Ciência, Tecnologia e Inovação. A AIMA recebe autorização para pagar a produção dos títulos de residência.",
+  "highlights": [
+    {
+      "id": "1190370816",
+      "headline": "Novo regime de recrutamento e colocação de professores",
+      "explanation": "Decreto-lei aprova novas regras para recrutar e colocar docentes e técnicos especializados nas escolas públicas, substituindo o regime atual dos concursos.",
+      "tags": ["educacao", "trabalho"],
+      "importance": "high"
+    },
+    {
+      "id": "1190370815",
+      "headline": "Revisto o regime da educação inclusiva",
+      "explanation": "Altera o decreto-lei de 2018 sobre educação inclusiva para tornar mais eficazes as respostas às necessidades dos alunos, com um acompanhamento mais integrado e contínuo da criança e do jovem.",
+      "tags": ["educacao", "social"],
+      "importance": "high"
+    },
+    {
+      "id": "1190370817",
+      "headline": "Criado o regime do Sistema Nacional de Ciência, Tecnologia e Inovação",
+      "explanation": "Decreto-lei define o enquadramento jurídico do sistema nacional de ciência, tecnologia e inovação, que organiza as entidades e o financiamento da investigação.",
+      "tags": ["educacao", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1190370818",
+      "headline": "AIMA autorizada a pagar a emissão de títulos de residência",
+      "explanation": "O Conselho de Ministros autoriza a despesa plurianual da AIMA com a Imprensa Nacional-Casa da Moeda para produzir, personalizar e enviar títulos de residência e outros documentos de segurança.",
+      "tags": ["estado", "impostos"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1190078289", "note": "AIMA altera o regulamento do programa Integrar para a Construção, dirigido à integração de imigrantes no setor.", "tags": ["empresas", "trabalho"] },
+    { "id": "1190161550", "note": "Porto abre discussão pública de um loteamento na Avenida de D. Afonso Henriques.", "tags": ["habitacao"] },
+    { "id": "1190161536", "note": "Loures põe em discussão pública a oitava alteração do seu Plano Diretor Municipal.", "tags": ["habitacao"] },
+    { "id": "1190078351", "note": "Diretiva da ERSE de dezembro de 2024 impugnada nos tribunais administrativos do Norte.", "tags": ["energia", "justica"] },
+    { "id": "1190078309", "note": "Marinha autorizada a contratar a dragagem do canal do Alfeite, na Base Naval de Lisboa.", "tags": ["infraestruturas"] },
+    { "id": "1190161780", "note": "Vieira do Minho põe em consulta pública um regulamento de isenção de derrama para empresas.", "tags": ["impostos", "empresas"] }
+  ]
+}
