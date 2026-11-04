@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-04",
+  "overview": "O dia é marcado pela descida das taxas de IRS nos primeiros seis escalões, aprovada ao abrigo da autorização legislativa do Orçamento. O Governo reconhece também como catástrofe natural os incêndios rurais deste verão, para efeitos de apoio aos agricultores, e mexe na linha de tesouraria para o setor do vinho.",
+  "highlights": [
+    {
+      "id": "1190825214",
+      "headline": "IRS desce nos primeiros seis escalões",
+      "explanation": "O Governo altera o Código do IRS e reduz as taxas gerais aplicáveis aos primeiros seis escalões de rendimento coletável, usando a autorização legislativa dada pela Lei n.º 64-B/2026. A medida abrange a grande maioria dos contribuintes com rendimentos baixos e médios.",
+      "tags": ["impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1190568767",
+      "headline": "Incêndios de 2026 reconhecidos como catástrofe natural",
+      "explanation": "O Ministério da Agricultura reconhece como catástrofe natural o conjunto de incêndios rurais ocorridos entre 1 de maio e 15 de outubro de 2026 em vários concelhos e freguesias. O reconhecimento abre caminho aos apoios previstos na Portaria n.º 240/2025/1 para os agricultores afetados.",
+      "tags": ["empresas", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1190825218",
+      "headline": "Alterada a linha de tesouraria para o setor do vinho",
+      "explanation": "É feita a primeira alteração à «Linha de Tesouraria ― Setor Vinícola II», criada em setembro para dar liquidez às empresas do setor. O resumo não detalha o que muda.",
+      "tags": ["empresas", "banca"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1190568764", "note": "Berlengas: revisão do «BerlengasPass», melhoria das condições na reserva natural e receitas afetas ao restauro ecológico.", "tags": ["energia"] },
+    { "id": "1190812245", "note": "Portimão abre consulta pública a um regulamento de benefícios fiscais municipais.", "tags": ["impostos", "estado"] },
+    { "id": "1190812232", "note": "Odivelas põe em discussão pública a área de reabilitação urbana da Póvoa de Santo Adrião e Olival Basto.", "tags": ["habitacao"] },
+    { "id": "1190812233", "note": "Odivelas põe em discussão pública a área de reabilitação urbana de Caneças.", "tags": ["habitacao"] },
+    { "id": "1190568736", "note": "Duas empresas da ANN em Évora (compósitos e estruturas metálicas) recebem nova licença para a indústria de defesa.", "tags": ["empresas"] },
+    { "id": "1190825213", "note": "Alterado o diploma que aprova o Sistema Braille em Portugal.", "tags": ["social", "educacao"] },
+    { "id": "1190825220", "note": "Aprovada a lista de substâncias e métodos proibidos no desporto a partir de 1 de janeiro de 2027.", "tags": ["saude"] }
+  ]
+}
