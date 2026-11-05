@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-05",
+  "overview": "Dia dominado por combustíveis e energia: a Assembleia alarga o regime de IVA dos revendedores de combustíveis e aperta o controlo do setor petrolífero, e o Governo cria um apoio extraordinário a transportadoras de mercadorias e de passageiros. A Madeira mexe nas taxas de IRS dos seus residentes e a ERSE altera o regulamento tarifário da eletricidade.",
+  "highlights": [
+    {
+      "id": "1191346238",
+      "headline": "Mais controlo e novas regras de IVA para revendedores de combustíveis",
+      "explanation": "A lei alarga a mais revendedores de combustíveis líquidos o regime especial de IVA e impostos especiais de consumo que já se aplicava a parte do setor. Reforça também a rastreabilidade, a certificação e a fiscalização das atividades do Sistema Petrolífero Nacional.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1191346239",
+      "headline": "Novo apoio extraordinário a transportadoras de mercadorias e autocarros",
+      "explanation": "O Governo cria um regime complementar de apoio, extraordinário e temporário, para empresas de transporte rodoviário de mercadorias por conta de outrem e operadores de transporte público rodoviário de passageiros. O resumo não indica montantes nem duração.",
+      "tags": ["empresas", "infraestruturas", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1191346240",
+      "headline": "Madeira altera as taxas de IRS dos seus residentes",
+      "explanation": "A Assembleia Legislativa da Madeira muda as taxas de IRS aplicáveis a quem reside na região, ao abrigo da autonomia fiscal regional. Afeta diretamente o imposto pago pelos contribuintes madeirenses.",
+      "tags": ["impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1191166674",
+      "headline": "ERSE muda o regulamento tarifário da eletricidade",
+      "explanation": "Primeira alteração ao Regulamento Tarifário do Setor Elétrico, que define como se calculam as tarifas pagas pelos consumidores. Na mesma edição, a ERSE altera também o quadro dos encargos de regulação do sistema elétrico.",
+      "tags": ["energia"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1191166673", "note": "ERSE revê o enquadramento dos encargos de regulação do Sistema Elétrico Nacional.", "tags": ["energia"] },
+    { "id": "1191345877", "note": "Mecanismo Nacional Anticorrupção emite recomendação sobre contratação pública e novos riscos de corrupção.", "tags": ["estado", "justica"] },
+    { "id": "1191166628", "note": "Exército recebe poderes para avançar com a modernização dos carros de combate Leopard 2A6, despesa plurianual já autorizada.", "tags": ["empresas", "estado"] },
+    { "id": "1191166607", "note": "ULS do Baixo Alentejo autorizada a contratar o projeto de requalificação e ampliação do Hospital José Joaquim Fernandes, em Beja.", "tags": ["saude"] },
+    { "id": "1191166608", "note": "DGRM pode avançar com a Plataforma Nacional Única para o Setor Marítimo, a janela única marítima europeia.", "tags": ["infraestruturas", "empresas"] }
+  ]
+}
