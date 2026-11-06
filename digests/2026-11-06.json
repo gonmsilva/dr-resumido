@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-06",
+  "overview": "O Governo reviu as taxas do imposto sobre os produtos petrolíferos (ISP), o que mexe no preço dos combustíveis, e aprovou um novo regime dos graus e diplomas do ensino superior. O Tribunal Constitucional confirmou que chumbar no exame teórico imposto por perda de pontos leva à cassação da carta, e o Estado garante 70 milhões de euros de dívida da Madeira.",
+  "highlights": [
+    {
+      "id": "1192521445",
+      "headline": "Governo revê as taxas do ISP sobre os combustíveis",
+      "explanation": "Portaria das Finanças e do Ambiente revê e fixa as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos. A alteração reflete-se no preço da gasolina e do gasóleo nas bombas.",
+      "tags": ["impostos", "energia"],
+      "importance": "high"
+    },
+    {
+      "id": "1192107480",
+      "headline": "Novo regime jurídico dos graus e diplomas do ensino superior",
+      "explanation": "Decreto-lei estabelece o regime dos graus académicos e diplomas do ensino superior, que enquadra licenciaturas, mestrados e doutoramentos. Afeta universidades, politécnicos e os estudantes que neles se inscrevem.",
+      "tags": ["educacao"],
+      "importance": "high"
+    },
+    {
+      "id": "1191877379",
+      "headline": "Constitucional confirma cassação da carta a quem chumba no exame teórico obrigatório",
+      "explanation": "O Tribunal Constitucional não julgou inconstitucional a regra do Código da Estrada segundo a qual o condutor obrigado a repetir a prova teórica, e que reprova, perde automaticamente o título de condução.",
+      "tags": ["justica"],
+      "importance": "medium"
+    },
+    {
+      "id": "1191644613",
+      "headline": "Estado garante até 70 milhões de euros de dívida da Madeira",
+      "explanation": "O Secretário de Estado do Tesouro autoriza uma garantia pessoal do Estado à Região Autónoma da Madeira, até 70 milhões de euros, para operações de refinanciamento da dívida em 2026.",
+      "tags": ["impostos", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1192129306", "note": "Autorizada a transferência de verbas de três ministérios para o Instituto para o Ensino Superior em 2026.", "tags": ["educacao", "impostos"] },
+    { "id": "1191877375", "note": "Ajustado o modelo que afeta receitas de futuras concessões hidroelétricas ao restauro ecológico da Serra da Estrela.", "tags": ["energia"] },
+    { "id": "1191644615", "note": "Turismo de Portugal altera a dotação dos apoios aos programas de inovação aberta do FIT 2.0.", "tags": ["empresas"] },
+    { "id": "1192107482", "note": "Terceira alteração às regras de apoio às estratégias de desenvolvimento local do PEPAC.", "tags": ["empresas"] },
+    { "id": "1191877468", "note": "Mafra abre consulta pública a uma reclassificação simplificada de solo ao abrigo do regime dos instrumentos de gestão territorial.", "tags": ["habitacao"] },
+    { "id": "1191877441", "note": "Calheta (São Jorge, Açores) põe em consulta um regulamento para criar uma taxa turística.", "tags": ["impostos", "empresas"] },
+    { "id": "1191644616", "note": "Declarado o interesse público de um hotel rural de 4 estrelas em Resende em 1,8 ha de solos da RAN.", "tags": ["energia", "empresas"] }
+  ]
+}
