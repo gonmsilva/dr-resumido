@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-09",
+  "overview": "Dia calmo. A Assembleia da República aprova as regras do registo público de audiências com lobistas e o Estado dá garantias de 170 milhões de euros ao refinanciamento da dívida da Madeira. Nos Açores, o cheque-dentista é alterado.",
+  "highlights": [
+    {
+      "id": "1192521452",
+      "headline": "Parlamento passa a registar e publicar reuniões com representantes de interesses",
+      "explanation": "A Assembleia da República aprova o regulamento que define como são registadas e tornadas públicas as audiências e contactos com quem representa interesses junto dos deputados. É a peça prática da regulação do lobbying no Parlamento.",
+      "tags": ["estado", "justica"],
+      "importance": "medium"
+    },
+    {
+      "id": "1192158516",
+      "headline": "Estado garante 170 milhões de euros de dívida da Madeira",
+      "explanation": "As Finanças autorizam duas garantias pessoais do Estado à Região Autónoma da Madeira, de 122,1 e 47,9 milhões de euros, para as operações de refinanciamento da dívida regional em 2026. Se a região falhar, é o Estado que responde.",
+      "tags": ["impostos", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1192521453",
+      "headline": "Açores alteram o cheque-dentista",
+      "explanation": "Primeira alteração ao diploma regional de 2025 que criou o cheque-dentista nos Açores. O sumário não detalha o que muda.",
+      "tags": ["saude", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1192158515", "note": "Segunda garantia do Estado à Madeira, de 47,9 milhões de euros, também para refinanciar dívida.", "tags": ["impostos", "estado"] },
+    { "id": "1192521451", "note": "Parlamento recomenda ao Governo reforçar a ajuda humanitária à Venezuela e o apoio consular à comunidade portuguesa e luso-venezuelana.", "tags": ["estado"] },
+    { "id": "1192521450", "note": "Parlamento recomenda ao Governo uma resposta europeia à detenção de Ekrem İmamoğlu e à repressão da oposição na Turquia.", "tags": ["estado"] },
+    { "id": "1192158518", "note": "Canais do aproveitamento hidroagrícola de Silves, Lagoa e Portimão (bloco de Lagoa) deixam o domínio público.", "tags": ["energia", "habitacao"] },
+    { "id": "1192521422", "note": "Freguesia de Santo António (Lisboa) põe em consulta pública as regras da componente de apoio à família nas escolas.", "tags": ["educacao", "social"] },
+    { "id": "1192129330", "note": "Freguesia de São Vicente (Lisboa) abre concurso para explorar o «Bosque Encantado» no Jardim Botto Machado.", "tags": ["estado", "empresas"] }
+  ]
+}
