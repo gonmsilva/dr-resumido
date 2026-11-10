@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-10",
+  "overview": "Dia marcado por resoluções do Governo: apoios aos agricultores para compensar a subida dos custos de produção, um novo programa nacional contra a poluição do ar e alterações ao programa de investimentos na saúde. Na energia, o Governo manda preparar regras técnicas para grandes consumidores ligados à rede elétrica.",
+  "highlights": [
+    {
+      "id": "1193730359",
+      "headline": "Governo dá apoios aos agricultores contra a subida dos custos de produção",
+      "explanation": "Resolução do Conselho de Ministros atribui apoios financeiros ao setor agrícola para mitigar o aumento dos custos de produção. O resumo não indica montantes nem critérios de acesso.",
+      "tags": ["empresas", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1193730357",
+      "headline": "Aprovado o Programa Nacional de Controlo de Poluição Atmosférica",
+      "explanation": "O Governo aprova o programa que define a estratégia do país para reduzir a poluição do ar, com efeitos previsíveis sobre indústria, transportes e agricultura.",
+      "tags": ["energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1192911522",
+      "headline": "Regras técnicas para grandes consumidores de eletricidade em preparação",
+      "explanation": "A Direção-Geral de Energia e Geologia vai elaborar uma proposta de requisitos técnicos para instalações de consumo de elevada potência ligadas à rede elétrica pública. Interessa a quem planeia grandes projetos industriais ou tecnológicos com forte consumo.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1193730358",
+      "headline": "Alterado o Programa de Investimentos na Área da Saúde",
+      "explanation": "O Governo muda a resolução de 2019 que aprovou o programa de investimentos na saúde e a respetiva despesa. O resumo não detalha que projetos ou verbas mudam.",
+      "tags": ["saude", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1193730356",
+      "headline": "Força Aérea autorizada a comprar radar móvel de longo alcance",
+      "explanation": "O Governo autoriza a despesa plurianual com a aquisição de um sistema de radar móvel de longo alcance para a Força Aérea.",
+      "tags": ["impostos", "empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1192911866", "note": "Freguesia de Arroios (Lisboa) publica o seu Regulamento Geral de Taxas e Preços.", "tags": ["impostos", "estado"] },
+    { "id": "1192709968", "note": "Instituto de Informática autorizado a gastar em vários anos na plataforma tecnológica do Sistema de Informação de Pensões.", "tags": ["social", "impostos"] },
+    { "id": "1193730360", "note": "Segurança Social autorizada a contratar serviços postais para 2027 a 2029.", "tags": ["social", "impostos"] },
+    { "id": "1192709974", "note": "Defesa subdelega a assinatura de adendas ao acordo com a Chéquia sobre o financiamento do segundo pacote de equipamento militar para a Ucrânia.", "tags": ["estado"] },
+    { "id": "1192911801", "note": "Alteração por adaptação do Plano Diretor Municipal de Arouca.", "tags": ["habitacao"] },
+    { "id": "1192911531", "note": "Tribunal Constitucional rejeita recursos de PSD, CDS-PP, PPM e MPT sobre contas das autárquicas de 2017 (um de vários acórdãos do dia).", "tags": ["justica", "estado"] }
+  ]
+}
