@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-11",
+  "overview": "Dia calmo. O destaque é o novo regulamento para metros, metros ligeiros, elétricos e comboios turísticos; de resto, expropriações urgentes para reparar a EN 115 após as intempéries e uma autorização de despesa da Segurança Social para pagar prestações por vale postal até 2029.",
+  "highlights": [
+    {
+      "id": "1194495725",
+      "headline": "Novo regulamento para metros, elétricos e comboios turísticos",
+      "explanation": "O Governo aprova o regulamento dos sistemas de transporte ferroviário de passageiros em metropolitano, metro ligeiro, redes ferroviárias isoladas, elétricos e comboios ligeiros turísticos. Aplica-se a operadores como os metros de Lisboa e do Porto e aos elétricos urbanos.",
+      "tags": ["infraestruturas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1193824016",
+      "headline": "Expropriações urgentes para reparar a EN 115 após as intempéries",
+      "explanation": "São declaradas de utilidade pública, com caráter de urgência, as expropriações de terrenos necessárias para repor a plataforma da EN 115 em dois troços danificados pelas intempéries de 2026 (km 63 a 65 e km 67 a 70).",
+      "tags": ["infraestruturas", "habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1194495726", "note": "A Segurança Social fica autorizada a contratar, para 2026–2029, a emissão de vales postais usados para pagar prestações familiares e sociais.", "tags": ["social", "impostos"] },
+    { "id": "1194495724", "note": "Retificação ao orçamento da Assembleia da República para 2027.", "tags": ["impostos", "estado"] },
+    { "id": "1193824030", "note": "Aprovado o memorando para a participação portuguesa no Battlegroup da União Europeia em 2027.", "tags": ["estado"] },
+    { "id": "1194527276", "note": "O instituto que gere o fundo de capitalização da Segurança Social aprova um código de ética e conduta.", "tags": ["social", "banca"] }
+  ]
+}
