@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-12",
+  "overview": "Dia calmo, sem grandes diplomas. O mais relevante é um ajuste às regras de acesso à rede elétrica para quem quer injetar energia, a autorização para a TAP voar entre o Porto e Washington e a compra de drones para as Forças Armadas. A Região Demarcada do Douro passa a ter os seus limites fixados em mapa oficial.",
+  "highlights": [
+    {
+      "id": "1194943497",
+      "headline": "Governo ajusta as regras de gestão dinâmica da capacidade de injeção na rede elétrica",
+      "explanation": "Primeira alteração à portaria de setembro que fixa os procedimentos, formulários e prazos para os pedidos de gestão dinâmica da capacidade de injeção na rede elétrica de serviço público. Interessa a promotores de centrais solares, eólicas e de armazenamento que aguardam ligação à rede.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1194835955",
+      "headline": "TAP autorizada a voar entre o Porto e Washington",
+      "explanation": "A Autoridade Nacional da Aviação Civil autoriza a TAP a explorar serviços aéreos regulares na rota Porto–Washington D.C.–Porto, uma nova ligação direta do Norte aos Estados Unidos.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1194799763",
+      "headline": "Forças Armadas autorizadas a comprar aeronaves não tripuladas",
+      "explanation": "O ministro da Defesa autoriza o Estado-Maior-General das Forças Armadas a assumir a despesa, repartida por vários anos, com a aquisição de drones. O resumo não indica o valor.",
+      "tags": ["empresas", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1194527663",
+      "headline": "Região Demarcada do Douro com limites fixados em mapa oficial",
+      "explanation": "Uma portaria da Agricultura estabelece a representação cartográfica e a descrição da Região Demarcada do Douro, incluindo o entreposto de Vila Nova de Gaia. Dá segurança a produtores e comerciantes de vinho do Douro e do Porto quanto ao território abrangido.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1194836226",
+      "note": "O IGCP publica novas instruções sobre os CEDIC, os certificados de dívida de curto prazo onde as entidades públicas aplicam a sua tesouraria.",
+      "tags": ["banca", "estado"]
+    },
+    {
+      "id": "1194836227",
+      "note": "Instrução equivalente do IGCP para os CEDIM, os certificados especiais de dívida de médio e longo prazos.",
+      "tags": ["banca", "estado"]
+    },
+    {
+      "id": "1194799764",
+      "note": "Portugal e Espanha vão cooperar na instrução e treino de pilotos de aviões Canadair, usados no combate a incêndios; aprovada a minuta do acordo técnico.",
+      "tags": ["estado"]
+    },
+    {
+      "id": "1194799756",
+      "note": "O Instituto de Informática da Segurança Social fica autorizado a contratar, por vários anos, serviços especializados de cibersegurança.",
+      "tags": ["social", "impostos"]
+    },
+    {
+      "id": "1194836273",
+      "note": "Figueira da Foz põe em consulta pública uma alteração simplificada ao PDM para reclassificação de solos.",
+      "tags": ["habitacao"]
+    },
+    {
+      "id": "1194836260",
+      "note": "Chamusca aprova normas provisórias enquanto decorre a revisão do seu Plano Diretor Municipal.",
+      "tags": ["habitacao"]
+    },
+    {
+      "id": "1194799760",
+      "note": "Alterada a delimitação da Reserva Ecológica Nacional no município de Anadia.",
+      "tags": ["energia", "habitacao"]
+    },
+    {
+      "id": "1194527662",
+      "note": "A Casa da Moeda vai cunhar uma moeda de coleção a assinalar os 40 anos de Portugal na União Europeia.",
+      "tags": ["estado"]
+    }
+  ]
+}

@@ -3234,7 +3234,29 @@
       "summary": "Instituto Português de Oncologia de Lisboa Francisco Gentil, EPE Procedimento concursal de recrutamento de pessoal médico para a categoria de assistente graduado sénior, da área hospitalar de patologia clínica, da carreira especial médica e da carreira médica.",
       "link": "https://diariodarepublica.pt/dr/detalhe/aviso/28268-a-2026-1194495729",
       "candidate": false
+    },
+    {
+      "id": "1194586685",
+      "series": "II",
+      "type": "Anúncio de procedimento",
+      "number": "27068/2026",
+      "issue": "219/2026",
+      "date": "2026-11-11",
+      "summary": "Guarda Nacional Republicana Aluguer e higienização de roupa de alojamento para a Escola da Guarda em Queluz até 31 de dezembro de 2026",
+      "link": "https://diariodarepublica.pt/dr/detalhe/anuncio-procedimento/27068-2026-1194586685",
+      "candidate": false
+    },
+    {
+      "id": "1194548140",
+      "series": "II",
+      "type": "Despacho n.º 13836-A/2026 - Diário da República n.º 219/2026, Suplemento, Série II de 2026-11-11",
+      "number": "",
+      "issue": "",
+      "date": "2026-11-11",
+      "summary": "Universidade Nova de Lisboa - Reitoria Prorrogação do prazo para entrega das candidaturas relativas à eleição dos membros da Assembleia Estatutária da Universidade NOVA de Lisboa.",
+      "link": "https://diariodarepublica.pt/dr/detalhe/despacho/13836-a-2026-1194548140",
+      "candidate": true
     }
   ],
-  "fetched_at": "2026-11-11T10:10:42+00:00"
+  "fetched_at": "2026-11-11T14:10:40+00:00"
 }
