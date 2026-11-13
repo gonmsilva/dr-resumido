@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-13",
+  "overview": "Dia calmo. O destaque é a regra de registo predial que acompanha os contratos de investimento para arrendamento: os imóveis abrangidos passam a ter no registo a indicação de que só podem ser vendidos com autorização. Em Loures, avança a expropriação urgente de terrenos para um novo ramo de saída da A1.",
+  "highlights": [
+    {
+      "id": "1194943528",
+      "headline": "Casas dos contratos de investimento para arrendamento ficam marcadas no registo predial",
+      "explanation": "Os imóveis afetos a arrendamento ao abrigo de um contrato de investimento para arrendamento (CIA) passam a ter registado um ónus que obriga a pedir autorização antes de os vender. Quem compra um imóvel fica assim a saber, pelo registo, se ele está preso a um destes contratos.",
+      "tags": ["habitacao", "justica"],
+      "importance": "medium"
+    },
+    {
+      "id": "1194943263",
+      "headline": "Loures expropria com urgência terrenos para nova saída da A1",
+      "explanation": "A Câmara de Loures declarou de utilidade pública urgente a expropriação e a ocupação temporária das parcelas necessárias para um novo ramo de saída da A1 (sentido Sul/Norte) e para uma via que liga a EM504 à EN10, em São João da Talha e Santa Iria da Azoia. Afeta os proprietários desses terrenos e o trânsito na zona norte de Lisboa.",
+      "tags": ["infraestruturas", "habitacao"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1194939021", "note": "O IMPIC publica os índices de custos de materiais e equipamentos de agosto, usados para rever preços nas empreitadas públicas.", "tags": ["infraestruturas", "empresas"] },
+    { "id": "1194939042", "note": "Fixada nova comissão de gestão para a sociedade que gere o Fundo Imobiliário Especial de Apoio às Empresas (FIEAE).", "tags": ["banca", "empresas"] },
+    { "id": "1194939046", "note": "A Força Aérea recebe poderes para avançar com a compra de um radar móvel de longo alcance, já autorizada em despesa plurianual.", "tags": ["empresas", "estado"] },
+    { "id": "1194943530", "note": "A Assembleia Legislativa dos Açores pronuncia-se sobre o orçamento da UE para 2028-2034 e pede que se proteja o estatuto de região ultraperiférica.", "tags": ["estado"] },
+    { "id": "1194943271", "note": "Ourique reabre o processo de alteração do seu Plano Diretor Municipal.", "tags": ["habitacao"] }
+  ]
+}
