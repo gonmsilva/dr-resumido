@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-24",
+  "overview": "Dia calmo. O Governo volta a mexer nas taxas de segurança cobradas nos aeroportos e o Parlamento pede a aplicação em Portugal das novas regras europeias de controlo do investimento estrangeiro. O resto é sobretudo gestão corrente: promoções na Força Aérea, regulamentos municipais e alterações a loteamentos.",
+  "highlights": [
+    {
+      "id": "1197651190",
+      "headline": "Taxas de segurança nos aeroportos são alteradas",
+      "explanation": "Uma portaria altera pela sétima vez o diploma que fixa as taxas de segurança cobradas nos aeroportos da rede ANA e nos restantes aeródromos e aeroportos. Estas taxas são cobradas por passageiro e acabam refletidas no preço dos bilhetes; o resumo não indica os novos valores.",
+      "tags": ["infraestruturas", "impostos", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1197651189",
+      "headline": "Parlamento quer regras europeias de controlo do investimento estrangeiro aplicadas em Portugal",
+      "explanation": "A Assembleia da República recomenda ao Governo que assegure a execução, na lei portuguesa, do regulamento europeu de 2026 sobre a análise dos investimentos estrangeiros na União Europeia. É uma recomendação, sem força obrigatória, mas interessa a quem compra ou vende empresas com capital de fora da UE.",
+      "tags": ["empresas", "estado"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1197651191",
+      "note": "É alterado o regulamento do Fundo de Socorro Social, que financia apoios de emergência a instituições e pessoas em situação de carência.",
+      "tags": ["social"]
+    },
+    {
+      "id": "1197639572",
+      "note": "Melgaço publica o seu Regulamento dos Benefícios Fiscais municipais.",
+      "tags": ["impostos", "estado"]
+    },
+    {
+      "id": "1197639813",
+      "note": "Vila Nova da Barquinha aprova uma alteração simplificada ao PDM para reclassificar solo rústico como urbano.",
+      "tags": ["habitacao"]
+    },
+    {
+      "id": "1197406020",
+      "note": "Expropriações urgentes para reabilitar um aterro e a plataforma do IC 8, danificados pelas intempéries de 2026.",
+      "tags": ["infraestruturas"]
+    },
+    {
+      "id": "1197639818",
+      "note": "Vila Velha de Ródão aprova em definitivo a operação de reabilitação urbana do núcleo antigo da vila.",
+      "tags": ["habitacao"]
+    },
+    {
+      "id": "1197639811",
+      "note": "A Trofa põe em consulta um projeto de regulamento do serviço de gestão de resíduos urbanos.",
+      "tags": ["energia", "estado"]
+    },
+    {
+      "id": "1197639503",
+      "note": "Mudam as regras de registo e comunicação das operações de abate de animais na base de dados +SIPACE.",
+      "tags": ["empresas"]
+    }
+  ]
+}
