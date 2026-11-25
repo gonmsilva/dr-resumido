@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-25",
+  "overview": "Dia dominado por autorizações de despesa do Governo e por três acórdãos do Supremo Tribunal Administrativo. O mais relevante para os contribuintes: o Fisco pode liquidar impostos mesmo que a inspeção tenha ultrapassado o prazo máximo. Há ainda o reescalonamento da despesa da PPP do Hospital de Lisboa Oriental e a lista de imóveis militares a rentabilizar.",
+  "highlights": [
+    {
+      "id": "1197651249",
+      "headline": "Inspeção fiscal fora de prazo não trava a cobrança de imposto",
+      "explanation": "O Supremo Tribunal Administrativo uniformizou jurisprudência: ultrapassar o prazo máximo da inspeção tributária não afeta o direito do Fisco a liquidar os impostos com base nas conclusões do relatório final. Contribuintes e empresas deixam de poder invocar esse atraso para anular a liquidação.",
+      "tags": ["impostos", "justica", "empresas"],
+      "importance": "high"
+    },
+    {
+      "id": "1197651244",
+      "headline": "Hospital de Lisboa Oriental: despesa da PPP é reescalonada",
+      "explanation": "O Governo autoriza a redistribuição pelos anos da despesa associada ao contrato de gestão do complexo hospitalar do Hospital de Lisboa Oriental, em parceria público-privada. O sumário não indica os novos valores nem o calendário.",
+      "tags": ["saude", "infraestruturas", "impostos"],
+      "importance": "high"
+    },
+    {
+      "id": "1197996099",
+      "headline": "Aprovada a lista de imóveis militares a rentabilizar",
+      "explanation": "O Primeiro-Ministro aprova a lista dos imóveis afetos à defesa nacional que vão ser valorizados e rentabilizados ao abrigo da Lei de Infraestruturas Militares. O sumário não identifica os imóveis nem o destino a dar-lhes.",
+      "tags": ["habitacao", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1197651238",
+      "headline": "Terminal ferroviário da Guarda: mudam as regras da gestão pela APDL",
+      "explanation": "Um decreto-lei altera o diploma de 2022 que entregou à administração dos portos do Douro, Leixões e Viana do Castelo a gestão da infraestrutura ferroviária do terminal da Guarda, peça da ligação de mercadorias entre o interior e o porto de Leixões.",
+      "tags": ["infraestruturas", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1197651243",
+      "headline": "Pré-escolar: revista a despesa com contratos com privados e setor social",
+      "explanation": "O Governo altera a autorização de despesa para os apoios a estabelecimentos particulares, cooperativos e sociais de educação pré-escolar, que cobre os anos letivos de 2025/2026 a 2027/2028. O sumário não diz em que sentido mudam os montantes.",
+      "tags": ["educacao", "social"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1197651248", "note": "Supremo Tribunal Administrativo: a indemnização ao empreiteiro prevista no regime de 1999 das obras públicas exige que haja trabalhos executados, não basta existir contrato.", "tags": ["justica", "infraestruturas"] },
+    { "id": "1197651250", "note": "Supremo Tribunal Administrativo: ex-militares com acidente em serviço anterior a maio de 2000 e incapacidade diagnosticada depois podem pedir pensão de invalidez sem o prazo de caducidade de 10 anos.", "tags": ["social", "justica"] },
+    { "id": "1197651239", "note": "Alterada a programação de infraestruturas e equipamentos das forças de segurança para 2022-2026.", "tags": ["estado"] },
+    { "id": "1197651241", "note": "Força Aérea autorizada a comprar componentes para os motores dos F-16, com despesa em 2026 e 2027.", "tags": ["estado", "impostos"] },
+    { "id": "1197651245", "note": "Revista a autorização de despesa da modernização das viaturas blindadas Pandur II 8×8 do Exército.", "tags": ["estado", "impostos"] },
+    { "id": "1198074515", "note": "Palmela altera o articulado do Regulamento e Tabela de Taxas municipais.", "tags": ["impostos"] },
+    { "id": "1198074516", "note": "Palmela altera o regulamento de isenções e benefícios fiscais do município.", "tags": ["impostos"] },
+    { "id": "1198074502", "note": "Odivelas aprova o regulamento do Fundo Municipal de Emergência Empresarial.", "tags": ["empresas"] }
+  ]
+}
