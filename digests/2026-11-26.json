@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-26",
+  "overview": "Dia calmo na Série I, com quatro diplomas: o Governo cria o programa «Floresta Ativa» de apoio à gestão dos espaços florestais, devolve ao INE a produção das suas estatísticas oficiais e lança um programa de arquivos digitais para a comunicação social. Na Série II, fica definida a verba do Portugal Events para 2027 e 2028; o resto é sobretudo expediente e regulamentos locais.",
+  "highlights": [
+    {
+      "id": "1200778176",
+      "headline": "Nasce o programa «Floresta Ativa» para apoiar a gestão da floresta",
+      "explanation": "A portaria fixa as regras de aplicação do programa, que apoia a gestão e a manutenção ativa dos espaços florestais no continente. Interessa a proprietários e gestores florestais.",
+      "tags": ["energia", "empresas"],
+      "importance": "medium"
+    },
+    {
+      "id": "1200665673",
+      "headline": "Estatísticas oficiais voltam a ser produzidas e divulgadas pelo INE",
+      "explanation": "O decreto-lei reintegra no Instituto Nacional de Estatística a produção e a difusão das respetivas estatísticas oficiais.",
+      "tags": ["estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1200665674",
+      "headline": "Novo programa de arquivos digitais da imprensa e mais apoio às rádios atingidas pela tempestade «Kristin»",
+      "explanation": "O Governo cria o Programa Arquivos Digitais dos Órgãos de Comunicação Social, gerido pela VISAPRESS, e reforça o apoio às rádios afetadas pela tempestade.",
+      "tags": ["empresas", "estado"],
+      "importance": "medium"
+    },
+    {
+      "id": "1198074850",
+      "headline": "Definida a verba do Portugal Events para 2027 e 2028",
+      "explanation": "O despacho fixa a dotação global do sistema de incentivos que apoia a realização de eventos em Portugal nos próximos dois anos. Interessa a promotores de eventos e ao setor do turismo.",
+      "tags": ["empresas"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    { "id": "1198074852", "note": "Fixado o número de militares a admitir em 2026 nos regimes de voluntariado e de contrato das Forças Armadas.", "tags": ["estado", "trabalho"] },
+    { "id": "1200665203", "note": "A ASF publica os índices de atualização de capitais dos seguros de incêndio e elementos da natureza para apólices com início ou vencimento no primeiro trimestre de 2027.", "tags": ["banca", "habitacao"] },
+    { "id": "1200665175", "note": "Saúde prorroga o prazo de vigência dos contratos previstos no artigo 16.º do Decreto-Lei n.º 139/2013.", "tags": ["saude"] },
+    { "id": "1198074838", "note": "Declarada a extinção da Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social.", "tags": ["estado"] },
+    { "id": "1200665239", "note": "Aveiro inicia a alteração do Plano Diretor Municipal e abre o período de participação pública.", "tags": ["habitacao"] },
+    { "id": "1200665600", "note": "Silves consulta o mercado imobiliário para comprar 47 casas no âmbito da Estratégia Local de Habitação.", "tags": ["habitacao"] },
+    { "id": "1200665244", "note": "Barreiro põe em consulta pública alterações ao regulamento municipal de arrendamento acessível.", "tags": ["habitacao"] },
+    { "id": "1200665222", "note": "Portos de Aveiro e da Figueira da Foz propõem limitar o número de prestadores dos serviços de reboque e amarração; os interessados podem pronunciar-se.", "tags": ["infraestruturas", "empresas"] }
+  ]
+}
