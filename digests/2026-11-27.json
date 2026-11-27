@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-27",
+  "overview": "Dia calmo, sem legislação de peso. A Série I limita-se a retificações do Parlamento e à proteção de captações de água na Moita. Na Série II, Lisboa aprova o regulamento do concurso do Programa Menos Ruído, a Infraestruturas de Portugal reprograma os encargos da telemática da Linha do Algarve e o Governo cria um grupo de trabalho para apoiar crianças e jovens em casos de homicídio em violência doméstica.",
+  "highlights": [
+    {
+      "id": "1200901633",
+      "headline": "Lisboa aprova o regulamento do concurso do Programa Menos Ruído",
+      "explanation": "A Câmara de Lisboa aprovou as regras do concurso do Programa Menos Ruído para o concelho, previsto numa resolução do Conselho de Ministros de 2025, alterada em junho deste ano. O sumário não detalha os apoios nem quem se pode candidatar.",
+      "tags": ["habitacao", "energia"],
+      "importance": "medium"
+    },
+    {
+      "id": "1200822901",
+      "headline": "Linha do Algarve: encargos da telemática ferroviária são reprogramados",
+      "explanation": "A Infraestruturas de Portugal fica autorizada a redistribuir pelos anos os encargos dos contratos de conceção e construção da telemática ferroviária da Linha do Algarve, divididos em vários lotes.",
+      "tags": ["infraestruturas", "impostos"],
+      "importance": "medium"
+    },
+    {
+      "id": "1200822926",
+      "headline": "Grupo de trabalho para apoiar crianças em casos de homicídio em violência doméstica",
+      "explanation": "Seis ministérios criam um grupo de trabalho que vai propor um programa especializado de apoio a crianças e jovens em contexto de homicídio em violência doméstica, para aplicar em todo o país.",
+      "tags": ["social", "justica"],
+      "importance": "medium"
+    }
+  ],
+  "other": [
+    {
+      "id": "1200822900",
+      "note": "O IMPIC fixa os índices de custos de mão-de-obra do 3.º trimestre e de materiais de setembro, usados na revisão de preços das empreitadas.",
+      "tags": ["infraestruturas", "empresas"]
+    },
+    {
+      "id": "1200822902",
+      "note": "A Infraestruturas de Portugal pode repartir por vários anos os encargos da estabilização da plataforma rodoviária da EN374/EN374-2.",
+      "tags": ["infraestruturas", "impostos"]
+    },
+    {
+      "id": "1201131375",
+      "note": "Cinco portarias delimitam perímetros de proteção de captações de água subterrânea no concelho da Moita, a começar pelo polo de Moita/Gaio-Rosário/Sarilhos Pequenos.",
+      "tags": ["energia"]
+    },
+    {
+      "id": "1200901578",
+      "note": "A NOVA FCT autoriza compromissos plurianuais para a empreitada de construção do Edifício NOVA TechSphere e reabilitação do Edifício VI.",
+      "tags": ["educacao", "infraestruturas"]
+    },
+    {
+      "id": "1200901648",
+      "note": "Ponte de Sor põe em consulta pública a versão preliminar da sua Carta Municipal de Habitação.",
+      "tags": ["habitacao"]
+    },
+    {
+      "id": "1200901607",
+      "note": "Albergaria-a-Velha abre o procedimento da 19.ª alteração à revisão do Plano Diretor Municipal.",
+      "tags": ["habitacao"]
+    },
+    {
+      "id": "1200901656",
+      "note": "Sintra publica um anúncio sobre a operação de loteamento P554/2021.",
+      "tags": ["habitacao"]
+    },
+    {
+      "id": "1200822916",
+      "note": "A Defesa ajusta a participação nacional na Iniciativa Mar Aberto em 2026.",
+      "tags": ["estado"]
+    }
+  ]
+}
